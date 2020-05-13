@@ -1,0 +1,740 @@
+,names,country_of_origin,age,colour,sex,import_type,total_stakes,sire,dam,dam_sire,race_date,race_place,race_RC,race_track,race_distance,track_going,race_class,race_draw,rating,trainer,jockey,win_odds,actual_weight,declared_weight,finishing_position,race_index
+0,STAFFORDSHIRE (AK003),GB,,Bay , Gelding,SG,0,Song,Beamless,,27/09/1980,11,ST,Grass,1200,F,2,6,86,T C Cheng,Y P Chan,99,117,--,1.23.00,016
+1,STAFFORDSHIRE (AK003),GB,,Bay , Gelding,SG,0,Song,Beamless,,21/05/1980,09,ST,Sand,1050,NW,2,10,99,T C Cheng,Y P Chan,79,130,--,1.10.20,430
+2,STAFFORDSHIRE (AK003),GB,,Bay , Gelding,SG,0,Song,Beamless,,29/12/1979,10,HV,Grass,1235,F,2,6,104,T C Cheng,Y P Chan,98,135,--,1.15.60,162
+3,STAFFORDSHIRE (AK003),GB,,Bay , Gelding,SG,0,Song,Beamless,,01/12/1979,10,ST,Grass,1800,F,1,10,106,T C Cheng,Y P Chan,99,114,--,1.52.10,122
+4,STAFFORDSHIRE (AK003),GB,,Bay , Gelding,SG,0,Song,Beamless,,06/10/1979,10,HV,Grass,1235,F,1,11,107,T C Cheng,K C Lo,81,119,--,1.15.50,029
+5,MABUHAY (AK004),GB,,Bay , Gelding,SG,35420,Tribal Chief,Sparkling Pan,,13/10/1979,02,HV,Grass,1235,F,1,6,108,G Moore,G W Moore,3.5,120,--,1.12.80,042
+6,MABUHAY (AK004),GB,,Bay , Gelding,SG,35420,Tribal Chief,Sparkling Pan,,22/09/1979,02,HV,Grass,975,Y,1,12,104,G Moore,C H Cheong,24,109,--,0.58.50,004
+7,MAJESTIC (AK006),GB,,Bay , Gelding,SG,0,Astec,More Mahal,,15/12/1979,12,HV,Grass,1800,G,3,10,68,E Collingwood,C Roche,26,120,--,1.56.00,145
+8,MAJESTIC (AK006),GB,,Bay , Gelding,SG,0,Astec,More Mahal,,05/12/1979,08,HV,Sand,1575,NW,3,5,68,E Collingwood,C Roche,20,120,--,1.45.80,127
+9,MAJESTIC (AK006),GB,,Bay , Gelding,SG,0,Astec,More Mahal,,03/10/1979,10,HV,Sand,1575,NW,3,10,70,E Collingwood,W Hood,26,122,--,1.51.60,020
+10,MAJESTIC (AK006),GB,,Bay , Gelding,SG,0,Astec,More Mahal,,22/09/1979,08,HV,Grass,1650,Y,3,5,71,E Collingwood,W Hood,6.3,123,--,1.47.00,005
+11,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,30/04/1983,14,ST,"Grass""A""",1400,Y,1&2,10,84,E Collingwood,Y S Tsui,99,119,--,1.32.10,407
+12,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,13/04/1983,08,HV,"Grass""B""",1235,S,1&2,3,86,E Collingwood,Y S Tsui,17,121,--,1.18.10,374
+13,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,19/03/1983,09,ST,Sand,1150,NW,1&2,9,87,E Collingwood,Y S Tsui,70,114,--,1.13.40,316
+14,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,05/03/1983,08,ST,Sand,1050,NW,2,9,88,E Collingwood,Y S Tsui,70,119,--,1.06.30,298
+15,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,19/02/1983,02,HV,Sand,1030,NW,1&2,7,88,E Collingwood,Y S Tsui,7.6,117,--,1.05.00,270
+16,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,05/02/1983,13,ST,"Grass""A""",1200,GY,1&2,10,89,E Collingwood,Y S Tsui,99,116,--,1.15.70,248
+17,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,26/01/1983,05,ST,Sand,1050,NW,2,1,90,E Collingwood,P Paquet,30,126,--,1.06.10,229
+18,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,29/12/1982,03,HV,"Grass""A""",975,G,1&2,3,92,E Collingwood,P Paquet,4.2,127,--,0.58.40,177
+19,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,08/12/1982,05,HV,"Grass""A""",1235,G,1&2,10,92,E Collingwood,P Paquet,12,128,--,1.14.80,149
+20,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,27/11/1982,12,ST,"Grass""C""",1200,H,2,10,92,E Collingwood,P Paquet,18,128,--,1.20.60,135
+21,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,03/11/1982,04,HV,"Grass""B""",1235,G,1&2,4,92,E Collingwood,J K S Ho,6.9,117,--,1.13.70,092
+22,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,09/10/1982,09,ST,"Grass""A""",1000,GY,1&2,8,93,E Collingwood,J K S Ho,39,116,--,0.59.10,041
+23,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,22/05/1982,04,HV,"Grass""A""",1235,GF,2,4,104,E Collingwood,J K S Ho,7.3,133,--,1.14.50,443
+24,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,24/04/1982,07,ST,"Grass""A""",1000,H,2,9,104,E Collingwood,J K S Ho,19,133,--,1.00.40,389
+25,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,12/04/1982,01,HV,"Grass""B""",1235,G,1&2,1,99,E Collingwood,J K S Ho,3.4,124,--,1.13.20,366
+26,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,06/03/1982,03,ST,"Grass""C""",1200,Y,1&2,9,99,E Collingwood,J K S Ho,27,124,--,1.11.90,294
+27,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,06/02/1982,02,HV,"Grass""B""",1235,G,2,2,99,E Collingwood,J Lowe,5.8,135,--,1.14.90,233
+28,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,09/01/1982,10,ST,"Grass""A""",1200,GF,1&2,10,100,E Collingwood,J Lowe,19,129,--,1.13.30,199
+29,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,12/12/1981,03,HV,"Grass""A""",1235,F,1&2,6,101,E Collingwood,J Lowe,10,129,--,1.14.20,153
+30,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,31/10/1981,06,ST,"Grass""C""",1000,F,2,1,101,E Collingwood,W Hood,7.8,137,--,0.58.70,075
+31,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,10/10/1981,02,HV,"Grass""B""",1235,GY,2,5,98,E Collingwood,W Hood,21,134,--,1.13.50,039
+32,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,19/09/1981,09,HV,"Grass""A""",1235,GF,1&2,8,98,E Collingwood,W Hood,4.4,123,--,1.14.60,003
+33,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,16/05/1981,03,HV,Grass,1235,S,1,2,109,E Collingwood,W Hood,4.5,122,--,1.15.80,416
+34,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,04/04/1981,01,HV,Grass,1235,G,1&2,1,104,E Collingwood,W Hood,9.7,126,--,1.13.40,342
+35,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,01/01/1981,02,HV,Grass,1235,G,1&2,7,102,E Collingwood,W Hood,8.1,124,--,1.13.50,161
+36,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,29/11/1980,04,ST,Grass,1000,GF,1,10,102,E Collingwood,W Hood,5,116,--,0.58.00,108
+37,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,12/11/1980,04,ST,Sand,1150,NW,1,8,104,E Collingwood,W Hood,58,116,--,1.11.10,080
+38,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,11/10/1980,10,ST,Grass,1400,F,1&2,7,104,T L Lee,K Langby,5.2,129,--,1.25.20,033
+39,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,21/09/1980,05,ST,Grass,1200,F,1,8,104,T L Lee,K L Tsui,65,111,--,1.10.80,004
+40,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,24/05/1980,04,ST,Grass,1000,G,1&2,4,114,T L Lee,M C Tam,12,123,--,0.57.20,437
+41,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,03/05/1980,08,ST,Grass,1200,Y,1&2,4,112,T L Lee,M C Tam,7.4,130,--,1.14.80,400
+42,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,19/04/1980,02,ST,Grass,1000,F,1&2,2,108,T L Lee,M C Tam,6.9,125,--,0.57.10,367
+43,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,09/03/1980,11,ST,Grass,1400,GY,1,4,113,T L Lee,M C Tam,71,116,--,1.25.50,308
+44,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,19/02/1980,09,HV,Grass,1235,G,1,4,114,T L Lee,M C Tam,12,121,--,1.15.30,261
+45,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,15/12/1979,01,HV,Grass,1650,G,1,8,110,T L Lee,M C Tam,10,119,--,1.39.90,151
+46,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,17/11/1979,04,ST,Grass,1400,F,1,3,112,T L Lee,R Setches,14,121,--,1.23.50,098
+47,DOUBLE V (AK012),GB,,Brown , Gelding,SG,378130,Polyfoto,Belle Of Sark,,22/09/1979,08,HV,Grass,975,Y,1,9,114,T L Lee,W Hood,20,126,--,1.00.60,004
+48,TSAREVITCH (AK043),AUS,,Chestnut , Gelding,SG,88480,My Kingdom,Royal Sound,,21/03/1981,07,ST,Grass,1800,GY,5,8,36,N Metervelli,F S Cheung,12,113,--,1.54.00,319
+49,TSAREVITCH (AK043),AUS,,Chestnut , Gelding,SG,88480,My Kingdom,Royal Sound,,21/02/1981,04,HV,Grass,1800,G,5,10,38,N Metervelli,P Leyshan,12,122,--,1.53.90,264
+50,TSAREVITCH (AK043),AUS,,Chestnut , Gelding,SG,88480,My Kingdom,Royal Sound,,07/02/1981,04,HV,Grass,1650,GF,5,2,39,N Metervelli,P Leyshan,14,123,--,1.43.60,238
+51,TSAREVITCH (AK043),AUS,,Chestnut , Gelding,SG,88480,My Kingdom,Royal Sound,,17/01/1981,08,ST,Grass,1400,F,5,3,42,N Metervelli,P Leyshan,47,126,--,1.26.20,198
+52,TSAREVITCH (AK043),AUS,,Chestnut , Gelding,SG,88480,My Kingdom,Royal Sound,,07/01/1981,07,HV,Grass,1235,F,5,3,44,N Metervelli,P Leyshan,12,128,--,1.16.30,177
+53,TSAREVITCH (AK043),AUS,,Chestnut , Gelding,SG,88480,My Kingdom,Royal Sound,,19/11/1980,07,ST,Sand,1650,RA,5,9,47,N Metervelli,K L Tsui,26,126,--,1.49.00,094
+54,TSAREVITCH (AK043),AUS,,Chestnut , Gelding,SG,88480,My Kingdom,Royal Sound,,01/11/1980,08,ST,Grass,1400,F,5,14,48,N Metervelli,K L Tsui,21,127,--,1.25.50,069
+55,TSAREVITCH (AK043),AUS,,Chestnut , Gelding,SG,88480,My Kingdom,Royal Sound,,21/09/1980,12,ST,Grass,1600,F,5,13,49,N Metervelli,R Setches,79,133,--,1.40.40,003
+56,TSAREVITCH (AK043),AUS,,Chestnut , Gelding,SG,88480,My Kingdom,Royal Sound,,10/05/1980,08,ST,Grass,1600,G,4,8,59,G Sofronoff,F S Cheung,11,120,--,1.41.10,419
+57,TSAREVITCH (AK043),AUS,,Chestnut , Gelding,SG,88480,My Kingdom,Royal Sound,,03/05/1980,02,ST,Grass,1800,H,4,3,56,G Sofronoff,K L Tsui,19,119,--,1.56.60,404
+58,TSAREVITCH (AK043),AUS,,Chestnut , Gelding,SG,88480,My Kingdom,Royal Sound,,21/04/1980,10,ST,Grass,1600,GF,4,7,58,G Sofronoff,A S Cruz,13,126,--,1.39.60,380
+59,TSAREVITCH (AK043),AUS,,Chestnut , Gelding,SG,88480,My Kingdom,Royal Sound,,08/03/1980,06,ST,Grass,1400,GY,4,11,61,G Sofronoff,P Leyshan,19,129,--,1.27.60,299
+60,TSAREVITCH (AK043),AUS,,Chestnut , Gelding,SG,88480,My Kingdom,Royal Sound,,09/02/1980,03,HV,Grass,1650,S,4,5,61,G Sofronoff,P Leyshan,11,129,--,1.49.50,255
+61,TSAREVITCH (AK043),AUS,,Chestnut , Gelding,SG,88480,My Kingdom,Royal Sound,,09/01/1980,04,HV,Sand,1575,NW,4,2,62,G Sofronoff,K W Lui,5.9,127,--,1.45.50,190
+62,TSAREVITCH (AK043),AUS,,Chestnut , Gelding,SG,88480,My Kingdom,Royal Sound,,01/01/1980,01,HV,Grass,1650,F,4,6,55,G Sofronoff,P Leyshan,6.2,123,--,1.42.30,174
+63,TSAREVITCH (AK043),AUS,,Chestnut , Gelding,SG,88480,My Kingdom,Royal Sound,,14/11/1979,03,HV,Sand,1575,NW,4,2,55,G Sofronoff,B Andrews,4.1,123,--,1.46.00,096
+64,TSAREVITCH (AK043),AUS,,Chestnut , Gelding,SG,88480,My Kingdom,Royal Sound,,27/10/1979,03,HV,Grass,1800,F,4,12,54,G Sofronoff,T O Lau,30,122,--,1.53.40,068
+65,TSAREVITCH (AK043),AUS,,Chestnut , Gelding,SG,88480,My Kingdom,Royal Sound,,13/10/1979,05,HV,Grass,1650,F,4,11,55,G Sofronoff,P Leyshan,27,123,--,1.42.60,043
+66,TSAREVITCH (AK043),AUS,,Chestnut , Gelding,SG,88480,My Kingdom,Royal Sound,,22/09/1979,06,HV,Grass,1650,Y,4,4,56,G Sofronoff,P Leyshan,16,124,--,1.47.50,006
+67,ALL BRILLIANT (AK061),NZ,,Brown , Gelding,SG,55570,As Before,Squeakels,,20/12/1980,07,HV,Grass,1800,F,7,9,19,T C Cheng,B Taylor,6.7,135,--,1.54.00,146
+68,ALL BRILLIANT (AK061),NZ,,Brown , Gelding,SG,55570,As Before,Squeakels,,01/11/1980,03,ST,Grass,1200,GF,7,6,17,T C Cheng,Y P Chan,3.5,128,--,1.13.30,065
+69,ALL BRILLIANT (AK061),NZ,,Brown , Gelding,SG,55570,As Before,Squeakels,,04/10/1980,04,ST,Grass,1000,F,7,5,17,T C Cheng,Y P Chan,78,128,--,1.00.30,023
+70,ALL BRILLIANT (AK061),NZ,,Brown , Gelding,SG,55570,As Before,Squeakels,,01/03/1980,07,ST,Grass,1400,G,6,5,32,T C Cheng,Y P Chan,36,129,--,1.27.80,282
+71,ALL BRILLIANT (AK061),NZ,,Brown , Gelding,SG,55570,As Before,Squeakels,,24/11/1979,01,ST,Grass,1200,GF,6,4,26,T C Cheng,B Taylor,4.1,126,--,1.13.60,112
+72,ALL BRILLIANT (AK061),NZ,,Brown , Gelding,SG,55570,As Before,Squeakels,,04/11/1979,05,ST,Grass,1400,Y,6,10,27,T C Cheng,K W Lui,5.9,124,--,1.28.60,080
+73,ALL BRILLIANT (AK061),NZ,,Brown , Gelding,SG,55570,As Before,Squeakels,,20/10/1979,03,HV,Grass,1650,F,6,10,25,T C Cheng,Y P Chan,27,120,--,1.43.70,048
+74,VICTORIOUS II (AK071),AUS,,Grey , Gelding,SG,90970,Don Juan,More Profit,,17/04/1982,02,ST,"Grass""A""",1200,F,6,1,36,G Moore,G W Moore,6.7,136,--,1.12.10,374
+75,VICTORIOUS II (AK071),AUS,,Grey , Gelding,SG,90970,Don Juan,More Profit,,10/03/1982,04,HV,Sand,1030,RA,5,6,35,G Moore,K L Man,29,119,--,1.07.60,304
+76,VICTORIOUS II (AK071),AUS,,Grey , Gelding,SG,90970,Don Juan,More Profit,,28/02/1982,11,ST,"Grass""A""",1000,Y,5,6,37,G Moore,K L Man,67,121,--,1.03.30,289
+77,VICTORIOUS II (AK071),AUS,,Grey , Gelding,SG,90970,Don Juan,More Profit,,05/12/1981,06,ST,"Grass""A""",1400,GF,5,13,38,G Moore,G W Moore,9.6,122,--,1.25.70,138
+78,VICTORIOUS II (AK071),AUS,,Grey , Gelding,SG,90970,Don Juan,More Profit,,31/10/1981,03,ST,"Grass""C""",1200,F,5,2,38,G Moore,W Burnett,21,122,--,1.12.40,080
+79,VICTORIOUS II (AK071),AUS,,Grey , Gelding,SG,90970,Don Juan,More Profit,,14/03/1981,05,ST,Grass,1200,GF,5,7,50,G Moore,R Wernham,99,134,--,1.12.80,300
+80,VICTORIOUS II (AK071),AUS,,Grey , Gelding,SG,90970,Don Juan,More Profit,,21/02/1981,09,HV,Grass,1800,G,5,3,50,G Moore,G W Moore,41,134,--,1.54.70,267
+81,VICTORIOUS II (AK071),AUS,,Grey , Gelding,SG,90970,Don Juan,More Profit,,24/01/1981,08,ST,Grass,1200,F,4,1,48,G Moore,S Morris,26,111,--,1.13.60,211
+82,VICTORIOUS II (AK071),AUS,,Grey , Gelding,SG,90970,Don Juan,More Profit,,01/01/1981,07,HV,Grass,1800,G,4,10,49,G Moore,N Smith,99,118,--,1.53.20,166
+83,VICTORIOUS II (AK071),AUS,,Grey , Gelding,SG,90970,Don Juan,More Profit,,20/12/1980,07,HV,Grass,1650,F,4,7,52,G Moore,N Smith,99,120,--,1.43.70,141
+84,VICTORIOUS II (AK071),AUS,,Grey , Gelding,SG,90970,Don Juan,More Profit,,29/11/1980,09,ST,Grass,1400,GF,4,6,55,G Moore,J K S Ho,99,116,--,1.27.00,109
+85,VICTORIOUS II (AK071),AUS,,Grey , Gelding,SG,90970,Don Juan,More Profit,,16/11/1980,11,ST,Grass,1200,GF,4,6,56,G Moore,N Smith,99,124,--,1.14.20,092
+86,VICTORIOUS II (AK071),AUS,,Grey , Gelding,SG,90970,Don Juan,More Profit,,10/05/1980,07,ST,Grass,1600,G,4,2,67,G Moore,C H Cheong,99,128,--,1.40.10,419
+87,VICTORIOUS II (AK071),AUS,,Grey , Gelding,SG,90970,Don Juan,More Profit,,16/04/1980,08,ST,Sand,1650,NW,4,11,67,G Moore,C H Cheong,99,128,--,1.51.90,359
+88,VICTORIOUS II (AK071),AUS,,Grey , Gelding,SG,90970,Don Juan,More Profit,,23/02/1980,07,ST,Grass,1200,GY,4,9,70,G Moore,Y K Ip,99,138,--,1.14.30,271
+89,VICTORIOUS II (AK071),AUS,,Grey , Gelding,SG,90970,Don Juan,More Profit,,09/02/1980,08,HV,Grass,1650,S,4,1,70,G Moore,G W Moore,39,138,--,1.51.70,252
+90,VICTORIOUS II (AK071),AUS,,Grey , Gelding,SG,90970,Don Juan,More Profit,,16/01/1980,08,HV,Sand,1400,NW,4,6,71,G Moore,P Paquet,28,139,--,1.34.50,199
+91,VICTORIOUS II (AK071),AUS,,Grey , Gelding,SG,90970,Don Juan,More Profit,,12/12/1979,07,HV,Sand,1030,NW,4,2,72,G Moore,G W Moore,7.2,140,--,1.08.10,139
+92,VICTORIOUS II (AK071),AUS,,Grey , Gelding,SG,90970,Don Juan,More Profit,,20/10/1979,02,HV,Grass,1235,F,4,6,72,G Moore,G W Moore,1.6,140,--,1.15.00,054
+93,VICTORIOUS II (AK071),AUS,,Grey , Gelding,SG,90970,Don Juan,More Profit,,22/09/1979,01,HV,Grass,1235,Y,4,2,63,G Moore,G W Moore,3.4,131,--,1.17.40,001
+94,WISDOM (AK079),AUS,,Chestnut , Gelding,SG,66510,True Mist,Silver Devi,,15/11/1981,09,ST,"Grass""C""",1600,GF,7,6,12,B Hutchison,W Burnett,99,128,--,1.42.10,100
+95,WISDOM (AK079),AUS,,Chestnut , Gelding,SG,66510,True Mist,Silver Devi,,21/10/1981,10,HV,"Grass""B""",1235,GF,7,6,13,B Hutchison,W Burnett,9.1,129,--,1.17.30,058
+96,WISDOM (AK079),AUS,,Chestnut , Gelding,SG,66510,True Mist,Silver Devi,,02/05/1981,04,ST,Grass,1200,GF,6,6,21,P Supple,G Hall,5.2,121,--,1.13.00,395
+97,WISDOM (AK079),AUS,,Chestnut , Gelding,SG,66510,True Mist,Silver Devi,,11/04/1981,10,HV,Grass,1650,G,6,5,22,P Supple,W Burnett,31,122,--,1.45.90,353
+98,WISDOM (AK079),AUS,,Chestnut , Gelding,SG,66510,True Mist,Silver Devi,,28/03/1981,05,ST,Grass,1400,GY,6,11,22,P Supple,G Hall,99,122,--,1.26.20,331
+99,WISDOM (AK079),AUS,,Chestnut , Gelding,SG,66510,True Mist,Silver Devi,,18/02/1981,10,HV,Grass,1235,Y,6,4,26,P Supple,W Burnett,13,126,--,1.17.30,260
+100,WISDOM (AK079),AUS,,Chestnut , Gelding,SG,66510,True Mist,Silver Devi,,11/02/1981,07,HV,Grass,1800,GF,6,4,26,P Supple,W Burnett,99,126,--,1.56.20,245
+101,WISDOM (AK079),AUS,,Chestnut , Gelding,SG,66510,True Mist,Silver Devi,,17/01/1981,08,ST,Grass,1000,F,6,3,27,P Supple,Y C Chan,14,120,--,1.00.80,196
+102,WISDOM (AK079),AUS,,Chestnut , Gelding,SG,66510,True Mist,Silver Devi,,20/12/1980,10,HV,Grass,1235,F,6,9,29,P Supple,W Burnett,11,129,--,1.17.00,145
+103,WISDOM (AK079),AUS,,Chestnut , Gelding,SG,66510,True Mist,Silver Devi,,19/11/1980,06,ST,Sand,1050,RA,6,1,31,P Supple,W Burnett,9.7,131,--,1.06.10,097
+104,WISDOM (AK079),AUS,,Chestnut , Gelding,SG,66510,True Mist,Silver Devi,,27/09/1980,13,ST,Grass,1000,F,6,12,32,P Supple,W Burnett,7.3,132,--,1.01.40,011
+105,WISDOM (AK079),AUS,,Chestnut , Gelding,SG,66510,True Mist,Silver Devi,,22/03/1980,02,ST,Grass,1200,G,5,8,42,P Supple,W Burnett,16,126,--,1.13.00,335
+106,WISDOM (AK079),AUS,,Chestnut , Gelding,SG,66510,True Mist,Silver Devi,,02/02/1980,01,HV,Grass,1235,H,6,1,34,P Supple,W Burnett,9.6,134,--,1.20.90,237
+107,WISDOM (AK079),AUS,,Chestnut , Gelding,SG,66510,True Mist,Silver Devi,,29/12/1979,02,HV,Grass,1235,F,6,9,32,P Supple,W Burnett,87,132,--,1.16.80,164
+108,WISDOM (AK079),AUS,,Chestnut , Gelding,SG,66510,True Mist,Silver Devi,,24/11/1979,09,ST,Grass,1200,GF,6,8,34,P Supple,L Fox,63,134,--,1.15.50,112
+109,WISDOM (AK079),AUS,,Chestnut , Gelding,SG,66510,True Mist,Silver Devi,,20/10/1979,06,HV,Grass,975,F,6,12,36,P Supple,W Burnett,17,136,--,0.59.90,055
+110,JET ELEPHANT (AK088),NZ,,Brown , Gelding,SG,34810,Beau Fair,Bronbridge,,30/04/1980,05,ST,Sand,1650,NW,6,2,31,H M Cheung,R Staples,6,131,--,1.50.60,393
+111,JET ELEPHANT (AK088),NZ,,Brown , Gelding,SG,34810,Beau Fair,Bronbridge,,09/04/1980,01,ST,Sand,1650,NW,6,6,22,H M Cheung,R Staples,5.3,122,--,1.49.50,343
+112,JET ELEPHANT (AK088),NZ,,Brown , Gelding,SG,34810,Beau Fair,Bronbridge,,09/03/1980,08,ST,Grass,2000,GY,6,3,24,H M Cheung,W T Leung,17,124,--,2.08.80,312
+113,JET ELEPHANT (AK088),NZ,,Brown , Gelding,SG,34810,Beau Fair,Bronbridge,,29/12/1979,05,HV,Grass,1800,F,6,3,26,H M Cheung,W T Leung,6.5,126,--,1.53.80,166
+114,JET ELEPHANT (AK088),NZ,,Brown , Gelding,SG,34810,Beau Fair,Bronbridge,,24/11/1979,05,ST,Grass,2050,GF,6,7,27,H M Cheung,W T Leung,7.4,127,--,2.12.10,110
+115,JET ELEPHANT (AK088),NZ,,Brown , Gelding,SG,34810,Beau Fair,Bronbridge,,04/11/1979,05,ST,Grass,1400,Y,6,4,29,H M Cheung,R Staples,7.2,129,--,1.30.70,083
+116,JET ELEPHANT (AK088),NZ,,Brown , Gelding,SG,34810,Beau Fair,Bronbridge,,20/10/1979,09,HV,Grass,1650,F,6,9,32,H M Cheung,C S Shum,4.4,125,--,1.45.80,048
+117,UNITED STAR (AK092),NZ,,Bay , Gelding,SG,75290,Resurgent,Rosander,,09/03/1983,04,HV,Sand,2000,NW,7,3,3,T C Cheng,K L Tsui,8.3,119,--,2.19.30,312
+118,UNITED STAR (AK092),NZ,,Bay , Gelding,SG,75290,Resurgent,Rosander,,23/01/1983,07,ST,"Grass""C""",1800,GY,7,6,7,T C Cheng,K L Tsui,5.5,123,--,1.57.00,221
+119,UNITED STAR (AK092),NZ,,Bay , Gelding,SG,75290,Resurgent,Rosander,,17/11/1982,03,ST,Sand,1650,NW,7,6,8,T C Cheng,K L Tsui,65,124,--,1.50.80,112
+120,UNITED STAR (AK092),NZ,,Bay , Gelding,SG,75290,Resurgent,Rosander,,27/10/1982,07,HV,Sand,1575,RA,7,4,9,T C Cheng,K L Tsui,18,125,--,1.47.00,076
+121,UNITED STAR (AK092),NZ,,Bay , Gelding,SG,75290,Resurgent,Rosander,,13/10/1982,08,HV,"Grass""A""",1650,G,7,7,11,T C Cheng,C M Cheng,21,122,--,1.46.20,048
+122,UNITED STAR (AK092),NZ,,Bay , Gelding,SG,75290,Resurgent,Rosander,,02/10/1982,05,HV,Sand,1575,NW,7,4,11,T C Cheng,K S Ho,17,127,--,1.47.20,035
+123,UNITED STAR (AK092),NZ,,Bay , Gelding,SG,75290,Resurgent,Rosander,,19/05/1982,10,HV,"Grass""A""",2230,GF,6,4,17,A Chan,T O Lau,8,117,--,--,433
+124,UNITED STAR (AK092),NZ,,Bay , Gelding,SG,75290,Resurgent,Rosander,,06/03/1982,10,ST,"Grass""C""",1600,Y,6,6,19,A Chan,T O Lau,7.7,119,--,1.42.80,298
+125,UNITED STAR (AK092),NZ,,Bay , Gelding,SG,75290,Resurgent,Rosander,,06/02/1982,02,HV,"Grass""B""",1800,G,6,8,18,A Chan,Y S Wong,13,113,--,1.56.70,237
+126,UNITED STAR (AK092),NZ,,Bay , Gelding,SG,75290,Resurgent,Rosander,,01/01/1982,03,HV,"Grass""B""",2230,GF,6,10,18,A Chan,T O Lau,83,118,--,2.26.40,175
+127,UNITED STAR (AK092),NZ,,Bay , Gelding,SG,75290,Resurgent,Rosander,,02/12/1981,08,HV,"Grass""A""",1650,F,6,2,22,A Chan,T O Lau,55,122,--,1.47.10,128
+128,UNITED STAR (AK092),NZ,,Bay , Gelding,SG,75290,Resurgent,Rosander,,30/09/1981,05,HV,Sand,1400,NW,6,1,23,A Chan,T O Lau,12,123,--,1.35.70,022
+129,UNITED STAR (AK092),NZ,,Bay , Gelding,SG,75290,Resurgent,Rosander,,29/04/1981,05,HV,Sand,1575,RA,5,2,37,A Chan,T O Lau,2.4,121,--,1.49.40,390
+130,UNITED STAR (AK092),NZ,,Bay , Gelding,SG,75290,Resurgent,Rosander,,20/04/1981,03,HV,Grass,1650,Y,5,3,37,A Chan,T O Lau,18,121,--,1.46.90,377
+131,UNITED STAR (AK092),NZ,,Bay , Gelding,SG,75290,Resurgent,Rosander,,04/03/1981,08,HV,Sand,1575,NW,5,5,42,A Chan,K S Ho,7.7,126,--,1.46.90,286
+132,UNITED STAR (AK092),NZ,,Bay , Gelding,SG,75290,Resurgent,Rosander,,07/02/1981,07,HV,Grass,1650,GF,5,5,42,A Chan,S M Yung,74,119,--,1.45.00,233
+133,UNITED STAR (AK092),NZ,,Bay , Gelding,SG,75290,Resurgent,Rosander,,17/01/1981,11,ST,Grass,1400,F,5,9,44,A Chan,S M Yung,99,121,--,1.26.60,198
+134,UNITED STAR (AK092),NZ,,Bay , Gelding,SG,75290,Resurgent,Rosander,,29/11/1980,13,ST,Grass,1400,GF,5,11,46,A Chan,J Bleasdale,99,130,--,1.28.50,112
+135,UNITED STAR (AK092),NZ,,Bay , Gelding,SG,75290,Resurgent,Rosander,,01/11/1980,11,ST,Grass,1400,F,5,12,47,A Chan,S M Yung,99,124,--,1.25.90,069
+136,UNITED STAR (AK092),NZ,,Bay , Gelding,SG,75290,Resurgent,Rosander,,09/02/1980,09,HV,Grass,1650,S,4,4,57,A Chan,T O Lau,12,125,--,1.51.60,257
+137,UNITED STAR (AK092),NZ,,Bay , Gelding,SG,75290,Resurgent,Rosander,,09/01/1980,02,HV,Sand,1575,NW,4,9,55,A Chan,T O Lau,5.4,123,--,1.43.10,187
+138,UNITED STAR (AK092),NZ,,Bay , Gelding,SG,75290,Resurgent,Rosander,,29/12/1979,07,HV,Grass,2230,F,4,11,57,A Chan,T O Lau,46,125,--,2.22.70,160
+139,UNITED STAR (AK092),NZ,,Bay , Gelding,SG,75290,Resurgent,Rosander,,14/11/1979,06,HV,Sand,1400,NW,4,3,58,A Chan,K S Ho,9.7,126,--,1.35.40,092
+140,UNITED STAR (AK092),NZ,,Bay , Gelding,SG,75290,Resurgent,Rosander,,22/09/1979,09,HV,Grass,1650,Y,4,7,60,A Chan,T O Lau,45,128,--,1.48.00,006
+141,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,02/05/1984,06,HV,Sand,1400,NW,7,8,--,G Moore,G W Moore,4,126,--,1.34.10,424
+142,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,11/04/1984,02,HV,"Grass""B""",2230,G,7,6,16,G Moore,G W Moore,5.2,132,--,2.29.60,379
+143,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,21/03/1984,12,ST,Sand,1800,RA,7,5,18,G Moore,G W Moore,6.2,134,--,2.06.70,343
+144,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,10/12/1983,03,ST,"Grass""A""",1800,F,7,8,18,G Moore,G W Moore,6.6,134,--,1.52.90,169
+145,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,20/11/1983,08,ST,"Grass""C""",1600,F,7,4,19,G Moore,G W Moore,5.5,135,--,1.39.70,129
+146,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,29/10/1983,01,HV,"Grass""A""",1800,GF,7,5,12,G Moore,G W Moore,8.7,128,--,1.53.70,085
+147,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,20/09/1983,02,HV,Sand,1575,RA,7,5,11,G Moore,G W Moore,5.4,127,--,1.48.40,011
+148,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,04/05/1983,07,HV,Sand,1575,NW,6,6,16,G Moore,J K S Ho,60,111,--,1.46.70,414
+149,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,16/04/1983,11,ST,"Grass""A""",2000,G,6,9,18,G Moore,J K S Ho,26,113,--,2.11.20,379
+150,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,23/03/1983,09,ST,Sand,1650,NW,6,3,21,G Moore,J K S Ho,16,116,--,1.51.70,325
+151,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,26/01/1983,05,ST,Sand,2000,NW,6,4,24,G Moore,G W Moore,10,124,--,2.15.70,225
+152,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,08/12/1982,03,HV,"Grass""A""",2230,G,6,12,24,G Moore,G W Moore,19,124,--,2.23.10,145
+153,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,13/11/1982,08,ST,"Grass""C""",1600,G,6,6,26,G Moore,S Morris,99,123,--,1.40.70,103
+154,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,03/11/1982,07,HV,"Grass""B""",2230,G,6,4,27,G Moore,K L Man,94,127,--,2.27.40,093
+155,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,02/10/1982,09,HV,Sand,1400,NW,6,4,27,G Moore,G W Moore,8,127,--,1.34.40,032
+156,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,01/05/1982,06,ST,"Grass""C""",1800,H,6,9,35,G Moore,G W Moore,13,135,--,2.01.20,408
+157,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,10/04/1982,11,HV,"Grass""B""",2230,GF,5,6,33,G Moore,K L Man,94,117,--,2.28.60,359
+158,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,10/03/1982,08,HV,Sand,1575,RA,5,6,37,G Moore,G W Moore,6.1,121,--,1.46.80,300
+159,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,13/02/1982,08,HV,"Grass""A""",2230,GY,5,4,37,G Moore,J K S Ho,99,114,--,2.25.60,250
+160,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,13/01/1982,04,ST,Sand,1650,RA,5,1,37,G Moore,J K S Ho,27,114,--,1.49.60,200
+161,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,25/11/1981,06,ST,Sand,1650,NW,5,4,40,G Moore,G W Moore,7.6,124,--,1.49.40,119
+162,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,28/10/1981,08,ST,Sand,1800,NW,5,7,42,G Moore,P Leyshan,15,126,--,2.01.20,068
+163,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,17/10/1981,05,HV,"Grass""B""",1650,GF,5,1,42,G Moore,G W Moore,16,126,--,1.43.50,045
+164,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,30/09/1981,02,HV,Sand,1575,NW,5,5,41,G Moore,G W Moore,11,125,--,1.44.70,019
+165,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,19/09/1981,09,HV,"Grass""A""",1650,GF,5,8,41,G Moore,J K S Ho,56,118,--,1.44.50,007
+166,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,30/05/1981,03,HV,Grass,1800,F,5,7,50,G Moore,J K S Ho,88,127,--,1.53.60,446
+167,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,13/05/1981,05,HV,Sand,1400,RA,5,1,52,G Moore,G W Moore,4.2,136,--,1.33.80,412
+168,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,21/03/1981,11,ST,Grass,1800,GY,5,7,54,G Moore,J K S Ho,21,131,--,1.55.00,319
+169,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,07/03/1981,07,ST,Grass,2450,F,5,6,54,G Moore,G W Moore,13,138,--,2.37.60,292
+170,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,21/02/1981,02,HV,Grass,1800,G,5,5,51,G Moore,G W Moore,35,135,--,1.53.20,264
+171,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,07/02/1981,06,HV,Grass,1650,GF,5,8,52,G Moore,G W Moore,18,136,--,1.43.90,238
+172,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,17/01/1981,09,ST,Grass,1400,F,5,1,53,G Moore,G W Moore,29,134,--,1.26.30,198
+173,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,23/12/1980,01,HV,Grass,1650,F,5,4,47,G Moore,G W Moore,4.7,131,--,1.43.10,153
+174,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,13/12/1980,06,HV,Grass,1235,F,5,7,49,G Moore,G W Moore,11,133,--,1.16.00,128
+175,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,19/11/1980,07,ST,Sand,1650,RA,5,9,51,G Moore,G W Moore,9,135,--,1.51.00,098
+176,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,21/09/1980,03,ST,Grass,1600,F,5,8,48,G Moore,G W Moore,14,132,--,1.37.50,007
+177,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,10/05/1980,06,ST,Grass,1600,Y,4,5,57,G Moore,G W Moore,16,125,--,1.39.60,415
+178,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,27/04/1980,03,ST,Grass,1400,Y,4,3,57,G Moore,G W Moore,4,125,--,1.27.20,383
+179,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,09/04/1980,13,ST,Sand,1650,NW,4,6,59,G Moore,G W Moore,13,127,--,1.52.20,347
+180,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,23/02/1980,11,ST,Grass,1200,GY,4,3,59,G Moore,G W Moore,13,127,--,1.15.10,275
+181,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,09/02/1980,01,HV,Grass,1650,S,4,7,52,G Moore,G W Moore,12,120,--,1.49.00,255
+182,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,09/01/1980,04,HV,Sand,1575,NW,4,8,55,G Moore,G W Moore,20,123,--,1.44.30,187
+183,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,05/12/1979,09,HV,Sand,1400,NW,4,1,56,G Moore,G W Moore,2.7,124,--,1.34.90,128
+184,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,21/11/1979,03,HV,Sand,1400,NW,4,3,55,G Moore,G W Moore,4,123,--,1.33.60,109
+185,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,20/10/1979,10,HV,Grass,1235,F,4,11,56,G Moore,P Leyshan,99,124,--,1.16.80,054
+186,CASTLEREAGH (AK093),AUS,,Grey , Gelding,SG,300520,Bunratty Castle,Chocolate Souffle,,06/10/1979,07,HV,Grass,975,F,4,1,56,G Moore,C H Cheong,99,117,--,1.00.00,027
+187,WEI WEI (AK094),AUS,,Bay , Gelding,SG,94120,Sky Peal,Lady Nautilus,,07/01/1981,05,HV,Grass,1235,F,5,8,52,C L Ng,A S Cruz,15,136,--,1.16.00,177
+188,WEI WEI (AK094),AUS,,Bay , Gelding,SG,94120,Sky Peal,Lady Nautilus,,23/12/1980,01,HV,Grass,1650,F,5,5,45,C L Ng,A S Cruz,5.4,129,--,1.42.90,149
+189,WEI WEI (AK094),AUS,,Bay , Gelding,SG,94120,Sky Peal,Lady Nautilus,,19/11/1980,08,ST,Sand,1650,RA,5,13,48,C L Ng,Y K Lau,7.7,132,--,1.49.10,094
+190,WEI WEI (AK094),AUS,,Bay , Gelding,SG,94120,Sky Peal,Lady Nautilus,,04/10/1980,10,ST,Grass,1800,F,5,7,49,C L Ng,Y K Lau,99,133,--,1.52.40,027
+191,WEI WEI (AK094),AUS,,Bay , Gelding,SG,94120,Sky Peal,Lady Nautilus,,21/09/1980,08,ST,Grass,1600,F,5,5,49,C L Ng,Y K Lau,91,133,--,1.38.50,003
+192,WEI WEI (AK094),AUS,,Bay , Gelding,SG,94120,Sky Peal,Lady Nautilus,,28/05/1980,05,ST,Sand,1650,NW,4,1,58,C L Ng,A K Cheam,3.2,126,--,1.49.30,443
+193,WEI WEI (AK094),AUS,,Bay , Gelding,SG,94120,Sky Peal,Lady Nautilus,,10/05/1980,03,ST,Grass,1600,Y,4,7,57,C L Ng,A K Cheam,57,125,--,1.39.40,415
+194,WEI WEI (AK094),AUS,,Bay , Gelding,SG,94120,Sky Peal,Lady Nautilus,,09/04/1980,06,ST,Sand,1650,NW,4,3,60,C L Ng,A K Cheam,12,128,--,1.49.60,347
+195,WEI WEI (AK094),AUS,,Bay , Gelding,SG,94120,Sky Peal,Lady Nautilus,,23/02/1980,08,ST,Grass,1200,GY,4,4,60,C L Ng,C C Nam,84,121,--,1.14.60,275
+196,WEI WEI (AK094),AUS,,Bay , Gelding,SG,94120,Sky Peal,Lady Nautilus,,09/02/1980,05,HV,Grass,1650,S,4,7,60,C L Ng,Y K Lau,18,128,--,1.50.50,257
+197,WEI WEI (AK094),AUS,,Bay , Gelding,SG,94120,Sky Peal,Lady Nautilus,,19/01/1980,05,ST,Grass,1000,F,4,8,62,C L Ng,Y K Lau,96,130,--,1.00.60,205
+198,WEI WEI (AK094),AUS,,Bay , Gelding,SG,94120,Sky Peal,Lady Nautilus,,01/01/1980,08,HV,Grass,1650,F,4,11,63,C L Ng,Y K Lau,15,131,--,1.43.10,174
+199,WEI WEI (AK094),AUS,,Bay , Gelding,SG,94120,Sky Peal,Lady Nautilus,,12/12/1979,04,HV,Sand,1575,NW,4,10,64,C L Ng,Y K Lau,12,132,--,1.44.60,137
+200,WEI WEI (AK094),AUS,,Bay , Gelding,SG,94120,Sky Peal,Lady Nautilus,,14/11/1979,01,HV,Sand,1575,NW,4,5,56,C L Ng,A K Cheam,7.8,124,--,1.45.40,096
+201,WEI WEI (AK094),AUS,,Bay , Gelding,SG,94120,Sky Peal,Lady Nautilus,,13/10/1979,11,HV,Grass,1650,F,4,4,59,A Chan,J Tandari,16,127,--,1.44.40,043
+202,LONG HAPPINESS (AK095),AUS,,Bay , Gelding,SG,0,Hyperbole,Flying Bud,,24/05/1980,09,ST,Grass,1600,G,7,8,--,F Carr,S Morris,99,128,--,1.45.00,440
+203,LONG HAPPINESS (AK095),AUS,,Bay , Gelding,SG,0,Hyperbole,Flying Bud,,03/05/1980,11,ST,Grass,1200,Y,7,4,--,F Carr,R Staples,47,128,--,1.18.90,399
+204,LONG HAPPINESS (AK095),AUS,,Bay , Gelding,SG,0,Hyperbole,Flying Bud,,16/04/1980,06,ST,Sand,1050,NW,7,5,9,F Carr,W T Hung,55,118,--,1.09.00,360
+205,LONG HAPPINESS (AK095),AUS,,Bay , Gelding,SG,0,Hyperbole,Flying Bud,,04/11/1979,11,ST,Grass,1200,Y,7,4,16,F Carr,J Roe,96,132,--,1.18.30,077
+206,LONG HAPPINESS (AK095),AUS,,Bay , Gelding,SG,0,Hyperbole,Flying Bud,,13/10/1979,12,HV,Grass,1650,F,7,7,18,F Carr,J Roe,24,134,--,1.47.50,039
+207,FRIENDLY (AK098),AUS,,Brown , Gelding,SG,77250,Snatchem,Wee Maid,,24/10/1981,10,ST,"Grass""C""",1200,GF,6,3,28,S T Wong,K S Wong,99,121,--,1.14.50,066
+208,FRIENDLY (AK098),AUS,,Brown , Gelding,SG,77250,Snatchem,Wee Maid,,30/09/1981,09,HV,Sand,1400,NW,6,2,30,S T Wong,D Brosnan,37,130,--,1.36.40,018
+209,FRIENDLY (AK098),AUS,,Brown , Gelding,SG,77250,Snatchem,Wee Maid,,20/04/1981,09,HV,Grass,975,Y,5,2,39,A Ward,W P Hung,39,123,--,1.01.70,373
+210,FRIENDLY (AK098),AUS,,Brown , Gelding,SG,77250,Snatchem,Wee Maid,,03/01/1981,11,ST,Grass,1600,F,5,6,40,A Ward,B Andrews,39,124,--,1.41.90,176
+211,FRIENDLY (AK098),AUS,,Brown , Gelding,SG,77250,Snatchem,Wee Maid,,23/12/1980,07,HV,Grass,1650,F,5,6,42,A Ward,B Andrews,3.6,126,--,1.45.00,153
+212,FRIENDLY (AK098),AUS,,Brown , Gelding,SG,77250,Snatchem,Wee Maid,,11/10/1980,03,ST,Grass,1200,F,5,6,45,K H Au,D Brosnan,26,129,--,1.13.00,031
+213,FRIENDLY (AK098),AUS,,Brown , Gelding,SG,77250,Snatchem,Wee Maid,,21/09/1980,09,ST,Grass,1600,F,5,1,45,K H Au,D Brosnan,10,129,--,1.38.50,003
+214,FRIENDLY (AK098),AUS,,Brown , Gelding,SG,77250,Snatchem,Wee Maid,,18/05/1980,03,ST,Grass,1600,GF,5,9,54,K H Au,Y Y Choy,8,131,--,1.38.50,424
+215,FRIENDLY (AK098),AUS,,Brown , Gelding,SG,77250,Snatchem,Wee Maid,,21/04/1980,04,ST,Grass,1600,GF,4,9,54,K H Au,M C Tam,19,119,--,1.38.80,380
+216,FRIENDLY (AK098),AUS,,Brown , Gelding,SG,77250,Snatchem,Wee Maid,,05/03/1980,08,ST,Sand,1150,RA,5,11,54,K H Au,M C Tam,17,135,--,1.14.00,295
+217,FRIENDLY (AK098),AUS,,Brown , Gelding,SG,77250,Snatchem,Wee Maid,,09/02/1980,11,HV,Grass,1650,S,4,9,55,K H Au,B Rouse,16,123,--,1.51.80,257
+218,FRIENDLY (AK098),AUS,,Brown , Gelding,SG,77250,Snatchem,Wee Maid,,09/01/1980,03,HV,Sand,1575,NW,4,10,56,K H Au,B Rouse,12,124,--,1.43.50,187
+219,FRIENDLY (AK098),AUS,,Brown , Gelding,SG,77250,Snatchem,Wee Maid,,01/01/1980,02,HV,Grass,1650,F,4,1,54,K H Au,B Rouse,13,122,--,1.42.40,174
+220,FRIENDLY (AK098),AUS,,Brown , Gelding,SG,77250,Snatchem,Wee Maid,,13/10/1979,01,HV,Grass,1235,F,5,4,47,K H Au,M C Tam,23,126,--,1.15.30,047
+221,ACT WELL (AK101),AUS,,Brown , Mare,SG,24190,Datus,Denonnie,,24/05/1980,08,ST,Grass,1600,G,7,6,--,T C Cheng,Y P Chan,99,128,--,1.43.30,440
+222,ACT WELL (AK101),AUS,,Brown , Mare,SG,24190,Datus,Denonnie,,03/05/1980,10,ST,Grass,1200,Y,7,5,--,T C Cheng,K L Tsui,26,128,--,1.17.00,399
+223,ACT WELL (AK101),AUS,,Brown , Mare,SG,24190,Datus,Denonnie,,16/04/1980,05,ST,Sand,1050,NW,7,6,4,T C Cheng,P Leyshan,14,120,--,1.08.40,360
+224,ACT WELL (AK101),AUS,,Brown , Mare,SG,24190,Datus,Denonnie,,15/03/1980,03,ST,Grass,1000,G,7,3,7,T C Cheng,P Leyshan,8.8,123,--,1.02.20,314
+225,ACT WELL (AK101),AUS,,Brown , Mare,SG,24190,Datus,Denonnie,,05/03/1980,08,ST,Sand,1050,RA,7,3,9,T C Cheng,A K Cheam,6.4,125,--,1.08.90,290
+226,ACT WELL (AK101),AUS,,Brown , Mare,SG,24190,Datus,Denonnie,,02/02/1980,02,HV,Grass,975,H,7,10,4,T C Cheng,P Eddery,9.6,120,--,1.03.10,241
+227,ACT WELL (AK101),AUS,,Brown , Mare,SG,24190,Datus,Denonnie,,05/01/1980,09,ST,Grass,1000,F,7,1,7,T C Cheng,Y P Chan,17,118,--,1.03.00,179
+228,ACT WELL (AK101),AUS,,Brown , Mare,SG,24190,Datus,Denonnie,,10/11/1979,04,ST,Grass,1200,G,7,6,7,T C Cheng,R Staples,9.9,123,--,1.15.10,090
+229,HOP YICK (AK102),NZ,,Bay , Mare,SG,179470,Bucaroom,Regal Eagle,,17/10/1981,03,HV,"Grass""B""",1800,GF,4,1,66,A Ward,A S Cruz,8.3,134,--,1.52.00,048
+230,HOP YICK (AK102),NZ,,Bay , Mare,SG,179470,Bucaroom,Regal Eagle,,07/10/1981,03,HV,Sand,1400,NW,4,1,66,A Ward,G W Moore,3.2,134,--,1.31.40,031
+231,HOP YICK (AK102),NZ,,Bay , Mare,SG,179470,Bucaroom,Regal Eagle,,30/05/1981,08,HV,Grass,1650,F,3,1,78,A Ward,P Leyshan,25,130,--,1.43.00,440
+232,HOP YICK (AK102),NZ,,Bay , Mare,SG,179470,Bucaroom,Regal Eagle,,20/05/1981,01,HV,Grass,1650,F,4,1,70,A Ward,G W Moore,2.9,138,--,1.42.60,424
+233,HOP YICK (AK102),NZ,,Bay , Mare,SG,179470,Bucaroom,Regal Eagle,,02/05/1981,03,ST,Grass,1600,GF,4,7,69,A Ward,B Andrews,6.3,137,--,1.38.30,400
+234,HOP YICK (AK102),NZ,,Bay , Mare,SG,179470,Bucaroom,Regal Eagle,,28/03/1981,02,ST,Grass,1600,GY,4,4,65,A Ward,B Andrews,20,133,--,1.37.70,330
+235,HOP YICK (AK102),NZ,,Bay , Mare,SG,179470,Bucaroom,Regal Eagle,,07/03/1981,14,ST,Grass,1400,F,4,14,66,A Ward,B Andrews,99,134,--,1.27.20,294
+236,HOP YICK (AK102),NZ,,Bay , Mare,SG,179470,Bucaroom,Regal Eagle,,24/05/1980,06,ST,Grass,2000,G,3,4,78,J H Brown,D Brosnan,13,130,--,2.06.80,438
+237,HOP YICK (AK102),NZ,,Bay , Mare,SG,179470,Bucaroom,Regal Eagle,,15/03/1980,04,ST,Grass,1800,G,3,4,80,J H Brown,P Leyshan,8.4,130,--,1.52.20,320
+238,HOP YICK (AK102),NZ,,Bay , Mare,SG,179470,Bucaroom,Regal Eagle,,01/03/1980,09,ST,Grass,1600,G,3,9,81,J H Brown,P Leyshan,23,133,--,1.38.90,286
+239,HOP YICK (AK102),NZ,,Bay , Mare,SG,179470,Bucaroom,Regal Eagle,,26/01/1980,07,HV,Grass,1650,GF,3,5,84,J H Brown,P Leyshan,3.7,136,--,1.42.40,228
+240,HOP YICK (AK102),NZ,,Bay , Mare,SG,179470,Bucaroom,Regal Eagle,,12/01/1980,02,ST,Grass,1800,F,3,8,80,J H Brown,P Leyshan,10,132,--,1.50.10,198
+241,HOP YICK (AK102),NZ,,Bay , Mare,SG,179470,Bucaroom,Regal Eagle,,15/12/1979,02,HV,Grass,1800,G,3,1,77,J H Brown,P Leyshan,14,129,--,1.51.60,145
+242,HOP YICK (AK102),NZ,,Bay , Mare,SG,179470,Bucaroom,Regal Eagle,,24/11/1979,04,ST,Grass,1800,GF,3,6,77,J H Brown,P Leyshan,66,129,--,1.49.70,113
+243,HOP YICK (AK102),NZ,,Bay , Mare,SG,179470,Bucaroom,Regal Eagle,,03/10/1979,06,HV,Sand,1575,NW,3,8,79,J H Brown,P Leyshan,13,131,--,1.47.60,020
+244,HOP YICK (AK102),NZ,,Bay , Mare,SG,179470,Bucaroom,Regal Eagle,,22/09/1979,01,HV,Grass,1650,Y,3,6,70,J H Brown,P Leyshan,18,122,--,1.46.10,007
+245,KINGHO (AK103),AUS,,Bay , Mare,SG,9120,Piccadilly Lane,The Blues,,30/09/1981,09,HV,Sand,1400,NW,7,5,18,F Carr,S Morris,8.1,131,--,1.38.10,021
+246,KINGHO (AK103),AUS,,Bay , Mare,SG,9120,Piccadilly Lane,The Blues,,29/04/1981,08,HV,Sand,1575,RA,6,9,30,F Carr,S Morris,6.7,125,--,1.47.00,391
+247,KINGHO (AK103),AUS,,Bay , Mare,SG,9120,Piccadilly Lane,The Blues,,25/03/1981,12,ST,Sand,1800,NW,6,1,32,F Carr,S Morris,18,127,--,2.03.50,321
+248,KINGHO (AK103),AUS,,Bay , Mare,SG,9120,Piccadilly Lane,The Blues,,14/01/1981,03,HV,Sand,2000,NW,6,4,32,F Carr,S Morris,40,127,--,2.20.00,190
+249,KINGHO (AK103),AUS,,Bay , Mare,SG,9120,Piccadilly Lane,The Blues,,20/12/1980,12,HV,Grass,1800,F,6,8,35,F Carr,S Morris,99,130,--,1.56.50,144
+250,KINGHO (AK103),AUS,,Bay , Mare,SG,9120,Piccadilly Lane,The Blues,,19/11/1980,10,ST,Sand,1650,RA,5,4,36,F Carr,S Morris,42,115,--,1.49.40,094
+251,KINGHO (AK103),AUS,,Bay , Mare,SG,9120,Piccadilly Lane,The Blues,,01/10/1980,11,ST,Sand,1050,NW,5,10,40,F Carr,S Morris,99,119,--,1.07.50,019
+252,KINGHO (AK103),AUS,,Bay , Mare,SG,9120,Piccadilly Lane,The Blues,,21/09/1980,13,ST,Grass,1600,F,5,6,40,F Carr,S Morris,99,119,--,1.40.90,001
+253,KINGHO (AK103),AUS,,Bay , Mare,SG,9120,Piccadilly Lane,The Blues,,16/04/1980,11,ST,Sand,1650,NW,4,10,51,F Carr,S Morris,64,114,--,1.53.70,359
+254,KINGHO (AK103),AUS,,Bay , Mare,SG,9120,Piccadilly Lane,The Blues,,26/03/1980,06,ST,Sand,1050,NW,4,6,53,F Carr,S Morris,22,116,--,1.07.70,340
+255,KINGHO (AK103),AUS,,Bay , Mare,SG,9120,Piccadilly Lane,The Blues,,05/03/1980,05,ST,Sand,1150,RA,4,5,57,F Carr,S Morris,17,120,--,1.14.70,292
+256,JONKER (AK106),AUS,,Bay , Gelding,SG,0,Beau Sabaean,Final Mist,,17/01/1981,14,ST,Grass,1000,F,6,11,17,A Ward,W P Hung,87,110,--,1.01.60,202
+257,JONKER (AK106),AUS,,Bay , Gelding,SG,0,Beau Sabaean,Final Mist,,19/11/1980,08,ST,Sand,1050,RA,6,6,18,A Ward,B Andrews,13,121,--,1.06.70,097
+258,JONKER (AK106),AUS,,Bay , Gelding,SG,0,Beau Sabaean,Final Mist,,27/09/1980,08,ST,Grass,1000,F,6,5,22,A Ward,B Andrews,45,122,--,1.00.00,015
+259,JONKER (AK106),AUS,,Bay , Gelding,SG,0,Beau Sabaean,Final Mist,,07/05/1980,07,ST,Sand,1050,RA,5,3,36,C L Ng,J Roe,24,120,--,1.07.90,405
+260,JONKER (AK106),AUS,,Bay , Gelding,SG,0,Beau Sabaean,Final Mist,,27/04/1980,06,ST,Grass,1200,Y,5,7,36,C L Ng,C C Nam,44,113,--,1.15.80,387
+261,JONKER (AK106),AUS,,Bay , Gelding,SG,0,Beau Sabaean,Final Mist,,12/04/1980,08,ST,Grass,1400,S,5,10,38,C L Ng,C C Nam,57,115,--,1.31.50,356
+262,JONKER (AK106),AUS,,Bay , Gelding,SG,0,Beau Sabaean,Final Mist,,20/01/1980,11,ST,Grass,1600,F,5,8,41,A Chan,K S Ho,14,125,--,1.41.10,213
+263,JONKER (AK106),AUS,,Bay , Gelding,SG,0,Beau Sabaean,Final Mist,,09/01/1980,05,HV,Sand,1030,NW,5,8,43,A Chan,J Tandari,5.2,127,--,1.07.90,186
+264,JONKER (AK106),AUS,,Bay , Gelding,SG,0,Beau Sabaean,Final Mist,,22/12/1979,05,HV,Grass,1235,F,5,12,78,A Chan,J Tandari,29,128,--,1.16.90,159
+265,JONKER (AK106),AUS,,Bay , Gelding,SG,0,Beau Sabaean,Final Mist,,17/11/1979,13,ST,Grass,1600,F,5,9,45,A Chan,J Tandari,28,129,--,1.40.20,099
+266,JONKER (AK106),AUS,,Bay , Gelding,SG,0,Beau Sabaean,Final Mist,,27/10/1979,09,HV,Grass,1800,F,5,2,49,A Chan,J Tandari,32,133,--,1.54.90,065
+267,JONKER (AK106),AUS,,Bay , Gelding,SG,0,Beau Sabaean,Final Mist,,13/10/1979,07,HV,Grass,1235,F,5,8,50,A Chan,J Tandari,8.6,134,--,1.17.50,046
+268,FOLLOW ME (AK109),NZ,,Bay , Gelding,SG,112290,Celtic Park,Tsaoko Girl,,17/10/1981,09,HV,"Grass""B""",1650,GF,5,2,47,C L Ng,P H Chan,9.1,124,--,1.45.30,052
+269,FOLLOW ME (AK109),NZ,,Bay , Gelding,SG,112290,Celtic Park,Tsaoko Girl,,26/09/1981,01,HV,"Grass""A""",1650,G,5,1,41,C L Ng,P H Chan,11,118,--,1.43.60,014
+270,FOLLOW ME (AK109),NZ,,Bay , Gelding,SG,112290,Celtic Park,Tsaoko Girl,,20/05/1981,08,HV,Grass,1650,F,4,1,49,C L Ng,A S Cruz,5.3,117,--,1.44.60,428
+271,FOLLOW ME (AK109),NZ,,Bay , Gelding,SG,112290,Celtic Park,Tsaoko Girl,,25/04/1981,10,ST,Grass,1200,GF,4,6,51,C L Ng,K W Lui,62,119,--,1.13.70,381
+272,FOLLOW ME (AK109),NZ,,Bay , Gelding,SG,112290,Celtic Park,Tsaoko Girl,,08/04/1981,08,HV,Sand,1030,NW,4,6,53,C L Ng,P H Chan,52,114,--,1.09.60,347
+273,FOLLOW ME (AK109),NZ,,Bay , Gelding,SG,112290,Celtic Park,Tsaoko Girl,,20/12/1980,10,HV,Grass,1650,F,4,9,54,C L Ng,P H Chan,16,115,--,1.45.30,141
+274,FOLLOW ME (AK109),NZ,,Bay , Gelding,SG,112290,Celtic Park,Tsaoko Girl,,22/11/1980,06,ST,Grass,1400,GF,4,8,56,C L Ng,P H Chan,41,117,--,1.26.60,105
+275,FOLLOW ME (AK109),NZ,,Bay , Gelding,SG,112290,Celtic Park,Tsaoko Girl,,08/11/1980,01,ST,Grass,1600,F,4,5,48,C L Ng,P H Chan,38,111,--,1.37.80,073
+276,FOLLOW ME (AK109),NZ,,Bay , Gelding,SG,112290,Celtic Park,Tsaoko Girl,,01/11/1980,12,ST,Grass,1400,F,4,11,51,C L Ng,P H Chan,62,112,--,1.27.50,071
+277,FOLLOW ME (AK109),NZ,,Bay , Gelding,SG,112290,Celtic Park,Tsaoko Girl,,11/10/1980,07,ST,Grass,1600,F,4,10,52,C L Ng,P H Chan,10,113,--,1.39.60,035
+278,FOLLOW ME (AK109),NZ,,Bay , Gelding,SG,112290,Celtic Park,Tsaoko Girl,,21/04/1980,05,ST,Grass,1600,GF,4,11,63,C L Ng,P H Chan,8.8,124,--,1.38.80,380
+279,FOLLOW ME (AK109),NZ,,Bay , Gelding,SG,112290,Celtic Park,Tsaoko Girl,,08/03/1980,08,ST,Grass,1800,GY,4,7,66,C L Ng,P Paquet,7.5,134,--,1.54.80,296
+280,FOLLOW ME (AK109),NZ,,Bay , Gelding,SG,112290,Celtic Park,Tsaoko Girl,,23/02/1980,13,ST,Grass,1200,GY,4,13,68,C L Ng,P H Chan,14,129,--,1.14.40,272
+281,FOLLOW ME (AK109),NZ,,Bay , Gelding,SG,112290,Celtic Park,Tsaoko Girl,,09/02/1980,04,HV,Grass,1650,S,4,3,69,C L Ng,P H Chan,10,130,--,1.49.70,255
+282,FOLLOW ME (AK109),NZ,,Bay , Gelding,SG,112290,Celtic Park,Tsaoko Girl,,26/01/1980,04,HV,Grass,1650,GF,3,6,68,C L Ng,P H Chan,14,113,--,1.41.90,228
+283,FOLLOW ME (AK109),NZ,,Bay , Gelding,SG,112290,Celtic Park,Tsaoko Girl,,15/12/1979,09,HV,Grass,1800,G,3,12,71,C L Ng,P H Chan,9.8,116,--,1.53.10,146
+284,FOLLOW ME (AK109),NZ,,Bay , Gelding,SG,112290,Celtic Park,Tsaoko Girl,,17/11/1979,10,ST,Grass,1400,F,3,4,74,C L Ng,A K Cheam,28,126,--,1.26.10,101
+285,FOLLOW ME (AK109),NZ,,Bay , Gelding,SG,112290,Celtic Park,Tsaoko Girl,,22/09/1979,05,HV,Grass,1650,Y,3,2,75,C L Ng,P H Chan,19,120,--,1.46.30,005
+286,PRINCE LUDWIG (AK110),AUS,,Chestnut , Gelding,SG,61950,Tudor Tinker,Lights Out,,14/02/1981,05,HV,Grass,975,GF,7,5,6,F Carr,D C Cruz,10,122,--,1.00.10,249
+287,PRINCE LUDWIG (AK110),AUS,,Chestnut , Gelding,SG,61950,Tudor Tinker,Lights Out,,25/01/1981,06,ST,Grass,1600,GF,7,4,9,F Carr,A S Cruz,23,125,--,1.40.80,219
+288,PRINCE LUDWIG (AK110),AUS,,Chestnut , Gelding,SG,61950,Tudor Tinker,Lights Out,,20/12/1980,09,HV,Grass,1800,F,7,4,10,F Carr,D C Cruz,99,126,--,1.55.90,146
+289,PRINCE LUDWIG (AK110),AUS,,Chestnut , Gelding,SG,61950,Tudor Tinker,Lights Out,,01/11/1980,09,ST,Grass,1200,F,7,10,12,G Moore,G W Moore,6.2,128,--,1.14.00,070
+290,PRINCE LUDWIG (AK110),AUS,,Chestnut , Gelding,SG,61950,Tudor Tinker,Lights Out,,10/05/1980,10,ST,Grass,1400,Y,6,5,30,G Moore,C H Cheong,35,123,--,1.28.20,413
+291,PRINCE LUDWIG (AK110),AUS,,Chestnut , Gelding,SG,61950,Tudor Tinker,Lights Out,,09/04/1980,12,ST,Sand,1650,NW,6,10,28,G Moore,K L Man,75,123,--,1.53.20,343
+292,PRINCE LUDWIG (AK110),AUS,,Chestnut , Gelding,SG,61950,Tudor Tinker,Lights Out,,19/03/1980,06,ST,Sand,1150,NW,6,1,30,G Moore,G W Moore,4,130,--,1.15.20,325
+293,PRINCE LUDWIG (AK110),AUS,,Chestnut , Gelding,SG,61950,Tudor Tinker,Lights Out,,01/03/1980,01,ST,Grass,1400,G,6,2,24,G Moore,G W Moore,3.5,124,--,1.27.10,284
+294,PRINCE LUDWIG (AK110),AUS,,Chestnut , Gelding,SG,61950,Tudor Tinker,Lights Out,,02/02/1980,11,HV,Grass,975,H,7,4,24,G Moore,G W Moore,7.7,140,--,1.05.20,241
+295,PRINCE LUDWIG (AK110),AUS,,Chestnut , Gelding,SG,61950,Tudor Tinker,Lights Out,,24/11/1979,02,ST,Grass,1200,GF,6,7,23,M K Tam,T O Lau,6,123,--,1.13.70,112
+296,PRINCE LUDWIG (AK110),AUS,,Chestnut , Gelding,SG,61950,Tudor Tinker,Lights Out,,04/11/1979,10,ST,Grass,1200,Y,7,10,23,M K Tam,T P Yung,4.7,132,--,1.17.90,077
+297,PRINCE LUDWIG (AK110),AUS,,Chestnut , Gelding,SG,61950,Tudor Tinker,Lights Out,,13/10/1979,02,HV,Grass,1650,F,7,12,19,M K Tam,T O Lau,4.4,135,--,1.44.20,039
+298,KING'S FORTUNE (AK112),AUS,,Bay , Gelding,SG,3540,Green Park,Pick Me Up,,02/02/1980,08,HV,Grass,1800,H,7,1,18,A Chan,R Setches,10,134,--,2.03.70,235
+299,KING'S FORTUNE (AK112),AUS,,Bay , Gelding,SG,3540,Green Park,Pick Me Up,,29/12/1979,07,HV,Grass,1800,F,6,14,18,A Chan,R Setches,19,118,--,1.55.80,166
+300,KING'S FORTUNE (AK112),AUS,,Bay , Gelding,SG,3540,Green Park,Pick Me Up,,24/11/1979,10,ST,Grass,1200,GF,6,9,20,A Chan,R Setches,8.9,120,--,1.15.70,116
+301,KING'S FORTUNE (AK112),AUS,,Bay , Gelding,SG,3540,Green Park,Pick Me Up,,04/11/1979,04,ST,Grass,1400,Y,6,10,21,A Chan,R Setches,16,121,--,1.30.30,083
+302,KING'S FORTUNE (AK112),AUS,,Bay , Gelding,SG,3540,Green Park,Pick Me Up,,10/10/1979,05,HV,Sand,1030,NW,6,6,24,A Chan,R Setches,4.3,124,--,1.10.00,036
+303,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,02/05/1984,04,HV,Sand,1400,NW,7,4,--,T L Lee,Y P Chan,10,126,--,1.33.70,424
+304,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,23/04/1984,04,HV,Sand,1400,NW,7,4,--,T L Lee,Y P Chan,59,126,--,1.32.40,407
+305,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,21/03/1984,11,ST,Sand,1800,RA,7,4,11,T L Lee,Y P Chan,99,127,--,2.06.50,343
+306,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,04/03/1984,13,ST,"Grass""B""",1400,F,7,9,13,T L Lee,Y P Chan,19,129,--,1.28.10,311
+307,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,08/02/1984,07,HV,"Grass""A""",1235,F,7,11,15,T L Lee,P Eddery,3.6,131,--,1.17.10,263
+308,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,14/12/1983,02,HV,"Grass""B""",975,GF,7,10,13,R Burns,N Campton,15,129,--,0.59.50,180
+309,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,30/11/1983,04,ST,Sand,1150,NW,7,3,14,R Burns,N Campton,4.2,130,--,1.15.80,150
+310,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,05/11/1983,06,ST,"Grass""A""",1200,GF,7,10,15,R Burns,N Campton,6.9,131,--,1.13.10,100
+311,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,22/10/1983,03,HV,"Grass""A""",1235,G,7,6,15,R Burns,N Campton,5.3,131,--,1.16.80,072
+312,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,28/09/1983,03,HV,Sand,1030,RA,7,5,15,R Burns,N Campton,8.1,131,--,1.06.90,027
+313,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,28/05/1983,04,HV,Sand,1575,RA,6,8,24,R Burns,N Campton,14,124,--,1.44.30,457
+314,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,11/05/1983,03,HV,Sand,1575,NW,6,4,25,R Burns,N Campton,9,125,--,1.45.60,428
+315,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,20/04/1983,01,ST,Sand,1050,NW,7,4,--,R Burns,N Campton,4.2,126,--,1.06.90,387
+316,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,02/04/1983,03,HV,Sand,1030,NW,7,7,13,R Burns,N Campton,9.6,129,--,1.07.80,350
+317,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,02/03/1983,07,HV,Sand,1030,RA,7,8,15,R Burns,N Campton,4.4,131,--,1.07.60,290
+318,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,20/10/1982,04,HV,"Grass""A""",1235,G,7,10,16,R Burns,N Campton,4.6,132,--,1.16.10,061
+319,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,17/04/1982,05,ST,"Grass""A""",1200,F,6,3,21,R Burns,N Smith,17,121,--,1.12.70,373
+320,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,03/04/1982,05,HV,"Grass""A""",1235,S,6,1,22,R Burns,P Miers,12,122,--,1.18.50,342
+321,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,23/12/1981,04,HV,Sand,1030,NW,6,1,22,R Burns,P Miers,5.5,122,--,1.08.50,167
+322,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,21/11/1981,07,ST,"Grass""C""",1600,GF,6,10,23,R Burns,N Smith,81,123,--,1.38.80,113
+323,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,21/10/1981,01,HV,"Grass""B""",1235,GF,7,1,14,R Burns,P Miers,4.7,130,--,1.15.60,058
+324,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,02/05/1981,02,ST,Grass,1200,GF,6,1,20,R Burns,P Miers,6.4,120,--,1.13.00,395
+325,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,28/03/1981,07,ST,Grass,1400,GY,6,8,23,R Burns,P Miers,32,123,--,1.26.70,327
+326,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,07/03/1981,09,ST,Grass,1200,F,6,7,25,R Burns,P Miers,24,125,--,1.14.20,293
+327,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,20/12/1980,08,HV,Grass,1235,F,6,10,26,R Burns,P Miers,7.1,126,--,1.16.70,145
+328,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,19/11/1980,04,ST,Sand,1050,RA,6,11,26,R Burns,K W Lui,7.7,123,--,1.05.90,097
+329,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,08/11/1980,07,ST,Grass,1400,F,6,12,27,R Burns,P Miers,6.9,127,--,1.27.20,076
+330,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,22/10/1980,03,ST,Sand,1150,NW,6,5,26,R Burns,K W Lui,10,123,--,1.12.80,045
+331,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,27/09/1980,02,ST,Grass,1000,F,6,7,24,R Burns,K W Lui,20,121,--,0.59.60,011
+332,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,27/04/1980,06,ST,Grass,1200,Y,5,9,32,R Burns,A K Cheam,20,116,--,1.15.30,389
+333,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,26/03/1980,05,ST,Sand,1800,NW,5,3,32,R Burns,K W Lui,20,116,--,2.00.30,342
+334,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,15/03/1980,07,ST,Grass,1600,G,5,5,34,R Burns,K W Lui,34,116,--,1.40.60,315
+335,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,27/02/1980,06,ST,Sand,1650,RA,5,8,35,R Burns,P Miers,17,119,--,1.50.10,280
+336,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,20/01/1980,10,ST,Grass,1600,F,5,9,35,R Burns,P Miers,37,119,--,1.40.30,219
+337,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,22/12/1979,07,HV,Grass,1800,F,5,1,37,R Burns,K W Lui,22,118,--,1.54.20,154
+338,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,17/11/1979,07,ST,Grass,1600,F,5,11,37,R Burns,P Miers,12,121,--,1.39.70,099
+339,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,27/10/1979,08,HV,Grass,1800,F,5,6,41,R Burns,L Fox,33,125,--,1.54.90,065
+340,MARS STONE (AK113),AUS,,Chestnut , Gelding,SG,277090,Biarritz,Tuellera Maid,,29/09/1979,05,HV,Grass,1650,Y,5,1,42,R Burns,L Fox,10,126,--,1.46.40,015
+341,NAUGHTY NAUGHTY (AK116),AUS,,Bay , Gelding,SG,246790,Above Water,Cologne,,23/03/1983,08,ST,Sand,1050,NW,3,5,74,E Collingwood,Y S Tsui,38,121,--,1.07.00,321
+342,NAUGHTY NAUGHTY (AK116),AUS,,Bay , Gelding,SG,246790,Above Water,Cologne,,02/03/1983,05,HV,Sand,1575,RA,3,4,75,E Collingwood,P Paquet,3.4,127,--,--,288
+343,NAUGHTY NAUGHTY (AK116),AUS,,Bay , Gelding,SG,246790,Above Water,Cologne,,29/09/1982,01,HV,Sand,1575,RA,4,2,67,E Collingwood,P Paquet,3.8,135,--,1.44.10,028
+344,NAUGHTY NAUGHTY (AK116),AUS,,Bay , Gelding,SG,246790,Above Water,Cologne,,28/04/1982,04,ST,Sand,1650,RA,3,8,79,E Collingwood,K Langby,6.7,131,--,1.46.70,397
+345,NAUGHTY NAUGHTY (AK116),AUS,,Bay , Gelding,SG,246790,Above Water,Cologne,,27/03/1982,05,ST,"Grass""C""",1800,G,3,4,79,E Collingwood,K Langby,34,131,--,1.52.40,334
+346,NAUGHTY NAUGHTY (AK116),AUS,,Bay , Gelding,SG,246790,Above Water,Cologne,,24/02/1982,02,HV,Sand,1400,NW,3,5,76,E Collingwood,K Langby,8.1,128,--,1.31.20,273
+347,NAUGHTY NAUGHTY (AK116),AUS,,Bay , Gelding,SG,246790,Above Water,Cologne,,15/11/1981,10,ST,"Grass""C""",2050,GF,3,2,78,E Collingwood,J Lowe,70,130,--,2.09.50,099
+348,NAUGHTY NAUGHTY (AK116),AUS,,Bay , Gelding,SG,246790,Above Water,Cologne,,03/10/1981,05,HV,"Grass""A""",1650,S,3,6,80,E Collingwood,K Langby,12,132,--,1.47.30,028
+349,NAUGHTY NAUGHTY (AK116),AUS,,Bay , Gelding,SG,246790,Above Water,Cologne,,19/09/1981,09,HV,"Grass""A""",975,GF,3,7,80,E Collingwood,K Langby,99,132,--,0.57.80,001
+350,NAUGHTY NAUGHTY (AK116),AUS,,Bay , Gelding,SG,246790,Above Water,Cologne,,16/05/1981,03,HV,Grass,1800,S,2,5,88,E Collingwood,S Morris,58,119,--,1.54.60,423
+351,NAUGHTY NAUGHTY (AK116),AUS,,Bay , Gelding,SG,246790,Above Water,Cologne,,15/04/1981,09,HV,Sand,1575,RA,2,8,90,E Collingwood,S Morris,4.7,121,--,1.44.50,358
+352,NAUGHTY NAUGHTY (AK116),AUS,,Bay , Gelding,SG,246790,Above Water,Cologne,,24/01/1981,06,ST,Grass,1600,F,2,7,91,E Collingwood,P Paquet,10,127,--,1.37.80,212
+353,NAUGHTY NAUGHTY (AK116),AUS,,Bay , Gelding,SG,246790,Above Water,Cologne,,13/12/1980,02,HV,Grass,1650,F,2,4,89,E Collingwood,C Roche,21,125,--,1.41.30,127
+354,NAUGHTY NAUGHTY (AK116),AUS,,Bay , Gelding,SG,246790,Above Water,Cologne,,29/10/1980,04,ST,Sand,1650,NW,2,5,92,E Collingwood,C K Chow,3.5,123,--,1.47.50,064
+355,NAUGHTY NAUGHTY (AK116),AUS,,Bay , Gelding,SG,246790,Above Water,Cologne,,15/10/1980,01,ST,Sand,1050,NW,3,10,83,E Collingwood,C K Chow,3.5,130,--,1.04.50,044
+356,NAUGHTY NAUGHTY (AK116),AUS,,Bay , Gelding,SG,246790,Above Water,Cologne,,21/09/1980,07,ST,Grass,1000,F,3,7,83,E Collingwood,K O Wong,85,128,--,0.59.00,002
+357,NAUGHTY NAUGHTY (AK116),AUS,,Bay , Gelding,SG,246790,Above Water,Cologne,,31/05/1980,02,ST,Grass,1800,Y,2,1,88,E Collingwood,C K Chow,8.7,119,--,1.51.90,450
+358,NAUGHTY NAUGHTY (AK116),AUS,,Bay , Gelding,SG,246790,Above Water,Cologne,,18/05/1980,03,ST,Grass,1600,GF,2,1,88,E Collingwood,C K Chow,9.4,119,--,1.36.90,423
+359,NAUGHTY NAUGHTY (AK116),AUS,,Bay , Gelding,SG,246790,Above Water,Cologne,,21/04/1980,07,ST,Grass,1400,GF,2,2,90,E Collingwood,K O Wong,22,119,--,1.25.20,373
+360,NAUGHTY NAUGHTY (AK116),AUS,,Bay , Gelding,SG,246790,Above Water,Cologne,,19/03/1980,08,ST,Sand,1650,NW,2,6,92,E Collingwood,W Hood,5.4,128,--,1.47.80,324
+361,NAUGHTY NAUGHTY (AK116),AUS,,Bay , Gelding,SG,246790,Above Water,Cologne,,09/03/1980,05,ST,Grass,1800,GY,2,1,92,E Collingwood,C Roche,43,128,--,1.50.70,309
+362,NAUGHTY NAUGHTY (AK116),AUS,,Bay , Gelding,SG,246790,Above Water,Cologne,,19/01/1980,07,ST,Grass,1600,F,2,4,94,E Collingwood,C Roche,14,130,--,1.38.90,212
+363,NAUGHTY NAUGHTY (AK116),AUS,,Bay , Gelding,SG,246790,Above Water,Cologne,,12/12/1979,01,HV,Sand,1400,NW,2,1,87,E Collingwood,C Roche,3.6,123,--,1.30.80,142
+364,NAUGHTY NAUGHTY (AK116),AUS,,Bay , Gelding,SG,246790,Above Water,Cologne,,20/10/1979,08,HV,Grass,1235,F,2,1,85,E Collingwood,W Hood,73,121,--,1.15.60,056
+365,NAUGHTY NAUGHTY (AK116),AUS,,Bay , Gelding,SG,246790,Above Water,Cologne,,29/09/1979,05,HV,Grass,1650,Y,2,4,85,E Collingwood,W Hood,72,121,--,1.45.20,014
+366,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,19/05/1984,08,ST,"Grass""C""",1200,Y,6,6,18,K H Au,M C Tam,7.1,118,--,1.16.20,449
+367,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,28/04/1984,05,ST,"Grass""A""",1000,S,6,11,21,K H Au,K H Hung,54,118,--,1.02.50,416
+368,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,21/04/1984,03,HV,Sand,1575,RA,6,5,21,K H Au,K H Hung,8.3,118,--,1.44.40,398
+369,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,07/04/1984,07,HV,"Grass""A""",1800,S,6,5,23,K H Au,R Staples,13,123,--,1.59.10,370
+370,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,17/03/1984,02,ST,"Grass""A""",1400,F,6,3,23,K H Au,R Staples,4.5,123,--,1.27.10,332
+371,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,03/03/1984,07,ST,"Grass""B""",1400,F,6,5,25,K H Au,R Staples,43,125,--,1.26.20,304
+372,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,11/02/1984,01,HV,"Grass""A""",1650,GF,7,5,20,K H Au,K H Hung,20,131,--,1.44.40,267
+373,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,14/12/1983,08,HV,"Grass""B""",975,GF,7,9,21,K H Au,K H Hung,17,132,--,1.01.00,180
+374,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,04/12/1983,10,ST,"Grass""C""",1600,F,6,1,18,K H Au,R Staples,25,118,--,1.42.00,163
+375,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,26/11/1983,07,ST,"Grass""C""",1400,F,6,1,20,K H Au,K H Hung,8.4,115,--,1.27.50,139
+376,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,02/11/1983,04,HV,Sand,1575,NW,6,9,22,K H Au,M C Tam,9.8,122,--,1.46.80,093
+377,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,19/10/1983,05,HV,Sand,1030,NW,6,5,23,K H Au,M C Tam,16,123,--,1.07.50,060
+378,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,01/10/1983,04,HV,Sand,1575,RA,6,6,23,K H Au,M C Tam,19,123,--,1.45.10,036
+379,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,17/09/1983,04,HV,"Grass""A""",1235,G,6,10,23,K H Au,M C Tam,36,123,--,1.16.50,008
+380,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,23/04/1983,08,ST,"Grass""A""",1400,GF,6,3,30,K H Au,R Staples,13,130,--,1.26.40,395
+381,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,04/04/1983,07,HV,"Grass""A""",1235,G,6,2,33,K H Au,R Staples,6.2,133,--,1.17.70,353
+382,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,26/02/1983,09,ST,Sand,1150,RA,6,4,35,K H Au,R Staples,8.1,135,--,1.15.00,279
+383,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,02/02/1983,09,ST,Sand,1150,NW,6,2,37,K H Au,K H Hung,6.8,132,--,1.15.10,242
+384,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,08/01/1983,04,ST,"Grass""A""",1600,H,5,2,33,K H Au,R Staples,17,117,--,1.46.50,197
+385,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,11/12/1982,04,ST,"Grass""A""",1200,GF,5,1,35,K H Au,M C Tam,41,119,--,1.13.30,152
+386,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,24/11/1982,05,ST,Sand,1050,NW,5,4,38,K H Au,K H Hung,36,117,--,1.06.90,128
+387,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,16/10/1982,07,ST,"Grass""A""",1200,GF,5,2,40,K H Au,M C Tam,30,124,--,1.13.50,059
+388,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,25/09/1982,08,ST,"Grass""A""",1000,Y,5,9,40,K H Au,M C Tam,31,124,--,1.02.00,016
+389,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,22/05/1982,03,HV,"Grass""A""",1235,GF,5,8,48,K H Au,A S Cruz,14,132,--,1.15.50,440
+390,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,12/05/1982,02,HV,"Grass""A""",1235,GY,5,2,46,K H Au,M C Tam,31,130,--,1.16.30,418
+391,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,21/04/1982,05,ST,"Grass""A""",1600,GF,5,5,47,K H Au,K H Hung,7.3,124,--,1.39.70,386
+392,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,07/04/1982,08,HV,"Grass""B""",1650,Y,5,10,48,K H Au,M C Tam,13,132,--,1.46.70,349
+393,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,17/02/1982,01,HV,"Grass""A""",1650,G,5,1,40,K H Au,R Staples,19,124,--,1.44.80,258
+394,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,27/01/1982,01,HV,"Grass""B""",1650,GF,6,6,32,K H Au,R Staples,8.7,132,--,1.44.20,221
+395,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,06/01/1982,02,ST,Sand,1050,NW,6,12,29,K H Au,R Staples,8.5,129,--,1.07.20,186
+396,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,05/12/1981,03,ST,"Grass""A""",1000,GF,6,5,27,K H Au,R Staples,19,127,--,1.01.00,135
+397,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,21/11/1981,08,ST,"Grass""C""",1600,GF,6,11,27,K H Au,K H Hung,71,120,--,1.39.30,110
+398,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,24/10/1981,07,ST,"Grass""C""",1200,GF,6,9,30,K H Au,M C Tam,8.8,130,--,1.14.20,066
+399,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,30/09/1981,08,HV,Sand,1400,NW,6,5,31,K H Au,R Staples,18,131,--,1.36.50,022
+400,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,23/05/1981,06,HV,Grass,1235,Y,5,4,36,K H Au,R Staples,7.8,120,--,1.17.10,432
+401,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,10/05/1981,05,ST,Grass,1200,H,5,8,37,K H Au,R Staples,18,121,--,1.17.20,403
+402,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,18/04/1981,09,HV,Grass,1650,G,5,7,39,K H Au,R Staples,39,123,--,1.45.20,370
+403,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,28/03/1981,09,ST,Grass,1400,GY,5,1,42,K H Au,R Staples,11,126,--,1.27.60,329
+404,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,14/03/1981,06,ST,Grass,1200,GF,5,5,43,K H Au,R Staples,8.7,127,--,1.13.10,300
+405,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,08/11/1980,01,ST,Grass,1400,F,6,5,36,K H Au,R Staples,12,136,--,1.26.00,076
+406,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,22/10/1980,02,ST,Sand,1150,NW,6,9,33,K H Au,R Staples,7.3,133,--,1.12.90,048
+407,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,27/09/1980,06,ST,Grass,1000,F,6,6,33,K H Au,R Staples,8.8,133,--,1.00.40,011
+408,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,24/05/1980,09,ST,Grass,1000,G,5,3,45,R Burns,P Miers,37,129,--,0.59.20,439
+409,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,16/04/1980,09,ST,Sand,1150,NW,5,3,48,R Burns,P Miers,6.6,132,--,1.14.60,363
+410,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,12/04/1980,06,ST,Grass,1400,F,5,5,49,R Burns,P Miers,9.9,133,--,1.28.30,350
+411,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,22/03/1980,04,ST,Grass,1200,G,5,2,48,R Burns,P Miers,11,132,--,1.13.20,335
+412,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,05/03/1980,02,ST,Sand,1150,RA,5,4,46,R Burns,P Miers,11,130,--,1.13.10,295
+413,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,30/01/1980,05,HV,Sand,1030,NW,5,5,47,R Burns,P Miers,20,131,--,1.07.00,233
+414,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,09/01/1980,07,HV,Sand,1030,NW,5,2,50,R Burns,P Miers,13,134,--,1.07.90,189
+415,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,22/12/1979,09,HV,Grass,1235,F,5,12,52,R Burns,L Fox,43,136,--,1.17.70,157
+416,BATMAN (AK117),AUS,,Chestnut , Gelding,SG,389240,Petard,Dawn Vigil,,17/11/1979,11,ST,Grass,1000,F,5,3,53,R Burns,P Miers,58,137,--,1.01.60,102
+417,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,30/11/1983,05,ST,Sand,1150,NW,7,11,16,C L Ng,T C Mak,14,127,--,1.16.10,150
+418,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,22/10/1983,07,HV,"Grass""A""",1235,G,7,4,17,C L Ng,T C Mak,63,128,--,1.17.50,072
+419,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,28/09/1983,07,HV,Sand,1030,RA,7,6,17,C L Ng,C C Nam,4.1,133,--,1.08.20,027
+420,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,28/05/1983,06,HV,Sand,1575,RA,6,4,32,C L Ng,T C Mak,72,127,--,1.46.90,457
+421,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,11/05/1983,09,HV,Sand,1575,NW,6,3,33,C L Ng,K S Wong,20,126,--,1.50.60,428
+422,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,20/04/1983,01,ST,Sand,1050,NW,6,8,25,C L Ng,T C Mak,5.7,118,--,1.07.10,383
+423,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,04/04/1983,07,HV,"Grass""A""",1235,G,6,6,26,C L Ng,K S Wong,21,119,--,1.18.20,359
+424,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,09/03/1983,02,HV,Sand,1030,NW,6,6,24,C L Ng,K S Wong,8.9,117,--,1.07.00,310
+425,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,26/02/1983,08,ST,Sand,1150,RA,6,11,26,C L Ng,K S Wong,24,119,--,1.13.80,284
+426,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,15/01/1983,09,ST,"Grass""C""",1000,G,6,8,28,C L Ng,K S Ho,35,128,--,1.02.70,202
+427,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,15/12/1982,12,HV,"Grass""A""",975,G,6,10,29,C L Ng,C C Nam,40,129,--,1.00.90,159
+428,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,29/09/1982,01,HV,Sand,1030,RA,7,6,19,C L Ng,C C Nam,7.8,135,--,1.07.80,026
+429,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,17/04/1982,05,ST,"Grass""A""",1200,F,6,5,26,C L Ng,T C Mak,16,119,--,1.13.10,374
+430,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,03/04/1982,02,HV,"Grass""A""",1235,S,6,1,24,C L Ng,A S Cruz,5.2,124,--,1.19.00,346
+431,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,06/03/1982,01,ST,"Grass""C""",1000,Y,7,7,15,C L Ng,A S Cruz,4.7,131,--,1.00.00,296
+432,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,09/01/1982,10,ST,"Grass""A""",1000,GF,7,8,16,C L Ng,R Staples,6.1,132,--,1.02.90,192
+433,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,25/11/1981,02,ST,Sand,1050,NW,7,12,15,C L Ng,K S Wong,16,124,--,1.07.20,115
+434,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,07/10/1981,03,HV,Sand,1400,NW,7,2,15,C L Ng,K S Wong,5.4,124,--,1.34.40,035
+435,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,16/05/1981,09,HV,Grass,1650,S,6,2,28,C L Ng,C C Nam,9.3,121,--,1.47.30,419
+436,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,11/04/1981,06,HV,Grass,1650,G,6,4,30,C L Ng,A S Cruz,3.4,130,--,1.45.30,353
+437,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,07/03/1981,02,ST,Grass,1200,F,6,9,27,C L Ng,K S Wong,38,120,--,1.12.90,293
+438,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,20/12/1980,05,HV,Grass,1235,F,6,6,30,C L Ng,A S Cruz,11,130,--,1.16.20,140
+439,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,22/10/1980,11,ST,Sand,1150,NW,6,9,32,C L Ng,K L Tsui,15,127,--,1.13.80,045
+440,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,01/10/1980,09,ST,Sand,1650,NW,6,8,33,C L Ng,R Setches,8.9,133,--,1.53.20,017
+441,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,24/05/1980,10,ST,Grass,1400,G,5,7,45,C L Ng,K L Tsui,21,124,--,1.28.50,441
+442,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,18/05/1980,10,ST,Grass,1600,GF,5,9,49,C L Ng,A S Cruz,12,133,--,1.39.60,427
+443,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,07/05/1980,05,ST,Sand,1050,RA,5,8,50,C L Ng,A S Cruz,21,134,--,1.07.10,405
+444,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,12/04/1980,08,ST,Grass,1400,S,5,4,51,C L Ng,R Setches,16,135,--,1.30.90,354
+445,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,26/03/1980,05,ST,Sand,1050,NW,4,4,50,C L Ng,R Setches,7.4,118,--,1.07.00,340
+446,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,05/03/1980,04,ST,Sand,1150,RA,4,3,54,C L Ng,A S Cruz,2.7,122,--,1.14.50,292
+447,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,23/02/1980,04,ST,Grass,1200,GY,4,6,54,C L Ng,C C Nam,25,115,--,1.13.90,271
+448,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,01/01/1980,10,HV,Grass,1650,F,4,5,57,T C Cheng,B Rouse,5.3,125,--,1.44.90,171
+449,GOOD RETURN (AK118),AUS,,Grey , Gelding,SG,285860,Don Juan,Refrain,,27/10/1979,04,HV,Grass,1235,F,4,5,57,T C Cheng,K W Lui,41,122,--,1.16.00,063
+450,SILVER BOY (AK119),AUS,,Chestnut , Gelding,SG,7080,Princelone,Sylveve,,10/05/1980,03,ST,Grass,1400,Y,6,4,25,C L Ng,A S Cruz,8.9,125,--,1.26.80,411
+451,SILVER BOY (AK119),AUS,,Chestnut , Gelding,SG,7080,Princelone,Sylveve,,09/02/1980,11,HV,Grass,1650,S,6,7,25,C L Ng,R Setches,29,125,--,1.52.20,250
+452,SILVER BOY (AK119),AUS,,Chestnut , Gelding,SG,7080,Princelone,Sylveve,,26/01/1980,12,HV,Grass,1800,GF,6,8,27,C L Ng,R Setches,8.6,127,--,1.56.70,224
+453,SILVER BOY (AK119),AUS,,Chestnut , Gelding,SG,7080,Princelone,Sylveve,,10/11/1979,05,ST,Grass,1800,G,6,4,28,C L Ng,R Staples,11,128,--,1.53.30,086
+454,SILVER BOY (AK119),AUS,,Chestnut , Gelding,SG,7080,Princelone,Sylveve,,20/10/1979,05,HV,Grass,1650,F,6,1,28,C L Ng,R Setches,5.7,128,--,1.43.80,048
+455,POINT FORWARD (AK120),AUS,,Chestnut , Gelding,SG,88420,Martian,Regi,,05/02/1983,13,ST,"Grass""A""",1600,S,7,3,14,A Chan,Y S Wong,99,125,--,1.45.50,244
+456,POINT FORWARD (AK120),AUS,,Chestnut , Gelding,SG,88420,Martian,Regi,,26/01/1983,09,ST,Sand,1050,NW,7,2,16,A Chan,Y S Wong,46,127,--,1.10.00,226
+457,POINT FORWARD (AK120),AUS,,Chestnut , Gelding,SG,88420,Martian,Regi,,29/12/1982,11,HV,"Grass""A""",1235,G,7,3,19,A Chan,Y S Wong,31,130,--,1.18.40,175
+458,POINT FORWARD (AK120),AUS,,Chestnut , Gelding,SG,88420,Martian,Regi,,20/10/1982,10,HV,"Grass""A""",1235,G,7,2,19,A Chan,Y S Wong,9.6,130,--,1.17.30,061
+459,POINT FORWARD (AK120),AUS,,Chestnut , Gelding,SG,88420,Martian,Regi,,27/01/1982,03,HV,"Grass""B""",1650,GF,6,10,31,A Chan,Y S Wong,17,126,--,1.44.70,221
+460,POINT FORWARD (AK120),AUS,,Chestnut , Gelding,SG,88420,Martian,Regi,,13/01/1982,04,ST,Sand,1650,RA,6,6,30,A Chan,Y S Wong,42,125,--,1.49.70,201
+461,POINT FORWARD (AK120),AUS,,Chestnut , Gelding,SG,88420,Martian,Regi,,05/12/1981,07,ST,"Grass""A""",1000,GF,6,2,32,A Chan,T O Lau,12,132,--,1.01.30,135
+462,POINT FORWARD (AK120),AUS,,Chestnut , Gelding,SG,88420,Martian,Regi,,04/11/1981,03,ST,Sand,1150,RA,6,4,32,A Chan,T O Lau,10,132,--,1.13.30,085
+463,POINT FORWARD (AK120),AUS,,Chestnut , Gelding,SG,88420,Martian,Regi,,24/10/1981,11,ST,"Grass""C""",1200,GF,6,12,35,A Chan,T O Lau,7.7,135,--,1.14.60,066
+464,POINT FORWARD (AK120),AUS,,Chestnut , Gelding,SG,88420,Martian,Regi,,03/10/1981,03,HV,"Grass""A""",975,S,6,1,35,A Chan,T O Lau,7.3,135,--,1.01.30,024
+465,POINT FORWARD (AK120),AUS,,Chestnut , Gelding,SG,88420,Martian,Regi,,23/05/1981,07,HV,Grass,1235,Y,5,10,48,A Chan,S M Yung,9.5,125,--,1.17.40,432
+466,POINT FORWARD (AK120),AUS,,Chestnut , Gelding,SG,88420,Martian,Regi,,10/05/1981,04,ST,Grass,1200,H,5,2,49,A Chan,S M Yung,27,126,--,1.17.80,402
+467,POINT FORWARD (AK120),AUS,,Chestnut , Gelding,SG,88420,Martian,Regi,,20/04/1981,08,HV,Grass,975,Y,5,4,52,A Chan,Y S Wong,13,131,--,1.01.00,373
+468,POINT FORWARD (AK120),AUS,,Chestnut , Gelding,SG,88420,Martian,Regi,,03/12/1980,06,ST,Sand,1150,NW,4,6,50,A Chan,Y S Wong,37,111,--,1.13.30,116
+469,POINT FORWARD (AK120),AUS,,Chestnut , Gelding,SG,88420,Martian,Regi,,16/11/1980,12,ST,Grass,1200,GF,4,7,52,A Chan,J Bleasdale,10,120,--,1.14.30,092
+470,POINT FORWARD (AK120),AUS,,Chestnut , Gelding,SG,88420,Martian,Regi,,01/11/1980,11,ST,Grass,1000,GF,4,5,53,A Chan,K L Tsui,30,116,--,0.59.40,067
+471,POINT FORWARD (AK120),AUS,,Chestnut , Gelding,SG,88420,Martian,Regi,,28/05/1980,03,ST,Sand,1050,NW,4,3,63,A Chan,S M Yung,34,124,--,1.06.50,444
+472,POINT FORWARD (AK120),AUS,,Chestnut , Gelding,SG,88420,Martian,Regi,,03/05/1980,08,ST,Grass,1000,GF,4,9,65,A Chan,S M Yung,36,126,--,1.00.60,397
+473,POINT FORWARD (AK120),AUS,,Chestnut , Gelding,SG,88420,Martian,Regi,,21/04/1980,09,ST,Grass,1600,GF,4,5,66,A Chan,S M Yung,33,127,--,1.39.60,380
+474,POINT FORWARD (AK120),AUS,,Chestnut , Gelding,SG,88420,Martian,Regi,,09/03/1980,07,ST,Grass,1000,GY,4,3,68,A Chan,J Tandari,44,136,--,1.01.30,305
+475,POINT FORWARD (AK120),AUS,,Chestnut , Gelding,SG,88420,Martian,Regi,,23/02/1980,09,ST,Grass,1200,GY,4,6,70,A Chan,S M Yung,20,131,--,1.14.90,275
+476,POINT FORWARD (AK120),AUS,,Chestnut , Gelding,SG,88420,Martian,Regi,,19/01/1980,07,ST,Grass,1000,F,4,6,72,A Chan,J Tandari,14,140,--,1.00.80,205
+477,POINT FORWARD (AK120),AUS,,Chestnut , Gelding,SG,88420,Martian,Regi,,01/01/1980,03,HV,Grass,975,F,4,6,72,A Chan,P Paquet,2.1,140,--,0.59.00,173
+478,POINT FORWARD (AK120),AUS,,Chestnut , Gelding,SG,88420,Martian,Regi,,27/10/1979,02,HV,Grass,1235,F,4,1,70,A Chan,T O Lau,2.6,138,--,1.15.50,063
+479,POINT FORWARD (AK120),AUS,,Chestnut , Gelding,SG,88420,Martian,Regi,,06/10/1979,02,HV,Grass,975,F,4,8,65,A Chan,T O Lau,9.6,133,--,0.57.80,027
+480,BUDAPEST BOY (AK121),AUS,,Chestnut , Gelding,SG,39970,Prince Romantic,Tantalite,,26/09/1981,10,HV,"Grass""A""",1650,G,5,6,42,A Chan,T O Lau,47,126,--,1.49.30,014
+481,BUDAPEST BOY (AK121),AUS,,Chestnut , Gelding,SG,39970,Prince Romantic,Tantalite,,01/01/1981,11,HV,Grass,1800,G,4,12,53,A Chan,K S Ho,26,121,--,1.54.10,166
+482,BUDAPEST BOY (AK121),AUS,,Chestnut , Gelding,SG,39970,Prince Romantic,Tantalite,,17/12/1980,03,ST,Sand,2000,NW,4,14,51,A Chan,J Bleasdale,9.5,119,--,2.12.70,135
+483,BUDAPEST BOY (AK121),AUS,,Chestnut , Gelding,SG,39970,Prince Romantic,Tantalite,,06/12/1980,07,ST,Grass,2000,GF,4,3,51,A Chan,K Moses,49,119,--,2.06.30,122
+484,BUDAPEST BOY (AK121),AUS,,Chestnut , Gelding,SG,39970,Prince Romantic,Tantalite,,08/11/1980,07,ST,Grass,1600,F,4,4,54,A Chan,S M Yung,99,115,--,1.39.70,073
+485,BUDAPEST BOY (AK121),AUS,,Chestnut , Gelding,SG,39970,Prince Romantic,Tantalite,,25/10/1980,06,ST,Grass,1800,GY,4,7,55,A Chan,S M Yung,88,116,--,1.53.60,052
+486,BUDAPEST BOY (AK121),AUS,,Chestnut , Gelding,SG,39970,Prince Romantic,Tantalite,,26/03/1980,05,ST,Sand,1650,NW,3,6,69,A Chan,T O Lau,8.5,121,--,1.48.50,338
+487,BUDAPEST BOY (AK121),AUS,,Chestnut , Gelding,SG,39970,Prince Romantic,Tantalite,,05/03/1980,02,ST,Sand,2000,RA,3,11,66,A Chan,Y S Wong,18,111,--,2.11.20,291
+488,BUDAPEST BOY (AK121),AUS,,Chestnut , Gelding,SG,39970,Prince Romantic,Tantalite,,19/02/1980,08,HV,Grass,2400,G,4,1,67,A Chan,Y S Wong,19,128,--,2.39.90,263
+489,BUDAPEST BOY (AK121),AUS,,Chestnut , Gelding,SG,39970,Prince Romantic,Tantalite,,14/11/1979,02,HV,Sand,1575,NW,4,1,65,A Chan,J Tandari,23,133,--,1.45.60,096
+490,MINOTAUR (AK122),AUS,,Bay , Gelding,SG,0,Small Risk,Zinnie,,04/11/1979,13,ST,Grass,1200,Y,7,1,19,A Chan,K S Ho,6.2,135,--,1.19.00,077
+491,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,23/01/1983,06,ST,"Grass""C""",1800,GY,7,4,13,H M Cheung,K S Ho,22,129,--,1.56.30,221
+492,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,05/01/1983,05,HV,"Grass""A""",1650,S,7,1,15,H M Cheung,C S Shum,6.4,126,--,1.49.70,190
+493,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,17/11/1982,10,ST,Sand,1650,NW,7,9,16,H M Cheung,C M Cheng,20,127,--,1.52.50,112
+494,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,02/10/1982,08,HV,Sand,1575,NW,7,8,18,H M Cheung,C M Cheng,15,129,--,1.49.20,035
+495,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,22/09/1982,08,HV,Sand,1575,NW,7,9,18,H M Cheung,C M Cheng,7.9,129,--,1.49.40,010
+496,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,31/03/1982,01,HV,"Grass""B""",2230,GF,7,5,13,H M Cheung,C M Cheng,4.2,124,--,2.24.80,339
+497,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,20/03/1982,04,ST,"Grass""C""",1400,GF,7,7,12,H M Cheung,C M Cheng,9.4,123,--,1.27.10,319
+498,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,20/02/1982,05,ST,"Grass""A""",1600,GF,7,4,12,H M Cheung,P Miers,21,128,--,1.40.60,261
+499,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,12/12/1981,09,HV,"Grass""A""",1650,F,7,2,16,H M Cheung,P Miers,20,132,--,1.47.10,151
+500,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,07/11/1981,11,ST,"Grass""C""",1600,Y,7,13,17,H M Cheung,P Miers,17,133,--,1.43.80,093
+501,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,30/09/1981,06,HV,Sand,1400,NW,7,3,18,H M Cheung,P Miers,5.3,134,--,1.35.20,021
+502,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,29/04/1981,06,HV,Sand,1575,RA,6,5,24,H M Cheung,P Miers,11,124,--,1.46.00,391
+503,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,11/04/1981,09,HV,Grass,1650,G,6,3,25,H M Cheung,N Smith,30,125,--,1.45.70,353
+504,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,11/02/1981,07,HV,Grass,1800,GF,6,8,28,H M Cheung,N Smith,21,128,--,1.54.60,241
+505,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,25/01/1981,10,ST,Grass,1800,GF,6,11,30,H M Cheung,P Miers,29,130,--,1.54.50,222
+506,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,14/01/1981,04,HV,Sand,2000,NW,6,1,32,H M Cheung,P Miers,1.9,132,--,2.20.40,190
+507,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,19/11/1980,01,ST,Sand,2000,RA,6,6,24,H M Cheung,P Miers,2.4,124,--,2.12.40,095
+508,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,29/10/1980,02,ST,Sand,1650,NW,6,2,21,H M Cheung,P Miers,3.6,121,--,1.49.20,063
+509,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,22/10/1980,03,ST,Sand,1150,NW,6,7,19,H M Cheung,C S Shum,14,112,--,1.13.20,048
+510,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,27/09/1980,12,ST,Grass,1000,F,6,4,20,H M Cheung,P Miers,37,120,--,1.01.00,011
+511,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,18/05/1980,11,ST,Grass,1600,GF,5,10,32,H M Cheung,P Miers,16,116,--,1.40.30,424
+512,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,19/04/1980,07,ST,Grass,1800,F,5,1,34,H M Cheung,P Miers,19,118,--,1.53.30,365
+513,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,15/03/1980,11,ST,Grass,1600,G,5,9,37,H M Cheung,P Miers,16,121,--,1.41.80,318
+514,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,30/01/1980,05,HV,Sand,1575,NW,5,1,40,H M Cheung,P Miers,4.1,124,--,1.47.20,231
+515,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,20/01/1980,12,ST,Grass,1600,F,5,2,42,H M Cheung,L Fox,12,126,--,1.40.40,219
+516,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,09/12/1979,07,ST,Grass,2050,F,5,8,45,H M Cheung,P Miers,11,129,--,2.12.40,136
+517,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,27/10/1979,10,HV,Grass,1800,F,5,7,49,H M Cheung,P Miers,20,133,--,1.56.30,069
+518,ANTARCTIC OCEAN (AK123),NZ,,Bay , Gelding,SG,136450,Palm Beach,Awa Maru,,13/10/1979,07,HV,Grass,1235,F,5,1,50,H M Cheung,P Miers,13,134,--,1.16.80,047
+519,RICH GIFT (AK124),AUS,,Bay , Gelding,SG,57500,Bay Cobbler,Wee Peg,,30/01/1982,05,HV,"Grass""B""",975,GF,7,10,60,C L Ng,P H Chan,23,117,--,1.00.60,230
+520,RICH GIFT (AK124),AUS,,Bay , Gelding,SG,57500,Bay Cobbler,Wee Peg,,09/01/1982,07,ST,"Grass""A""",1000,GF,7,6,10,C L Ng,P H Chan,29,121,--,1.02.50,192
+521,RICH GIFT (AK124),AUS,,Bay , Gelding,SG,57500,Bay Cobbler,Wee Peg,,25/11/1981,05,ST,Sand,1050,NW,7,4,10,C L Ng,K L Tsui,6.4,126,--,1.07.60,115
+522,RICH GIFT (AK124),AUS,,Bay , Gelding,SG,57500,Bay Cobbler,Wee Peg,,16/05/1981,07,HV,Grass,1650,S,6,8,16,C L Ng,K L Tsui,66,116,--,1.47.90,422
+523,RICH GIFT (AK124),AUS,,Bay , Gelding,SG,57500,Bay Cobbler,Wee Peg,,02/05/1981,08,ST,Grass,1200,GF,6,10,19,C L Ng,A S Cruz,7.3,119,--,1.13.80,397
+524,RICH GIFT (AK124),AUS,,Bay , Gelding,SG,57500,Bay Cobbler,Wee Peg,,07/03/1981,12,ST,Grass,1200,F,6,10,22,C L Ng,C C Nam,28,115,--,1.18.50,293
+525,RICH GIFT (AK124),AUS,,Bay , Gelding,SG,57500,Bay Cobbler,Wee Peg,,18/02/1981,03,HV,Grass,1235,Y,6,5,22,C L Ng,K L Tsui,13,122,--,1.16.00,256
+526,RICH GIFT (AK124),AUS,,Bay , Gelding,SG,57500,Bay Cobbler,Wee Peg,,17/01/1981,11,ST,Grass,1000,F,6,7,25,C L Ng,C C Nam,57,118,--,1.01.40,196
+527,RICH GIFT (AK124),AUS,,Bay , Gelding,SG,57500,Bay Cobbler,Wee Peg,,27/09/1980,11,ST,Grass,1000,F,6,14,28,C L Ng,K L Tsui,20,123,--,1.00.80,011
+528,RICH GIFT (AK124),AUS,,Bay , Gelding,SG,57500,Bay Cobbler,Wee Peg,,16/04/1980,06,ST,Sand,1150,NW,5,5,42,C L Ng,R Setches,11,126,--,1.13.80,363
+529,RICH GIFT (AK124),AUS,,Bay , Gelding,SG,57500,Bay Cobbler,Wee Peg,,19/03/1980,01,ST,Sand,1050,NW,6,4,36,C L Ng,R Setches,6.8,136,--,1.06.60,327
+530,RICH GIFT (AK124),AUS,,Bay , Gelding,SG,57500,Bay Cobbler,Wee Peg,,27/02/1980,09,ST,Sand,1050,RA,5,9,36,C L Ng,C C Nam,9,113,--,1.07.70,276
+531,RICH GIFT (AK124),AUS,,Bay , Gelding,SG,57500,Bay Cobbler,Wee Peg,,30/01/1980,05,HV,Sand,1030,NW,5,1,38,C L Ng,R Setches,7.6,122,--,1.07.10,229
+532,RICH GIFT (AK124),AUS,,Bay , Gelding,SG,57500,Bay Cobbler,Wee Peg,,17/11/1979,10,ST,Grass,1000,F,5,10,41,C L Ng,R Setches,22,125,--,1.01.50,102
+533,RICH GIFT (AK124),AUS,,Bay , Gelding,SG,57500,Bay Cobbler,Wee Peg,,13/10/1979,02,HV,Grass,1235,F,5,1,38,C L Ng,R Setches,7.8,122,--,1.16.30,046
+534,GOLD LION (AK127),AUS,,Bay , Gelding,SG,16100,Man About Town,Baerami Lass,,30/04/1980,10,ST,Sand,1650,NW,3,1,82,M K Tam,M C Tam,80,131,--,1.49.30,395
+535,GOLD LION (AK127),AUS,,Bay , Gelding,SG,16100,Man About Town,Baerami Lass,,12/04/1980,13,ST,Grass,1600,G,3,4,83,M K Tam,T P Yung,52,128,--,1.42.90,352
+536,GOLD LION (AK127),AUS,,Bay , Gelding,SG,16100,Man About Town,Baerami Lass,,09/03/1980,10,ST,Grass,1800,GY,2,2,83,M K Tam,T P Yung,96,112,--,1.51.60,309
+537,GOLD LION (AK127),AUS,,Bay , Gelding,SG,16100,Man About Town,Baerami Lass,,09/02/1980,11,HV,Grass,1650,S,2,6,85,M K Tam,T P Yung,22,114,--,1.50.60,254
+538,GOLD LION (AK127),AUS,,Bay , Gelding,SG,16100,Man About Town,Baerami Lass,,19/01/1980,06,ST,Grass,2000,F,2,2,87,M K Tam,M C Tam,23,120,--,2.07.40,206
+539,GOLD LION (AK127),AUS,,Bay , Gelding,SG,16100,Man About Town,Baerami Lass,,09/12/1979,08,ST,Grass,1600,F,2,13,90,M K Tam,M C Tam,10,123,--,1.37.80,133
+540,GOLD LION (AK127),AUS,,Bay , Gelding,SG,16100,Man About Town,Baerami Lass,,04/11/1979,02,ST,Grass,1800,Y,2,9,87,M K Tam,M C Tam,11,120,--,1.52.70,082
+541,GOLD LION (AK127),AUS,,Bay , Gelding,SG,16100,Man About Town,Baerami Lass,,29/09/1979,06,HV,Grass,1650,Y,2,8,87,M K Tam,M C Tam,28,118,--,1.45.30,014
+542,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,20/04/1983,08,ST,Sand,1050,NW,6,7,35,A Chan,T O Lau,37,135,--,--,383
+543,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,02/04/1983,07,HV,Sand,1030,NW,6,8,37,A Chan,T O Lau,34,137,--,1.08.90,345
+544,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,19/02/1983,08,HV,Sand,1400,NW,5,7,36,A Chan,T O Lau,29,120,--,1.36.40,266
+545,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,05/02/1983,14,ST,"Grass""A""",1400,GY,5,4,40,A Chan,T O Lau,45,124,--,--,251
+546,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,19/01/1983,12,ST,Sand,1050,NW,5,8,43,A Chan,T O Lau,67,127,--,1.10.00,211
+547,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,11/12/1982,12,ST,"Grass""A""",1200,GF,5,3,46,A Chan,T O Lau,20,130,--,--,154
+548,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,23/10/1982,03,HV,"Grass""A""",1650,S,5,7,48,A Chan,T O Lau,20,132,--,1.49.30,067
+549,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,16/10/1982,07,ST,"Grass""A""",1200,GF,5,7,48,A Chan,T O Lau,25,132,--,1.13.50,054
+550,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,01/05/1982,06,ST,"Grass""C""",1200,H,4,5,57,A Chan,T O Lau,11,125,--,1.17.50,404
+551,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,24/04/1982,08,ST,"Grass""A""",1600,H,4,8,59,A Chan,K L Tsui,13,127,--,1.48.00,395
+552,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,03/04/1982,03,HV,"Grass""A""",1650,S,4,10,59,A Chan,T O Lau,53,127,--,1.46.60,341
+553,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,07/10/1981,09,HV,Sand,1400,NW,4,7,59,A Chan,S M Yung,99,120,--,1.33.60,031
+554,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,04/04/1981,07,HV,Grass,1650,G,3,3,66,A Chan,S M Yung,82,111,--,1.43.80,335
+555,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,18/02/1981,10,HV,Grass,1800,Y,3,4,66,A Chan,T O Lau,47,118,--,1.56.60,257
+556,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,07/02/1981,09,HV,Grass,1650,GF,3,1,68,A Chan,T O Lau,17,120,--,1.43.50,234
+557,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,25/01/1981,13,ST,Grass,1400,GF,3,6,70,A Chan,J Bleasdale,19,122,--,1.27.50,223
+558,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,22/11/1980,09,ST,Grass,1200,GF,3,7,72,A Chan,T O Lau,71,124,--,1.14.00,101
+559,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,16/11/1980,12,ST,Grass,1600,GF,3,5,75,A Chan,S M Yung,61,120,--,1.40.60,089
+560,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,01/10/1980,12,ST,Sand,1650,NW,3,10,75,A Chan,T O Lau,41,127,--,1.51.50,020
+561,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,15/03/1980,01,ST,Grass,1400,G,3,4,81,A Chan,T O Lau,4.5,133,--,1.24.40,317
+562,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,01/03/1980,03,ST,Grass,1200,G,3,10,78,A Chan,T O Lau,5.3,130,--,1.12.60,284
+563,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,19/02/1980,02,HV,Grass,1235,G,3,8,74,A Chan,T O Lau,20,126,--,1.15.60,265
+564,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,06/02/1980,09,HV,Sand,1575,RA,3,5,77,A Chan,K S Ho,42,129,--,1.46.20,248
+565,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,26/01/1980,06,HV,Grass,1650,GF,3,9,78,A Chan,T O Lau,8.9,130,--,14.02.30,228
+566,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,15/12/1979,07,HV,Grass,1800,G,3,1,79,A Chan,T O Lau,17,131,--,1.52.70,146
+567,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,31/10/1979,07,HV,Sand,1400,NW,3,8,80,A Chan,K S Ho,10,132,--,1.35.20,076
+568,LUCK FOR ALL (AK129),AUS,,Bay , Gelding,SG,91840,Coronation Cadet,Crystal Court,,22/09/1979,04,HV,Grass,1650,Y,3,10,79,A Chan,T O Lau,12,131,--,1.46.00,005
+569,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,17/09/1983,09,HV,"Grass""A""",1235,G,6,11,20,E Collingwood,W Hood,27,122,--,1.17.20,008
+570,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,15/01/1983,04,ST,"Grass""C""",1000,G,6,1,29,E Collingwood,W Hood,22,129,--,1.00.90,201
+571,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,29/12/1982,08,HV,"Grass""A""",1650,G,6,6,31,E Collingwood,C M Cheng,9.9,128,--,1.45.90,172
+572,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,13/11/1982,10,ST,"Grass""C""",1600,G,6,6,33,E Collingwood,C M Cheng,20,128,--,1.41.90,108
+573,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,03/11/1982,02,HV,"Grass""B""",1235,G,6,9,33,E Collingwood,C M Cheng,11,128,--,1.16.30,094
+574,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,25/09/1982,06,ST,"Grass""A""",1200,Y,6,1,33,E Collingwood,P Paquet,4.4,133,--,1.16.00,020
+575,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,22/05/1982,02,HV,"Grass""A""",1235,GF,5,1,40,E Collingwood,C M Cheng,9.6,119,--,1.15.30,438
+576,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,01/05/1982,04,ST,"Grass""C""",1400,H,5,4,42,E Collingwood,W Hood,8.5,126,--,1.32.00,406
+577,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,21/04/1982,06,ST,"Grass""A""",1600,GF,5,9,43,E Collingwood,W Hood,8.5,127,--,1.39.90,382
+578,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,27/02/1982,02,ST,"Grass""A""",1400,G,5,1,42,E Collingwood,W Hood,11,126,--,1.26.00,279
+579,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,03/01/1982,06,ST,"Grass""A""",1600,GF,5,13,44,E Collingwood,J Lowe,18,128,--,1.38.60,185
+580,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,05/12/1981,02,ST,"Grass""A""",1400,GF,5,7,41,E Collingwood,J Lowe,16,125,--,1.25.50,138
+581,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,07/11/1981,04,ST,"Grass""C""",1000,Y,5,1,41,E Collingwood,W Hood,20,125,--,1.01.20,092
+582,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,07/10/1981,07,HV,Sand,1575,NW,5,1,42,E Collingwood,W Hood,4.3,126,--,1.46.80,034
+583,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,19/09/1981,03,HV,"Grass""A""",1650,GF,5,9,42,E Collingwood,W Hood,18,126,--,1.43.10,007
+584,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,13/05/1981,05,HV,Sand,2000,RA,4,8,52,E Collingwood,W Hood,17,120,--,2.14.40,410
+585,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,20/04/1981,05,HV,Grass,2230,Y,4,9,52,E Collingwood,W Hood,20,120,--,2.27.20,375
+586,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,28/03/1981,08,ST,Grass,1600,GY,4,3,54,E Collingwood,W Hood,59,122,--,1.39.30,334
+587,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,07/03/1981,11,ST,Grass,1400,F,4,8,57,E Collingwood,W Hood,48,125,--,1.25.90,294
+588,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,21/02/1981,06,HV,Grass,1235,G,4,5,60,E Collingwood,B Taylor,6.1,128,--,1.15.20,269
+589,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,21/01/1981,06,HV,Sand,1575,NW,4,4,61,E Collingwood,W Hood,7.5,129,--,1.46.00,205
+590,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,01/01/1981,02,HV,Grass,1800,G,4,2,59,E Collingwood,W Hood,12,127,--,1.51.60,163
+591,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,08/11/1980,09,ST,Grass,1600,F,4,2,61,E Collingwood,K O Wong,31,122,--,1.39.40,075
+592,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,01/11/1980,02,ST,Grass,1000,GF,4,11,59,E Collingwood,K O Wong,70,120,--,0.58.70,067
+593,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,04/10/1980,03,ST,Grass,1200,F,4,3,58,E Collingwood,K O Wong,99,119,--,1.12.30,024
+594,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,31/05/1980,08,ST,Grass,1600,Y,3,1,69,E Collingwood,K O Wong,20,114,--,1.40.30,453
+595,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,30/04/1980,06,ST,Sand,1650,NW,3,2,71,E Collingwood,C K Chow,22,118,--,1.48.60,391
+596,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,12/04/1980,14,ST,Grass,1600,S,3,8,74,E Collingwood,W Hood,14,126,--,1.49.50,353
+597,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,06/02/1980,06,HV,Sand,1575,RA,3,2,76,E Collingwood,C K Chow,10,123,--,1.44.50,248
+598,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,26/01/1980,03,HV,Grass,1650,GF,3,3,76,E Collingwood,W Hood,16,128,--,1.41.70,227
+599,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,12/01/1980,10,ST,Grass,1800,F,3,3,78,E Collingwood,W Hood,13,130,--,1.53.00,195
+600,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,15/12/1979,03,HV,Grass,1800,G,3,5,77,E Collingwood,W Hood,37,129,--,1.51.70,145
+601,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,17/11/1979,11,ST,Grass,1400,F,3,2,79,E Collingwood,W Hood,19,131,--,1.26.20,101
+602,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,24/10/1979,03,HV,Sand,1575,NW,3,2,79,E Collingwood,W Hood,16,131,--,1.45.20,058
+603,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,10/10/1979,03,HV,Sand,1400,NW,3,6,78,E Collingwood,W Hood,7.4,130,--,1.34.40,034
+604,CHATER ROAD (AK130),AUS,,Bay , Gelding,SG,198520,Man About Town,Denita Girl,,22/09/1979,08,HV,Grass,1235,Y,3,1,78,E Collingwood,W Hood,14,139,--,1.19.10,009
+605,CAN SCORE (AK131),AUS,,Chestnut , Gelding,SG,7080,King Bogan,Bermuda Sister,,22/03/1980,13,ST,Grass,1200,G,5,13,43,C L Ng,H M Lee,48,127,--,1.15.40,331
+606,CAN SCORE (AK131),AUS,,Chestnut , Gelding,SG,7080,King Bogan,Bermuda Sister,,06/02/1980,08,HV,Sand,1400,RA,5,3,46,C L Ng,J Bleasdale,6.6,130,--,1.33.60,247
+607,CAN SCORE (AK131),AUS,,Chestnut , Gelding,SG,7080,King Bogan,Bermuda Sister,,16/01/1980,03,HV,Sand,1030,NW,5,3,44,C L Ng,J Bleasdale,12,128,--,1.06.70,202
+608,CAN SCORE (AK131),AUS,,Chestnut , Gelding,SG,7080,King Bogan,Bermuda Sister,,27/10/1979,06,HV,Grass,1800,F,5,4,44,C L Ng,R Setches,7,128,--,1.55.00,069
+609,SUPER FLIGHT (AK132),AUS,,Bay , Gelding,SG,47050,Getuli,Girl Gambler,,01/05/1982,14,ST,"Grass""C""",1800,H,6,6,20,T C Cheng,W T Leung,99,120,--,--,408
+610,SUPER FLIGHT (AK132),AUS,,Bay , Gelding,SG,47050,Getuli,Girl Gambler,,13/01/1982,12,ST,Sand,1650,RA,6,12,25,T C Cheng,B Taylor,43,125,--,1.54.20,201
+611,SUPER FLIGHT (AK132),AUS,,Bay , Gelding,SG,47050,Getuli,Girl Gambler,,23/12/1981,06,HV,Sand,1575,NW,6,7,27,T C Cheng,B Taylor,15,127,--,1.49.10,169
+612,SUPER FLIGHT (AK132),AUS,,Bay , Gelding,SG,47050,Getuli,Girl Gambler,,21/10/1981,07,HV,"Grass""B""",2230,GF,6,2,29,T C Cheng,W T Leung,26,129,--,2.27.00,059
+613,SUPER FLIGHT (AK132),AUS,,Bay , Gelding,SG,47050,Getuli,Girl Gambler,,20/04/1981,09,HV,Grass,1650,Y,5,7,38,T C Cheng,W T Leung,62,122,--,1.48.00,378
+614,SUPER FLIGHT (AK132),AUS,,Bay , Gelding,SG,47050,Getuli,Girl Gambler,,04/04/1981,06,HV,Grass,2230,G,5,1,40,T C Cheng,W T Leung,16,124,--,2.26.40,340
+615,SUPER FLIGHT (AK132),AUS,,Bay , Gelding,SG,47050,Getuli,Girl Gambler,,21/03/1981,09,ST,Grass,1800,GY,5,9,43,T C Cheng,C M Cheng,12,120,--,1.54.00,319
+616,SUPER FLIGHT (AK132),AUS,,Bay , Gelding,SG,47050,Getuli,Girl Gambler,,28/01/1981,07,HV,Sand,2000,NW,5,10,46,T C Cheng,B Taylor,4.7,130,--,2.18.30,227
+617,SUPER FLIGHT (AK132),AUS,,Bay , Gelding,SG,47050,Getuli,Girl Gambler,,23/12/1980,06,HV,Grass,1650,F,5,5,46,T C Cheng,B Taylor,6.1,130,--,1.44.50,153
+618,SUPER FLIGHT (AK132),AUS,,Bay , Gelding,SG,47050,Getuli,Girl Gambler,,29/11/1980,04,ST,Grass,2000,GF,5,1,46,T C Cheng,B Taylor,4.2,130,--,2.09.00,111
+619,SUPER FLIGHT (AK132),AUS,,Bay , Gelding,SG,47050,Getuli,Girl Gambler,,08/11/1980,05,ST,Grass,1800,F,5,11,47,T C Cheng,W T Leung,3.7,131,--,1.52.60,077
+620,SUPER FLIGHT (AK132),AUS,,Bay , Gelding,SG,47050,Getuli,Girl Gambler,,04/10/1980,07,ST,Grass,1800,F,5,6,47,T C Cheng,W T Leung,5.1,131,--,1.51.90,027
+621,SUPER FLIGHT (AK132),AUS,,Bay , Gelding,SG,47050,Getuli,Girl Gambler,,19/04/1980,06,ST,Grass,2250,F,4,5,58,T C Cheng,A K Cheam,5,126,--,2.24.40,364
+622,SUPER FLIGHT (AK132),AUS,,Bay , Gelding,SG,47050,Getuli,Girl Gambler,,08/03/1980,03,ST,Grass,1800,GY,4,5,54,T C Cheng,W T Leung,6.2,122,--,1.52.80,303
+623,SUPER FLIGHT (AK132),AUS,,Bay , Gelding,SG,47050,Getuli,Girl Gambler,,29/12/1979,10,HV,Grass,2230,F,4,4,56,T C Cheng,W T Leung,11,124,--,2.23.30,160
+624,SUPER FLIGHT (AK132),AUS,,Bay , Gelding,SG,47050,Getuli,Girl Gambler,,12/12/1979,05,HV,Sand,1575,NW,4,3,56,T C Cheng,W T Leung,11,124,--,1.44.90,137
+625,SUPER FLIGHT (AK132),AUS,,Bay , Gelding,SG,47050,Getuli,Girl Gambler,,21/11/1979,06,HV,Sand,2000,NW,4,2,57,T C Cheng,B Taylor,12,125,--,2.16.80,105
+626,SUPER FLIGHT (AK132),AUS,,Bay , Gelding,SG,47050,Getuli,Girl Gambler,,27/10/1979,01,HV,Grass,1800,F,5,9,50,T C Cheng,W T Leung,8.1,134,--,1.53.60,065
+627,SUPER FLIGHT (AK132),AUS,,Bay , Gelding,SG,47050,Getuli,Girl Gambler,,29/09/1979,06,HV,Grass,1650,Y,5,8,51,T C Cheng,W T Leung,66,135,--,1.46.60,015
+628,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,19/05/1984,06,ST,"Grass""C""",1200,H,6,11,16,B K Ng,K W Chan,53,109,--,1.16.50,454
+629,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,09/05/1984,09,HV,Sand,1400,NW,6,4,21,B K Ng,K W Chan,51,114,--,1.34.70,435
+630,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,21/04/1984,05,HV,Sand,1575,RA,6,5,24,B K Ng,Y P Chan,22,124,--,1.46.70,397
+631,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,07/04/1984,11,HV,"Grass""A""",1800,S,6,4,27,B K Ng,M C Tam,39,127,--,--,372
+632,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,03/03/1984,09,ST,"Grass""B""",1400,F,6,12,30,B K Ng,Y S Tsui,55,130,--,1.26.50,303
+633,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,08/02/1984,11,HV,"Grass""A""",1800,F,6,9,33,B K Ng,M C Tam,11,133,--,1.56.50,265
+634,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,25/01/1984,08,ST,Sand,1150,NW,6,8,35,B K Ng,M C Tam,27,135,--,1.16.70,250
+635,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,21/12/1983,01,HV,"Grass""B""",1800,F,6,3,30,B K Ng,M C Tam,11,130,--,1.53.20,195
+636,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,28/05/1983,07,HV,Sand,1575,RA,5,3,40,E Collingwood,M C Tam,10,124,--,1.45.30,450
+637,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,16/04/1983,02,ST,"Grass""A""",1800,G,5,4,40,E Collingwood,T P Yung,69,124,--,1.52.50,382
+638,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,08/01/1983,09,ST,"Grass""A""",1600,H,5,5,42,E Collingwood,T P Yung,55,126,--,1.47.70,194
+639,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,19/12/1981,05,HV,"Grass""A""",1800,GF,4,4,53,E Collingwood,J Lowe,99,121,--,1.53.70,163
+640,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,05/12/1981,11,ST,"Grass""A""",1600,GF,4,6,54,E Collingwood,J Lowe,8.5,122,--,1.40.50,140
+641,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,04/11/1981,07,ST,Sand,1650,RA,4,1,54,E Collingwood,T P Yung,5.2,117,--,1.50.50,086
+642,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,20/05/1981,01,HV,Grass,1650,F,4,4,55,E Collingwood,T P Yung,3.2,116,--,1.42.10,426
+643,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,15/04/1981,04,HV,Sand,1400,RA,4,1,57,E Collingwood,Y S Wong,14,122,--,1.33.00,360
+644,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,21/03/1981,07,ST,Grass,1200,GY,4,8,58,E Collingwood,K Langby,19,126,--,1.13.40,317
+645,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,20/12/1980,02,HV,Grass,1650,F,4,2,56,E Collingwood,T P Yung,27,117,--,1.41.70,147
+646,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,29/11/1980,07,ST,Grass,1400,GF,4,3,58,E Collingwood,T P Yung,6.3,119,--,1.26.60,106
+647,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,21/09/1980,01,ST,Grass,1600,F,5,6,50,E Collingwood,T P Yung,8.4,127,--,1.37.00,007
+648,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,10/05/1980,06,ST,Grass,1200,Y,4,6,64,E Collingwood,C K Chow,20,127,--,1.13.90,412
+649,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,30/04/1980,13,ST,Sand,1650,NW,3,13,67,E Collingwood,C K Chow,37,114,--,1.54.40,395
+650,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,19/04/1980,04,ST,Grass,1200,F,3,7,68,E Collingwood,Y Y Choy,16,113,--,1.11.90,366
+651,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,05/03/1980,02,ST,Sand,1150,RA,4,4,67,E Collingwood,C K Chow,9.1,130,--,1.13.30,292
+652,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,26/01/1980,08,HV,Grass,1650,GF,3,7,68,E Collingwood,C K Chow,12,115,--,1.43.90,228
+653,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,05/01/1980,09,ST,Grass,1200,F,3,11,71,E Collingwood,C Roche,12,123,--,1.13.20,181
+654,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,22/12/1979,06,HV,Grass,975,F,3,12,72,E Collingwood,C Roche,21,124,--,0.59.30,158
+655,GOLD PETER (AK133),AUS,,Bay , Gelding,SG,225250,Beau Golea,Bonny Argyle,,31/10/1979,06,HV,Sand,1400,NW,3,7,73,E Collingwood,Y Y Choy,9.2,118,--,1.33.70,072
+656,MAUI (AK134),AUS,,Bay , Gelding,SG,72570,Index,Charming Blue,,07/01/1981,08,HV,Grass,1235,F,5,4,48,A Chan,W T Leung,6.3,132,--,1.16.30,177
+657,MAUI (AK134),AUS,,Bay , Gelding,SG,72570,Index,Charming Blue,,01/10/1980,01,ST,Sand,1050,NW,5,11,40,A Chan,T O Lau,10,124,--,1.05.30,021
+658,MAUI (AK134),AUS,,Bay , Gelding,SG,72570,Index,Charming Blue,,24/05/1980,02,ST,Grass,1000,G,5,10,48,A Chan,T O Lau,3.1,132,--,0.58.40,439
+659,MAUI (AK134),AUS,,Bay , Gelding,SG,72570,Index,Charming Blue,,07/05/1980,03,ST,Sand,1050,RA,5,4,50,A Chan,W T Leung,6.2,134,--,1.06.60,405
+660,MAUI (AK134),AUS,,Bay , Gelding,SG,72570,Index,Charming Blue,,22/03/1980,03,ST,Grass,1200,G,5,1,49,A Chan,P F Yiu,33,133,--,1.13.10,335
+661,MAUI (AK134),AUS,,Bay , Gelding,SG,72570,Index,Charming Blue,,17/11/1979,13,ST,Grass,1000,F,5,6,51,A Chan,P F Yiu,9.5,135,--,1.02.00,102
+662,HEADLINER (AK136),AUS,,Chestnut , Gelding,SG,73590,Kalwood,Birri Love,,30/05/1981,08,HV,Grass,1800,F,5,6,40,E Collingwood,A S Cruz,15,124,--,1.54.60,446
+663,HEADLINER (AK136),AUS,,Chestnut , Gelding,SG,73590,Kalwood,Birri Love,,13/05/1981,06,HV,Sand,1400,RA,5,1,43,E Collingwood,W Hood,5.2,127,--,1.34.60,411
+664,HEADLINER (AK136),AUS,,Chestnut , Gelding,SG,73590,Kalwood,Birri Love,,20/04/1981,04,HV,Grass,1650,Y,5,7,44,E Collingwood,W Hood,6.6,128,--,1.47.00,372
+665,HEADLINER (AK136),AUS,,Chestnut , Gelding,SG,73590,Kalwood,Birri Love,,25/03/1981,10,ST,Sand,1050,NW,5,2,45,E Collingwood,W Hood,99,129,--,1.07.00,325
+666,HEADLINER (AK136),AUS,,Chestnut , Gelding,SG,73590,Kalwood,Birri Love,,29/11/1980,10,ST,Grass,2000,GF,5,10,48,P C Kan,A S Cruz,19,132,--,2.11.70,111
+667,HEADLINER (AK136),AUS,,Chestnut , Gelding,SG,73590,Kalwood,Birri Love,,08/11/1980,07,ST,Grass,1800,F,5,5,48,P C Kan,A S Cruz,7.7,132,--,1.53.10,077
+668,HEADLINER (AK136),AUS,,Chestnut , Gelding,SG,73590,Kalwood,Birri Love,,03/05/1980,06,ST,Grass,1800,H,4,6,55,G Sofronoff,A S Cruz,9.6,123,--,1.58.60,402
+669,HEADLINER (AK136),AUS,,Chestnut , Gelding,SG,73590,Kalwood,Birri Love,,16/04/1980,07,ST,Sand,1650,NW,4,3,56,G Sofronoff,A S Cruz,12,124,--,1.50.60,359
+670,HEADLINER (AK136),AUS,,Chestnut , Gelding,SG,73590,Kalwood,Birri Love,,15/03/1980,01,ST,Grass,1600,G,5,11,50,G Sofronoff,A S Cruz,7.8,134,--,1.39.10,318
+671,HEADLINER (AK136),AUS,,Chestnut , Gelding,SG,73590,Kalwood,Birri Love,,05/03/1980,04,ST,Sand,1150,RA,5,2,49,G Sofronoff,B Andrews,22,133,--,1.13.30,295
+672,HEADLINER (AK136),AUS,,Chestnut , Gelding,SG,73590,Kalwood,Birri Love,,20/01/1980,06,ST,Grass,1600,F,5,5,50,G Sofronoff,B Andrews,16,134,--,1.39.40,219
+673,HEADLINER (AK136),AUS,,Chestnut , Gelding,SG,73590,Kalwood,Birri Love,,22/12/1979,02,HV,Grass,1235,F,5,1,49,G Sofronoff,B Andrews,10,133,--,1.16.40,159
+674,HEADLINER (AK136),AUS,,Chestnut , Gelding,SG,73590,Kalwood,Birri Love,,17/11/1979,04,ST,Grass,1600,F,5,14,48,G Sofronoff,B Andrews,9.2,132,--,1.39.20,099
+675,HEADLINER (AK136),AUS,,Chestnut , Gelding,SG,73590,Kalwood,Birri Love,,27/10/1979,02,HV,Grass,1800,F,5,1,43,G Sofronoff,B Andrews,7.2,127,--,1.53.70,069
+676,COME ON (AK137),AUS,,Chestnut , Gelding,SG,94470,Speed Of Sound,Funny Face,,25/02/1981,10,HV,Sand,2000,RA,4,8,66,E Collingwood,W Hood,25,134,--,2.25.00,271
+677,COME ON (AK137),AUS,,Chestnut , Gelding,SG,94470,Speed Of Sound,Funny Face,,13/12/1980,06,HV,Grass,2230,F,3,7,65,E Collingwood,W Hood,5.6,117,--,2.20.80,132
+678,COME ON (AK137),AUS,,Chestnut , Gelding,SG,94470,Speed Of Sound,Funny Face,,12/11/1980,08,ST,Sand,2000,NW,3,9,65,E Collingwood,W Hood,19,117,--,2.12.00,079
+679,COME ON (AK137),AUS,,Chestnut , Gelding,SG,94470,Speed Of Sound,Funny Face,,22/10/1980,08,ST,Sand,1650,NW,3,6,68,E Collingwood,W Hood,99,120,--,1.48.70,050
+680,COME ON (AK137),AUS,,Chestnut , Gelding,SG,94470,Speed Of Sound,Funny Face,,01/10/1980,06,ST,Sand,1650,NW,3,3,68,E Collingwood,W Hood,99,120,--,1.49.10,020
+681,COME ON (AK137),AUS,,Chestnut , Gelding,SG,94470,Speed Of Sound,Funny Face,,24/05/1980,08,ST,Grass,2000,G,3,6,76,E Collingwood,W Hood,24,128,--,2.07.50,438
+682,COME ON (AK137),AUS,,Chestnut , Gelding,SG,94470,Speed Of Sound,Funny Face,,07/05/1980,09,ST,Sand,2000,RA,3,1,76,E Collingwood,W Hood,25,128,--,2.15.50,408
+683,COME ON (AK137),AUS,,Chestnut , Gelding,SG,94470,Speed Of Sound,Funny Face,,21/04/1980,01,ST,Grass,2250,GF,3,9,68,E Collingwood,W Hood,31,120,--,2.21.20,375
+684,COME ON (AK137),AUS,,Chestnut , Gelding,SG,94470,Speed Of Sound,Funny Face,,15/03/1980,07,ST,Grass,1800,G,3,6,70,E Collingwood,W Hood,28,122,--,1.51.70,322
+685,COME ON (AK137),AUS,,Chestnut , Gelding,SG,94470,Speed Of Sound,Funny Face,,23/02/1980,05,ST,Grass,2450,GY,3,3,73,E Collingwood,C Roche,14,125,--,2.38.30,273
+686,COME ON (AK137),AUS,,Chestnut , Gelding,SG,94470,Speed Of Sound,Funny Face,,02/02/1980,08,HV,Grass,2230,H,3,9,76,E Collingwood,C Roche,6.1,128,--,2.33.00,238
+687,COME ON (AK137),AUS,,Chestnut , Gelding,SG,94470,Speed Of Sound,Funny Face,,01/01/1980,01,HV,Grass,2230,F,3,7,70,E Collingwood,C Roche,9.8,122,--,2.20.40,176
+688,COME ON (AK137),AUS,,Chestnut , Gelding,SG,94470,Speed Of Sound,Funny Face,,15/12/1979,08,HV,Grass,1800,G,3,10,73,E Collingwood,C Roche,29,125,--,1.53.00,146
+689,COME ON (AK137),AUS,,Chestnut , Gelding,SG,94470,Speed Of Sound,Funny Face,,24/11/1979,09,ST,Grass,1800,GF,3,11,75,E Collingwood,C Roche,14,127,--,1.51.00,113
+690,COME ON (AK137),AUS,,Chestnut , Gelding,SG,94470,Speed Of Sound,Funny Face,,22/09/1979,02,HV,Grass,1650,Y,3,8,74,E Collingwood,W Hood,18,126,--,1.46.80,007
+691,MAGNIFIQUE (AK138),AUS,,Bay , Gelding,SG,64950,Comet,Kindly,,25/03/1981,08,ST,Sand,1150,NW,7,1,4,T L Lee,B Andrews,11,120,--,1.16.20,324
+692,MAGNIFIQUE (AK138),AUS,,Bay , Gelding,SG,64950,Comet,Kindly,,25/02/1981,10,HV,Sand,1400,RA,7,5,5,T L Lee,W T Hung,20,114,--,1.38.00,275
+693,MAGNIFIQUE (AK138),AUS,,Bay , Gelding,SG,64950,Comet,Kindly,,14/02/1981,02,HV,Grass,975,GF,7,7,3,T L Lee,P Paquet,6.3,119,--,0.59.80,249
+694,MAGNIFIQUE (AK138),AUS,,Bay , Gelding,SG,64950,Comet,Kindly,,21/01/1981,04,HV,Sand,1030,NW,7,6,3,T L Lee,P Paquet,9.1,119,--,1.08.10,204
+695,MAGNIFIQUE (AK138),AUS,,Bay , Gelding,SG,64950,Comet,Kindly,,23/12/1980,04,HV,Grass,1235,F,7,10,4,T L Lee,W T Hung,24,113,--,1.17.10,148
+696,MAGNIFIQUE (AK138),AUS,,Bay , Gelding,SG,64950,Comet,Kindly,,01/11/1980,06,ST,Grass,1200,GF,7,5,40,T L Lee,K Langby,6.8,120,--,1.13.60,065
+697,MAGNIFIQUE (AK138),AUS,,Bay , Gelding,SG,64950,Comet,Kindly,,19/03/1980,06,ST,Sand,1050,NW,6,3,19,G Sofronoff,B Andrews,5,120,--,1.07.40,327
+698,MAGNIFIQUE (AK138),AUS,,Bay , Gelding,SG,64950,Comet,Kindly,,02/02/1980,05,HV,Grass,1235,H,6,9,22,G Sofronoff,A S Cruz,5.8,122,--,1.22.10,237
+699,MAGNIFIQUE (AK138),AUS,,Bay , Gelding,SG,64950,Comet,Kindly,,05/01/1980,01,ST,Grass,1000,F,7,6,15,G Sofronoff,B Andrews,6,131,--,1.01.50,179
+700,MAGNIFIQUE (AK138),AUS,,Bay , Gelding,SG,64950,Comet,Kindly,,09/12/1979,08,ST,Grass,1400,F,7,8,14,G Sofronoff,B Andrews,25,130,--,1.28.70,132
+701,MAGNIFIQUE (AK138),AUS,,Bay , Gelding,SG,64950,Comet,Kindly,,04/11/1979,04,ST,Grass,1200,Y,7,3,15,G Sofronoff,B Andrews,18,131,--,1.16.30,077
+702,MAGNIFIQUE (AK138),AUS,,Bay , Gelding,SG,64950,Comet,Kindly,,13/10/1979,10,HV,Grass,1650,F,7,9,16,G Sofronoff,F S Cheung,99,125,--,1.46.80,039
+703,LUCKY MONEY (AK140),AUS,,Chestnut , Gelding,SG,38010,Lochie,Eastern Cherie,,25/04/1981,14,ST,Grass,1200,GF,4,9,57,P C Kan,Y S Tsui,72,118,--,1.18.50,383
+704,LUCKY MONEY (AK140),AUS,,Chestnut , Gelding,SG,38010,Lochie,Eastern Cherie,,18/03/1981,13,ST,Sand,1800,RA,4,2,62,P C Kan,Y S Tsui,43,123,--,2.04.00,308
+705,LUCKY MONEY (AK140),AUS,,Chestnut , Gelding,SG,38010,Lochie,Eastern Cherie,,07/03/1981,13,ST,Grass,1400,F,4,3,65,P C Kan,Y S Tsui,45,126,--,1.28.90,298
+706,LUCKY MONEY (AK140),AUS,,Chestnut , Gelding,SG,38010,Lochie,Eastern Cherie,,10/01/1981,13,ST,Grass,1600,GF,3,7,64,P C Kan,B Rouse,99,116,--,1.40.10,185
+707,LUCKY MONEY (AK140),AUS,,Chestnut , Gelding,SG,38010,Lochie,Eastern Cherie,,28/12/1980,09,ST,Grass,1800,F,3,3,67,P C Kan,K L Man,88,119,--,1.54.30,159
+708,LUCKY MONEY (AK140),AUS,,Chestnut , Gelding,SG,38010,Lochie,Eastern Cherie,,17/12/1980,13,ST,Sand,1050,NW,3,13,70,P C Kan,W T Leung,56,122,--,1.07.40,138
+709,LUCKY MONEY (AK140),AUS,,Chestnut , Gelding,SG,38010,Lochie,Eastern Cherie,,15/10/1980,07,ST,Sand,1050,NW,3,4,73,P C Kan,W T Leung,18,125,--,1.06.50,044
+710,LUCKY MONEY (AK140),AUS,,Chestnut , Gelding,SG,38010,Lochie,Eastern Cherie,,01/10/1980,09,ST,Sand,1150,NW,3,10,75,P C Kan,K L Man,19,127,--,1.13.30,022
+711,LUCKY MONEY (AK140),AUS,,Chestnut , Gelding,SG,38010,Lochie,Eastern Cherie,,21/09/1980,11,ST,Grass,1400,F,3,5,75,P C Kan,P H Chan,99,120,--,1.25.60,008
+712,LUCKY MONEY (AK140),AUS,,Chestnut , Gelding,SG,38010,Lochie,Eastern Cherie,,21/05/1980,07,ST,Sand,1050,NW,2,2,86,P C Kan,C K Chow,9,117,--,1.05.90,430
+713,LUCKY MONEY (AK140),AUS,,Chestnut , Gelding,SG,38010,Lochie,Eastern Cherie,,18/05/1980,08,ST,Grass,1600,GF,2,2,86,P C Kan,S M Au-Yeung,13,115,--,1.38.20,423
+714,LUCKY MONEY (AK140),AUS,,Chestnut , Gelding,SG,38010,Lochie,Eastern Cherie,,19/04/1980,02,ST,Grass,1000,F,1&2,5,82,P C Kan,S M Au-Yeung,42,109,--,0.57.90,371
+715,LUCKY MONEY (AK140),AUS,,Chestnut , Gelding,SG,38010,Lochie,Eastern Cherie,,19/03/1980,05,ST,Sand,1650,NW,2,10,84,F Carr,W T Hung,41,113,--,1.46.60,324
+716,LUCKY MONEY (AK140),AUS,,Chestnut , Gelding,SG,38010,Lochie,Eastern Cherie,,08/03/1980,13,ST,Grass,1200,GY,2,12,85,F Carr,J Roe,72,121,--,1.14.30,304
+717,LUCKY MONEY (AK140),AUS,,Chestnut , Gelding,SG,38010,Lochie,Eastern Cherie,,09/02/1980,06,HV,Grass,1650,S,2,10,88,F Carr,L Piggott,8.5,124,--,1.48.80,254
+718,LUCKY MONEY (AK140),AUS,,Chestnut , Gelding,SG,38010,Lochie,Eastern Cherie,,29/12/1979,08,HV,Grass,1235,F,2,7,89,F Carr,S Morris,99,120,--,1.15.00,162
+719,LUCKY MONEY (AK140),AUS,,Chestnut , Gelding,SG,38010,Lochie,Eastern Cherie,,12/12/1979,02,HV,Sand,1400,NW,2,9,88,F Carr,S Morris,8.7,119,--,1.31.10,142
+720,LUCKY MONEY (AK140),AUS,,Chestnut , Gelding,SG,38010,Lochie,Eastern Cherie,,04/11/1979,07,ST,Grass,1800,Y,2,11,90,F Carr,W T Hung,10,119,--,1.53.10,079
+721,LUCKY MONEY (AK140),AUS,,Chestnut , Gelding,SG,38010,Lochie,Eastern Cherie,,29/09/1979,04,HV,Grass,1650,Y,2,7,90,F Carr,W T Hung,10,119,--,1.45.40,018
+722,SCOTCH MIST (AK141),AUS,,Chestnut , Gelding,SG,0,Forearmed,Little Rani,,19/02/1980,09,HV,Grass,1235,G,1,10,108,R Burns,P Miers,11,121,--,1.15.50,267
+723,SCOTCH MIST (AK141),AUS,,Chestnut , Gelding,SG,0,Forearmed,Little Rani,,19/01/1980,12,ST,Grass,1200,F,1,10,111,R Burns,P Miers,62,122,--,1.13.20,209
+724,SCOTCH MIST (AK141),AUS,,Chestnut , Gelding,SG,0,Forearmed,Little Rani,,05/01/1980,10,ST,Grass,1000,F,1,4,114,R Burns,P Miers,18,126,--,0.59.00,182
+725,SMALL PARCELS (AK145),AUS,,Chestnut , Gelding,SG,51920,Nareeb,Niranni,,11/02/1981,09,HV,Grass,1800,GF,6,1,34,M K Tam,D Brosnan,63,134,--,1.56.40,245
+726,SMALL PARCELS (AK145),AUS,,Chestnut , Gelding,SG,51920,Nareeb,Niranni,,17/01/1981,10,ST,Grass,1400,F,5,12,34,M K Tam,D Brosnan,99,118,--,1.27.80,199
+727,SMALL PARCELS (AK145),AUS,,Chestnut , Gelding,SG,51920,Nareeb,Niranni,,03/01/1981,08,ST,Grass,1600,F,5,1,37,M K Tam,D Brosnan,20,121,--,--,176
+728,SMALL PARCELS (AK145),AUS,,Chestnut , Gelding,SG,51920,Nareeb,Niranni,,08/11/1980,10,ST,Grass,1800,F,5,1,39,M K Tam,D Brosnan,25,123,--,1.53.90,077
+729,SMALL PARCELS (AK145),AUS,,Chestnut , Gelding,SG,51920,Nareeb,Niranni,,04/10/1980,14,ST,Grass,1800,F,5,4,42,M K Tam,T P Yung,58,119,--,1.53.80,027
+730,SMALL PARCELS (AK145),AUS,,Chestnut , Gelding,SG,51920,Nareeb,Niranni,,21/09/1980,14,ST,Grass,1600,F,5,9,43,M K Tam,K Moses,18,127,--,1.41.80,007
+731,SMALL PARCELS (AK145),AUS,,Chestnut , Gelding,SG,51920,Nareeb,Niranni,,19/04/1980,09,ST,Grass,1800,F,5,6,50,M K Tam,D Brosnan,12,134,--,1.56.00,365
+732,SMALL PARCELS (AK145),AUS,,Chestnut , Gelding,SG,51920,Nareeb,Niranni,,15/03/1980,09,ST,Grass,1600,G,5,7,51,M K Tam,T P Yung,6.1,128,--,1.41.20,318
+733,SMALL PARCELS (AK145),AUS,,Chestnut , Gelding,SG,51920,Nareeb,Niranni,,20/01/1980,02,ST,Grass,1600,F,5,10,49,M K Tam,T P Yung,6.9,126,--,1.39.70,213
+734,SMALL PARCELS (AK145),AUS,,Chestnut , Gelding,SG,51920,Nareeb,Niranni,,09/12/1979,04,ST,Grass,2050,F,5,2,48,M K Tam,D Brosnan,7.9,132,--,2.11.90,136
+735,SMALL PARCELS (AK145),AUS,,Chestnut , Gelding,SG,51920,Nareeb,Niranni,,17/11/1979,01,ST,Grass,1600,F,5,5,41,M K Tam,D Brosnan,9.1,125,--,1.38.80,099
+736,SMALL PARCELS (AK145),AUS,,Chestnut , Gelding,SG,51920,Nareeb,Niranni,,27/10/1979,09,HV,Grass,1800,F,5,6,43,M K Tam,D Brosnan,22,127,--,1.55.70,069
+737,SMALL PARCELS (AK145),AUS,,Chestnut , Gelding,SG,51920,Nareeb,Niranni,,13/10/1979,09,HV,Grass,1235,F,5,2,43,M K Tam,T P Yung,27,120,--,1.17.90,046
+738,SMALL PARCELS (AK145),AUS,,Chestnut , Gelding,SG,51920,Nareeb,Niranni,,29/09/1979,08,HV,Grass,1650,Y,5,5,43,M K Tam,T P Yung,36,120,--,1.47.30,015

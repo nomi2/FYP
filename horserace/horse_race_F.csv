@@ -1,0 +1,78 @@
+,names,country_of_origin,age,colour,sex,import_type,total_stakes,sire,dam,dam_sire,race_date,race_place,race_RC,race_track,race_distance,track_going,race_class,race_draw,rating,trainer,jockey,win_odds,actual_weight,declared_weight,finishing_position,race_index
+0,HIGH CALIBRE (F010),AUS,,Grey , Mare,SG,48920,Piccadilly Lane,Darpol,,18/03/1981,06,ST,Sand,1800,RA,7,2,13,H M Cheung,C S Shum,15,124,--,1.01.90,311
+1,HIGH CALIBRE (F010),AUS,,Grey , Mare,SG,48920,Piccadilly Lane,Darpol,,25/02/1981,05,HV,Sand,1400,RA,7,9,14,H M Cheung,C S Shum,18,125,--,1.35.70,275
+2,HIGH CALIBRE (F010),AUS,,Grey , Mare,SG,48920,Piccadilly Lane,Darpol,,21/01/1981,03,HV,Sand,1400,NW,7,2,15,H M Cheung,P Paquet,8.5,131,--,1.36.00,206
+3,HIGH CALIBRE (F010),AUS,,Grey , Mare,SG,48920,Piccadilly Lane,Darpol,,03/12/1980,03,ST,Sand,2000,NW,7,9,14,H M Cheung,P Paquet,13,130,--,2.14.90,117
+4,HIGH CALIBRE (F010),AUS,,Grey , Mare,SG,48920,Piccadilly Lane,Darpol,,22/10/1980,07,ST,Sand,1800,NW,7,1,14,H M Cheung,C S Shum,15,123,--,2.02.60,049
+5,HIGH CALIBRE (F010),AUS,,Grey , Mare,SG,48920,Piccadilly Lane,Darpol,,28/05/1980,04,ST,Sand,1800,NW,6,4,29,H M Cheung,C S Shum,2.1,122,--,2.01.30,445
+6,HIGH CALIBRE (F010),AUS,,Grey , Mare,SG,48920,Piccadilly Lane,Darpol,,16/04/1980,02,ST,Sand,2000,NW,6,9,25,H M Cheung,C S Shum,5,118,--,2.14.20,362
+7,HIGH CALIBRE (F010),AUS,,Grey , Mare,SG,48920,Piccadilly Lane,Darpol,,19/03/1980,02,ST,Sand,1650,NW,6,5,22,H M Cheung,C S Shum,32,115,--,1.49.90,328
+8,HIGH CALIBRE (F010),AUS,,Grey , Mare,SG,48920,Piccadilly Lane,Darpol,,01/03/1980,12,ST,Grass,1400,GY,6,8,24,H M Cheung,C S Shum,99,118,--,1.29.00,288
+9,HIGH CALIBRE (F010),AUS,,Grey , Mare,SG,48920,Piccadilly Lane,Darpol,,10/11/1979,09,ST,Grass,1800,G,6,12,26,H M Cheung,C S Shum,35,119,--,1.55.00,086
+10,HIGH CALIBRE (F010),AUS,,Grey , Mare,SG,48920,Piccadilly Lane,Darpol,,03/10/1979,05,HV,Sand,1575,NW,6,8,26,H M Cheung,R Staples,17,126,--,1.49.30,022
+11,PRINCE LUCKY (F013),AUS,,Brown , Gelding,SG,7680,Perspective,Kerulen,,12/12/1979,08,HV,Sand,1030,NW,4,3,65,P M Chu,Y Y Choy,16,126,--,1.08.40,141
+12,PRINCE LUCKY (F013),AUS,,Brown , Gelding,SG,7680,Perspective,Kerulen,,14/11/1979,03,HV,Sand,1030,NW,4,2,65,P M Chu,Y Y Choy,8.1,126,--,1.07.80,095
+13,PRINCE LUCKY (F013),AUS,,Brown , Gelding,SG,7680,Perspective,Kerulen,,20/10/1979,09,HV,Grass,1235,F,4,5,64,P M Chu,Y Y Choy,99,125,--,1.16.60,054
+14,PRINCE LUCKY (F013),AUS,,Brown , Gelding,SG,7680,Perspective,Kerulen,,22/09/1979,08,HV,Grass,1235,Y,4,1,65,P M Chu,C C Chan,47,133,--,1.20.10,001
+15,CHOSEN DOLL (F018),AUS,,Brown , Mare,SG,37760,Adamastor,Shrapnel,,24/05/1980,02,ST,Grass,1600,G,7,4,--,R Burns,L Fox,6.4,128,--,1.40.80,440
+16,CHOSEN DOLL (F018),AUS,,Brown , Mare,SG,37760,Adamastor,Shrapnel,,03/05/1980,04,ST,Grass,1200,Y,7,2,--,R Burns,L Fox,32,128,--,1.15.90,399
+17,CHOSEN DOLL (F018),AUS,,Brown , Mare,SG,37760,Adamastor,Shrapnel,,26/03/1980,04,ST,Sand,1800,NW,7,4,14,R Burns,A K Cheam,11,130,--,2.02.20,339
+18,CHOSEN DOLL (F018),AUS,,Brown , Mare,SG,37760,Adamastor,Shrapnel,,19/02/1980,04,HV,Grass,2230,G,7,5,14,R Burns,P Miers,3.8,130,--,2.26.60,258
+19,CHOSEN DOLL (F018),AUS,,Brown , Mare,SG,37760,Adamastor,Shrapnel,,02/02/1980,02,HV,Grass,1800,H,7,3,10,R Burns,L Fox,22,126,--,2.00.80,235
+20,CHOSEN DOLL (F018),AUS,,Brown , Mare,SG,37760,Adamastor,Shrapnel,,05/01/1980,09,ST,Grass,1600,F,7,4,13,R Burns,P Miers,14,129,--,1.40.50,184
+21,CHOSEN DOLL (F018),AUS,,Brown , Mare,SG,37760,Adamastor,Shrapnel,,10/11/1979,06,ST,Grass,1200,G,7,7,15,R Burns,P Miers,11,131,--,1.15.50,090
+22,CHOSEN DOLL (F018),AUS,,Brown , Mare,SG,37760,Adamastor,Shrapnel,,13/10/1979,05,HV,Grass,1650,F,7,2,16,R Burns,P Miers,8,132,--,1.44.90,039
+23,FANTASY (F021),AUS,,Grey , Gelding,SG,34810,Althrey Don,Pilyle,,02/02/1980,01,HV,Grass,975,H,7,9,4,K H Au,M C Tam,12,117,--,1.03.10,241
+24,FANTASY (F021),AUS,,Grey , Gelding,SG,34810,Althrey Don,Pilyle,,09/12/1979,07,ST,Grass,1400,F,7,3,6,K H Au,K L Tsui,20,115,--,1.29.60,135
+25,BEST OF LUCK (F023),AUS,,Bay , Mare,SG,52480,Angeluccio,Palm Dust,,09/02/1980,09,HV,Grass,1650,S,4,2,61,K H Au,P Paquet,16,129,--,1.51.90,255
+26,BEST OF LUCK (F023),AUS,,Bay , Mare,SG,52480,Angeluccio,Palm Dust,,19/01/1980,11,ST,Grass,1800,F,4,6,61,K H Au,M C Tam,5.4,126,--,1.53.00,210
+27,BEST OF LUCK (F023),AUS,,Bay , Mare,SG,52480,Angeluccio,Palm Dust,,01/01/1980,02,HV,Grass,1650,F,4,9,60,K H Au,M C Tam,7.8,125,--,1.43.70,171
+28,BEST OF LUCK (F023),AUS,,Bay , Mare,SG,52480,Angeluccio,Palm Dust,,21/11/1979,07,HV,Sand,1575,NW,4,2,63,K H Au,M C Tam,28,128,--,1.46.90,104
+29,BEST OF LUCK (F023),AUS,,Bay , Mare,SG,52480,Angeluccio,Palm Dust,,27/10/1979,08,HV,Grass,1800,F,4,12,64,K H Au,K L Man,12,127,--,1.53.40,067
+30,BEST OF LUCK (F023),AUS,,Bay , Mare,SG,52480,Angeluccio,Palm Dust,,22/09/1979,01,HV,Grass,1650,Y,4,7,57,K H Au,K L Man,16,120,--,1.46.90,008
+31,SPITFIRE (F042),AUS,,Chestnut , Gelding,SG,10620,Persian Lyric,Miss Sharon,,24/05/1980,04,ST,Grass,1400,G,5,4,36,R Burns,P Miers,19,120,--,1.27.30,441
+32,SPITFIRE (F042),AUS,,Chestnut , Gelding,SG,10620,Persian Lyric,Miss Sharon,,27/04/1980,04,ST,Grass,1200,Y,5,3,39,R Burns,P Miers,5.7,123,--,1.14.80,382
+33,SPITFIRE (F042),AUS,,Chestnut , Gelding,SG,10620,Persian Lyric,Miss Sharon,,12/04/1980,04,ST,Grass,1400,S,5,3,39,R Burns,P Miers,43,123,--,1.30.00,354
+34,SPITFIRE (F042),AUS,,Chestnut , Gelding,SG,10620,Persian Lyric,Miss Sharon,,22/03/1980,11,ST,Grass,1200,G,5,10,42,R Burns,P Miers,42,126,--,1.13.90,331
+35,SPITFIRE (F042),AUS,,Chestnut , Gelding,SG,10620,Persian Lyric,Miss Sharon,,27/02/1980,08,ST,Sand,1050,RA,5,4,45,R Burns,P Miers,18,129,--,1.08.00,279
+36,SPITFIRE (F042),AUS,,Chestnut , Gelding,SG,10620,Persian Lyric,Miss Sharon,,06/02/1980,09,HV,Sand,1400,RA,5,9,47,R Burns,L Fox,34,131,--,1.34.20,246
+37,SPITFIRE (F042),AUS,,Chestnut , Gelding,SG,10620,Persian Lyric,Miss Sharon,,17/11/1979,06,ST,Grass,1000,F,5,9,49,R Burns,A K Cheam,34,133,--,1.01.50,097
+38,SUPER DISH (F055),AUS,,Chestnut , Mare,SG,48970,Movalis,Faromint,,24/05/1980,07,ST,Grass,1600,G,7,10,--,R Burns,P Miers,9.3,128,--,1.42.80,440
+39,SUPER DISH (F055),AUS,,Chestnut , Mare,SG,48970,Movalis,Faromint,,03/05/1980,05,ST,Grass,1200,Y,7,6,--,R Burns,P Miers,4.2,128,--,1.16.10,399
+40,SUPER DISH (F055),AUS,,Chestnut , Mare,SG,48970,Movalis,Faromint,,16/04/1980,01,ST,Sand,1050,NW,7,10,6,R Burns,P Miers,12,122,--,1.06.80,360
+41,SUPER DISH (F055),AUS,,Chestnut , Mare,SG,48970,Movalis,Faromint,,26/03/1980,06,ST,Sand,1800,NW,7,2,10,R Burns,P Miers,10,126,--,2.02.70,339
+42,SUPER DISH (F055),AUS,,Chestnut , Mare,SG,48970,Movalis,Faromint,,05/03/1980,03,ST,Sand,2000,RA,7,1,9,R Burns,P Miers,8.9,125,--,2.16.20,294
+43,SUPER DISH (F055),AUS,,Chestnut , Mare,SG,48970,Movalis,Faromint,,02/02/1980,05,HV,Grass,1800,H,7,9,--,R Burns,P Miers,5.3,127,--,2.01.60,235
+44,SUPER DISH (F055),AUS,,Chestnut , Mare,SG,48970,Movalis,Faromint,,05/01/1980,03,ST,Grass,1600,F,7,6,--,R Burns,L Fox,14,127,--,1.40.20,184
+45,SUPER DISH (F055),AUS,,Chestnut , Mare,SG,48970,Movalis,Faromint,,09/12/1979,05,ST,Grass,1400,F,7,7,14,R Burns,P Miers,12,130,--,1.28.10,132
+46,ROYAL GOLD (F056),AUS,,Chestnut , Mare,SG,13570,Royal Siena,Goldist,,04/10/1980,10,ST,Grass,1000,F,7,3,18,C Robertson,G Hall,17,134,--,1.01.60,023
+47,ROYAL GOLD (F056),AUS,,Chestnut , Mare,SG,13570,Royal Siena,Goldist,,19/03/1980,09,ST,Sand,1050,NW,6,6,31,C Robertson,W Burnett,16,131,--,1.10.60,323
+48,ROYAL GOLD (F056),AUS,,Chestnut , Mare,SG,13570,Royal Siena,Goldist,,24/11/1979,12,ST,Grass,1200,GF,6,9,33,C Robertson,W Burnett,32,133,--,1.17.10,112
+49,ROYAL GOLD (F056),AUS,,Chestnut , Mare,SG,13570,Royal Siena,Goldist,,20/10/1979,02,HV,Grass,975,F,6,4,31,C Robertson,R Setches,6.7,131,--,0.59.50,055
+50,UNCLE (F057),AUS,,Chestnut , Gelding,SG,66450,Star Affair,Wilima,,04/03/1981,06,HV,Sand,1400,NW,7,5,17,P M Chu,D Brosnan,24,133,--,1.33.90,285
+51,UNCLE (F057),AUS,,Chestnut , Gelding,SG,66450,Star Affair,Wilima,,14/02/1981,06,HV,Grass,975,GF,7,10,17,P M Chu,Y W Ho,22,126,--,1.00.30,249
+52,UNCLE (F057),AUS,,Chestnut , Gelding,SG,66450,Star Affair,Wilima,,21/01/1981,08,HV,Sand,1030,NW,7,3,18,P M Chu,C S Shum,5.7,129,--,1.09.80,204
+53,UNCLE (F057),AUS,,Chestnut , Gelding,SG,66450,Star Affair,Wilima,,23/12/1980,02,HV,Grass,1235,F,7,6,14,P M Chu,C S Shum,14,123,--,1.16.80,148
+54,UNCLE (F057),AUS,,Chestnut , Gelding,SG,66450,Star Affair,Wilima,,01/11/1980,11,ST,Grass,1200,F,7,4,15,P M Chu,R Staples,17,131,--,1.14.90,070
+55,UNCLE (F057),AUS,,Chestnut , Gelding,SG,66450,Star Affair,Wilima,,30/04/1980,03,ST,Sand,1650,NW,6,2,30,P M Chu,P Leyshan,7.2,130,--,1.48.90,392
+56,UNCLE (F057),AUS,,Chestnut , Gelding,SG,66450,Star Affair,Wilima,,09/04/1980,02,ST,Sand,1650,NW,6,1,30,P M Chu,P Leyshan,7.1,130,--,1.50.20,343
+57,UNCLE (F057),AUS,,Chestnut , Gelding,SG,66450,Star Affair,Wilima,,19/03/1980,03,ST,Sand,1650,NW,6,1,30,P M Chu,P Leyshan,7.7,130,--,1.49.80,326
+58,UNCLE (F057),AUS,,Chestnut , Gelding,SG,66450,Star Affair,Wilima,,01/03/1980,03,ST,Grass,1400,GY,6,7,29,P M Chu,P Leyshan,6.9,129,--,1.27.70,288
+59,UNCLE (F057),AUS,,Chestnut , Gelding,SG,66450,Star Affair,Wilima,,26/01/1980,03,HV,Grass,1800,GF,6,8,28,P M Chu,P Leyshan,24,128,--,1.53.50,225
+60,UNCLE (F057),AUS,,Chestnut , Gelding,SG,66450,Star Affair,Wilima,,12/01/1980,03,ST,Grass,1600,F,6,6,27,P M Chu,P Leyshan,51,127,--,1.39.30,197
+61,UNCLE (F057),AUS,,Chestnut , Gelding,SG,66450,Star Affair,Wilima,,04/11/1979,12,ST,Grass,1400,Y,6,11,30,P M Chu,P Leyshan,99,130,--,1.31.10,080
+62,UNCLE (F057),AUS,,Chestnut , Gelding,SG,66450,Star Affair,Wilima,,20/10/1979,11,HV,Grass,975,F,6,11,32,P M Chu,P Leyshan,99,132,--,1.01.00,055
+63,UNCLE (F057),AUS,,Chestnut , Gelding,SG,66450,Star Affair,Wilima,,03/10/1979,05,HV,Sand,1030,NW,6,6,33,P M Chu,P Leyshan,38,133,--,1.10.00,019
+64,CAN TAKE (F062),NZ,,Brown , Gelding,SG,0,Grasher,Susanna Lass,,24/11/1979,07,ST,Grass,1200,GF,6,2,24,G Sofronoff,D C Cruz,57,124,--,1.14.80,112
+65,CAN TAKE (F062),NZ,,Brown , Gelding,SG,0,Grasher,Susanna Lass,,04/11/1979,06,ST,Grass,1400,Y,6,2,25,G Sofronoff,F S Cheung,65,118,--,1.30.70,083
+66,CAN TAKE (F062),NZ,,Brown , Gelding,SG,0,Grasher,Susanna Lass,,20/10/1979,08,HV,Grass,1650,F,6,3,28,G Sofronoff,D C Cruz,99,128,--,1.45.00,048
+67,CAN TAKE (F062),NZ,,Brown , Gelding,SG,0,Grasher,Susanna Lass,,10/10/1979,06,HV,Sand,1030,NW,6,2,29,G Sofronoff,K W Lui,4.4,126,--,1.10.20,036
+68,HERA (F097),AUS,,Brown , Mare,SG,3540,Piccadilly Lane,Invasion Lass,,27/10/1979,04,HV,Grass,1800,F,5,3,38,A Chan,T O Lau,40,122,--,1.54.70,069
+69,UPTREND (F100),AUS,,Chestnut , Gelding,SG,86730,Icarus,Liberal Lass,,18/05/1980,04,ST,Grass,1600,GF,5,2,52,G Moore,G W Moore,3.4,136,--,1.38.90,427
+70,UPTREND (F100),AUS,,Chestnut , Gelding,SG,86730,Icarus,Liberal Lass,,15/03/1980,01,ST,Grass,2200,G,5,7,44,G Moore,G W Moore,4.9,128,--,2.22.70,321
+71,UPTREND (F100),AUS,,Chestnut , Gelding,SG,86730,Icarus,Liberal Lass,,12/01/1980,01,ST,Grass,1600,F,6,9,37,G Moore,G W Moore,2.9,137,--,1.38.90,197
+72,UPTREND (F100),AUS,,Chestnut , Gelding,SG,86730,Icarus,Liberal Lass,,24/11/1979,02,ST,Grass,2050,GF,6,5,34,G Moore,G W Moore,7.4,134,--,2.11.60,110
+73,UPTREND (F100),AUS,,Chestnut , Gelding,SG,86730,Icarus,Liberal Lass,,20/10/1979,07,HV,Grass,1650,F,6,6,35,G Moore,G W Moore,16,135,--,1.46.90,053
+74,UPTREND (F100),AUS,,Chestnut , Gelding,SG,86730,Icarus,Liberal Lass,,10/10/1979,07,HV,Sand,1030,NW,6,5,35,G Moore,C H Cheong,36,128,--,1.10.30,036
+75,BRAVADO (F104),AUS,,Chestnut , Gelding,SG,0,Sovrango,Tracy Ann,,02/02/1980,08,HV,Grass,975,H,7,7,20,C Robertson,W Burnett,18,136,--,1.04.90,241
+76,MERRY FELLOW (F105),AUS,,Bay , Gelding,SG,0,Nullacourt,Coomera Vale,,13/10/1979,05,HV,Grass,1235,F,5,7,36,G Moore,C H Cheong,29,113,--,1.16.50,041

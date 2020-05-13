@@ -1,0 +1,743 @@
+,names,country_of_origin,age,colour,sex,import_type,total_stakes,sire,dam,dam_sire,race_date,race_place,race_RC,race_track,race_distance,track_going,race_class,race_draw,rating,trainer,jockey,win_odds,actual_weight,declared_weight,finishing_position,race_index
+0,PLIKCLONE (D003),NZ,4,Brown , Gelding,PPG,149885,Burgundy,Aventura,Rock Of Gibraltar,19/04/20,11,ST,"Turf""C+3""",1800,G,4,9,41,D J Hall,M Chadwick,14,114,1015,1.48.85,584
+1,PLIKCLONE (D003),NZ,4,Brown , Gelding,PPG,149885,Burgundy,Aventura,Rock Of Gibraltar,05/04/20,04,ST,"Turf""B+2""",1600,G,4,10,43,D J Hall,M F Poon,45,114,1013,1.36.22,550
+2,PLIKCLONE (D003),NZ,4,Brown , Gelding,PPG,149885,Burgundy,Aventura,Rock Of Gibraltar,25/03/20,08,HV,"Turf""A""",1650,G,4,7,45,D J Hall,M F Poon,19,118,1018,1.41.13,520
+3,PLIKCLONE (D003),NZ,4,Brown , Gelding,PPG,149885,Burgundy,Aventura,Rock Of Gibraltar,04/03/20,07,HV,"Turf""B""",1650,G,4,12,47,D J Hall,M F Poon,46,118,1026,1.41.01,467
+4,PLIKCLONE (D003),NZ,4,Brown , Gelding,PPG,149885,Burgundy,Aventura,Rock Of Gibraltar,12/02/20,09,HV,"Turf""C+3""",1200,GF,4,12,49,D J Hall,M F Poon,44,121,1033,1.10.56,411
+5,PLIKCLONE (D003),NZ,4,Brown , Gelding,PPG,149885,Burgundy,Aventura,Rock Of Gibraltar,08/01/20,04,HV,"Turf""C""",1200,G,4,1,50,D J Hall,J Moreira,11,124,1015,1.10.18,315
+6,PLIKCLONE (D003),NZ,4,Brown , Gelding,PPG,149885,Burgundy,Aventura,Rock Of Gibraltar,15/12/19,12,ST,"Turf""C+3""",1400,G,4,10,52,D J Hall,M F Poon,23,123,1027,1.22.74,250
+7,PLIKCLONE (D003),NZ,4,Brown , Gelding,PPG,149885,Burgundy,Aventura,Rock Of Gibraltar,20/11/19,05,HV,"Turf""C+3""",1200,GF,4,10,52,D J Hall,M F Poon,73,123,1023,1.10.03,182
+8,WIND PACIFIC (D004),AUS,4,Brown , Gelding,PPG,0,Dream Ahead,Great Cross,Cape Cross,11/12/19,10,HV,"Turf""C""",1200,G,4,1,52,C S Shum,A Badel,61,127,1190,1.11.12,239
+9,SPARKLING STAR (D007),NZ,4,Bay , Gelding,PPG,280430,Jimmy Choux,Miss Faberge,Ustinov,16/02/20,04,ST,"Turf""A""",1200,G,4,8,52,W Y So,T Piccone,10,125,1088,1.10.67,417
+10,SPARKLING STAR (D007),NZ,4,Bay , Gelding,PPG,280430,Jimmy Choux,Miss Faberge,Ustinov,19/01/20,03,ST,"Turf""A+3""",1200,G,4,10,52,W Y So,Z Purton,4.8,125,1086,1.09.71,343
+11,SPARKLING STAR (D007),NZ,4,Bay , Gelding,PPG,280430,Jimmy Choux,Miss Faberge,Ustinov,29/12/19,06,ST,"Turf""B+2""",1200,G,4,8,52,W Y So,M F Poon,4.4,126,1104,1.10.81,286
+12,SPARKLING STAR (D007),NZ,4,Bay , Gelding,PPG,280430,Jimmy Choux,Miss Faberge,Ustinov,23/11/19,03,ST,"Turf""C""",1200,G,4,9,52,W Y So,M F Poon,58,123,1103,1.09.39,189
+13,TREASURE CHEST (D008),NZ,4,Chestnut , Gelding,PPG,101520,Ocean Park,Batroun,Danzero,09/05/20,04,ST,"Turf""C""",1600,GF,5,12,38,P F Yiu,C L Chau,7.8,121,1043,1.35.82,644
+14,TREASURE CHEST (D008),NZ,4,Chestnut , Gelding,PPG,101520,Ocean Park,Batroun,Danzero,12/04/20,11,ST,"Turf""C""",1000,G,5,12,40,P F Yiu,H W Lai,11,133,1040,0.58.78,564
+15,TREASURE CHEST (D008),NZ,4,Chestnut , Gelding,PPG,101520,Ocean Park,Batroun,Danzero,05/04/20,07,ST,"Turf""B+2""",1600,G,4,2,42,P F Yiu,H W Lai,11,115,1052,1.36.68,550
+16,TREASURE CHEST (D008),NZ,4,Chestnut , Gelding,PPG,101520,Ocean Park,Batroun,Danzero,14/03/20,07,ST,"Turf""C+3""",1400,G,4,10,44,P F Yiu,H W Lai,36,119,1055,1.22.31,494
+17,TREASURE CHEST (D008),NZ,4,Chestnut , Gelding,PPG,101520,Ocean Park,Batroun,Danzero,23/02/20,04,ST,"Turf""A+3""",1400,G,4,10,46,P F Yiu,H W Lai,107,121,1054,1.22.81,440
+18,TREASURE CHEST (D008),NZ,4,Chestnut , Gelding,PPG,101520,Ocean Park,Batroun,Danzero,29/01/20,07,HV,"Turf""B""",1200,G,4,7,48,P F Yiu,H W Lai,51,121,1058,1.10.34,374
+19,TREASURE CHEST (D008),NZ,4,Chestnut , Gelding,PPG,101520,Ocean Park,Batroun,Danzero,05/01/20,13,ST,"Turf""C+3""",1000,G,4,7,50,P F Yiu,K C Leung,23,125,1070,0.58.08,304
+20,TREASURE CHEST (D008),NZ,4,Chestnut , Gelding,PPG,101520,Ocean Park,Batroun,Danzero,21/12/19,07,ST,"Turf""A+3""",1200,G,4,7,52,P F Yiu,R Bayliss,20,128,1079,1.10.92,266
+21,TREASURE CHEST (D008),NZ,4,Chestnut , Gelding,PPG,101520,Ocean Park,Batroun,Danzero,23/11/19,10,ST,"Turf""C""",1200,G,4,11,52,P F Yiu,H W Lai,27,125,1087,1.10.26,189
+22,INCANTO PREPARED (D009),NZ,4,Bay , Gelding,PPG,357790,Per Incanto,Prepared,Perfectly Ready,06/05/20,07,HV,"Turf""B""",1650,GF,4,9,49,J Size,C Schofield,24,123,981,1.40.20,635
+23,INCANTO PREPARED (D009),NZ,4,Bay , Gelding,PPG,357790,Per Incanto,Prepared,Perfectly Ready,29/03/20,11,ST,"Turf""A+3""",1400,G,4,9,49,J Size,J Moreira,3.4,124,981,1.23.55,530
+24,INCANTO PREPARED (D009),NZ,4,Bay , Gelding,PPG,357790,Per Incanto,Prepared,Perfectly Ready,08/03/20,02,ST,"Turf""C""",1400,G,4,3,47,J Size,J Moreira,4.9,122,982,1.22.48,474
+25,INCANTO PREPARED (D009),NZ,4,Bay , Gelding,PPG,357790,Per Incanto,Prepared,Perfectly Ready,16/02/20,03,ST,"Turf""A""",1200,G,4,3,48,J Size,G van Niekerk,10,121,983,1.10.65,417
+26,INCANTO PREPARED (D009),NZ,4,Bay , Gelding,PPG,357790,Per Incanto,Prepared,Perfectly Ready,19/01/20,05,ST,"Turf""A+3""",1200,G,4,9,50,J Size,G van Niekerk,48,123,988,1.09.96,343
+27,INCANTO PREPARED (D009),NZ,4,Bay , Gelding,PPG,357790,Per Incanto,Prepared,Perfectly Ready,29/12/19,12,ST,"Turf""B+2""",1400,G,4,10,52,J Size,A Badel,66,127,983,1.23.55,289
+28,INCANTO PREPARED (D009),NZ,4,Bay , Gelding,PPG,357790,Per Incanto,Prepared,Perfectly Ready,23/11/19,07,ST,"Turf""C""",1200,G,4,8,52,J Size,C Schofield,41,125,975,1.09.79,189
+29,REGENCY POET (D010),NZ,4,Bay , Gelding,PPG,391635,Poet's Voice,Amour Cache,Exceed And Excel,22/04/20,02,HV,"Turf""C+3""",1200,GY,4,10,48,K L Man,K Teetan,16,122,1211,1.11.69,599
+30,REGENCY POET (D010),NZ,4,Bay , Gelding,PPG,391635,Poet's Voice,Amour Cache,Exceed And Excel,05/04/20,05,ST,"Turf""B+2""",1000,G,4,3,50,K L Man,M Chadwick,29,123,1210,0.57.56,545
+31,REGENCY POET (D010),NZ,4,Bay , Gelding,PPG,391635,Poet's Voice,Amour Cache,Exceed And Excel,18/03/20,05,HV,"Turf""C+3""",1200,G,4,3,50,K L Man,M Chadwick,15,125,1208,1.10.30,505
+32,REGENCY POET (D010),NZ,4,Bay , Gelding,PPG,391635,Poet's Voice,Amour Cache,Exceed And Excel,02/02/20,09,ST,"Turf""C""",1200,G,4,9,52,K L Man,M Chadwick,65,125,1206,1.10.56,382
+33,REGENCY POET (D010),NZ,4,Bay , Gelding,PPG,391635,Poet's Voice,Amour Cache,Exceed And Excel,01/01/20,12,ST,"Turf""C""",1400,G,4,10,53,K L Man,A Badel,50,126,1207,1.24.69,298
+34,REGENCY POET (D010),NZ,4,Bay , Gelding,PPG,391635,Poet's Voice,Amour Cache,Exceed And Excel,18/12/19,08,HV,"Turf""C+3""",1200,GF,4,6,53,K L Man,Z Purton,6.3,127,1209,1.10.22,261
+35,REGENCY POET (D010),NZ,4,Bay , Gelding,PPG,391635,Poet's Voice,Amour Cache,Exceed And Excel,27/11/19,03,HV,"Turf""A""",1200,G,4,5,52,K L Man,C Schofield,4.2,125,1208,1.10.75,203
+36,PRIME TIME (D011),AUS,4,Chestnut , Gelding,PPG,0,Rothesay,Tarmons,Dodge,22/04/20,11,HV,"Turf""C+3""",1200,GY,4,8,50,Y S Tsui,H T Mo,164,121,1120,1.13.54,599
+37,PRIME TIME (D011),AUS,4,Chestnut , Gelding,PPG,0,Rothesay,Tarmons,Dodge,18/03/20,07,HV,"Turf""C+3""",1200,G,4,11,52,Y S Tsui,V Borges,344,126,1094,1.10.62,502
+38,PRIME TIME (D011),AUS,4,Chestnut , Gelding,PPG,0,Rothesay,Tarmons,Dodge,01/03/20,13,ST,"Turf""B+2""",1000,G,4,5,52,Y S Tsui,H T Mo,350,124,1087,0.57.67,454
+39,JOY N FUN LEGEND (D012),NZ,4,Bay , Gelding,PPG,0,Shocking,Gin Player,Defensive Play,22/04/20,10,HV,"Turf""C+3""",1650,GY,4,6,44,T P Yung,M L Yeung,183,117,1137,1.43.48,598
+40,JOY N FUN LEGEND (D012),NZ,4,Bay , Gelding,PPG,0,Shocking,Gin Player,Defensive Play,22/03/20,14,ST,"Turf""A""",1600,G,4,11,48,T P Yung,M L Yeung,425,122,1136,1.37.83,510
+41,JOY N FUN LEGEND (D012),NZ,4,Bay , Gelding,PPG,0,Shocking,Gin Player,Defensive Play,01/03/20,11,ST,"Turf""B+2""",1600,G,4,7,50,T P Yung,M L Yeung,78,123,1129,1.36.62,458
+42,JOY N FUN LEGEND (D012),NZ,4,Bay , Gelding,PPG,0,Shocking,Gin Player,Defensive Play,11/01/20,13,ST,"Turf""A""",1400,G,4,14,52,T P Yung,M L Yeung,250,125,1138,1.23.61,328
+43,JOY N FUN LEGEND (D012),NZ,4,Bay , Gelding,PPG,0,Shocking,Gin Player,Defensive Play,18/12/19,11,HV,"Turf""C+3""",1000,GF,4,9,52,T P Yung,M L Yeung,49,125,1142,0.58.38,257
+44,FANTASTIC BOY (D013),NZ,4,Bay , Gelding,PPG,33845,Showcasing,Runaway Bride,Ustinov,08/04/20,07,HV,"Turf""B""",1800,G,4,2,41,W Y So,K Teetan,6.6,114,1170,1.49.87,555
+45,FANTASTIC BOY (D013),NZ,4,Bay , Gelding,PPG,33845,Showcasing,Runaway Bride,Ustinov,22/03/20,06,ST,"Turf""A""",1600,G,4,12,43,W Y So,K C Leung,21,117,1168,1.35.38,510
+46,FANTASTIC BOY (D013),NZ,4,Bay , Gelding,PPG,33845,Showcasing,Runaway Bride,Ustinov,01/03/20,05,ST,"Turf""B+2""",1600,G,4,5,44,W Y So,K C Leung,44,117,1165,1.35.76,458
+47,FANTASTIC BOY (D013),NZ,4,Bay , Gelding,PPG,33845,Showcasing,Runaway Bride,Ustinov,05/02/20,10,HV,"Turf""C""",1650,G,4,3,46,W Y So,K C Leung,28,119,1165,1.41.37,395
+48,FANTASTIC BOY (D013),NZ,4,Bay , Gelding,PPG,33845,Showcasing,Runaway Bride,Ustinov,11/01/20,10,ST,"Turf""A""",1400,G,4,2,48,W Y So,K C Leung,69,121,1176,1.23.49,328
+49,FANTASTIC BOY (D013),NZ,4,Bay , Gelding,PPG,33845,Showcasing,Runaway Bride,Ustinov,15/12/19,09,ST,"Turf""C+3""",1400,G,4,1,50,W Y So,K C Leung,159,123,1166,1.22.26,250
+50,FANTASTIC BOY (D013),NZ,4,Bay , Gelding,PPG,33845,Showcasing,Runaway Bride,Ustinov,03/11/19,07,ST,"Turf""C+3""",1200,GF,4,4,52,W Y So,K C Leung,46,129,1160,1.09.96,143
+51,FANTASTIC BOY (D013),NZ,4,Bay , Gelding,PPG,33845,Showcasing,Runaway Bride,Ustinov,12/10/19,08,ST,"Turf""C""",1000,GF,4,3,52,W Y So,K C Leung,157,125,1159,0.57.07,088
+52,FLYING SPIRIT (D016),NZ,4,Bay , Gelding,PPG,0,Stratum,Traffic,Lonhro,03/05/20,07,ST,"Turf""B""",1000,G,4,7,52,D J Whyte,T H So,106,123,1110,0.56.49,624
+53,DIAMOND STAR (D017),NZ,4,Bay , Gelding,PPG,0,Sweet Orange,Cadence,Rhythm,22/01/20,11,HV,"Turf""A""",1200,G,4,5,52,J Size,J Moreira,24,125,995,1.11.52,353
+54,MENAGGIO (D021),AUS,,Black , Gelding,PPG,195818,Written Tycoon,Remy,Centaine,22/03/2020,10,ST,"Turf""A""",1600,G,4,13,48,P F Yiu,M F Poon,15,120,936,1.35.74,510
+55,MENAGGIO (D021),AUS,,Black , Gelding,PPG,195818,Written Tycoon,Remy,Centaine,01/03/2020,03,ST,"Turf""B+2""",1600,G,4,4,49,P F Yiu,M F Poon,16,120,946,1.35.74,458
+56,MENAGGIO (D021),AUS,,Black , Gelding,PPG,195818,Written Tycoon,Remy,Centaine,29/01/2020,03,HV,"Turf""B""",1200,G,4,5,50,P F Yiu,N Callan,11,124,947,1.10.47,375
+57,MENAGGIO (D021),AUS,,Black , Gelding,PPG,195818,Written Tycoon,Remy,Centaine,20/11/2019,06,HV,"Turf""C+3""",1200,GF,4,6,52,P F Yiu,A Sanna,39,125,984,1.10.10,182
+58,MENAGGIO (D021),AUS,,Black , Gelding,PPG,195818,Written Tycoon,Remy,Centaine,20/10/2019,11,ST,"Turf""A""",1200,GF,4,8,52,P F Yiu,A Sanna,118,125,967,1.09.83,106
+59,GENERAL'S DELIGHT (D022),AUS,4,Bay , Gelding,PP,2437250,Fastnet Rock,Miss Jakeo,Unbridled's Song,26/04/20,01,ST,"Turf""A""",1600,G,2,10,82,D J Whyte,K H Chan,6.5,108,1258,1.34.26,611
+60,GENERAL'S DELIGHT (D022),AUS,4,Bay , Gelding,PP,2437250,Fastnet Rock,Miss Jakeo,Unbridled's Song,12/04/20,05,ST,"Turf""C""",1400,G,2,9,82,D J Whyte,M Chadwick,11,115,1260,1.21.20,573
+61,GENERAL'S DELIGHT (D022),AUS,4,Bay , Gelding,PP,2437250,Fastnet Rock,Miss Jakeo,Unbridled's Song,22/03/20,03,ST,"Turf""A""",1400,GF,3,1,80,D J Whyte,J Moreira,5.8,133,1251,1.22.00,517
+62,GENERAL'S DELIGHT (D022),AUS,4,Bay , Gelding,PP,2437250,Fastnet Rock,Miss Jakeo,Unbridled's Song,03/11/19,11,ST,"Turf""C+3""",1200,GF,3,4,80,D J Whyte,C Schofield,3.1,133,1209,1.10.06,144
+63,BEAUTY LEGACY (D023),AUS,4,Brown , Gelding,PP,3357000,Fiorente,Rosa Perlato,Encosta de Lago,09/05/20,05,ST,"Turf""C""",1400,GF,1,5,102,J Size,J Moreira,3.6,133,1182,1.21.32,649
+64,BEAUTY LEGACY (D023),AUS,4,Brown , Gelding,PP,3357000,Fiorente,Rosa Perlato,Encosta de Lago,12/04/20,02,ST,"Turf""C""",1400,G,2,5,100,J Size,J Moreira,4.7,133,1180,1.20.93,573
+65,BEAUTY LEGACY (D023),AUS,4,Brown , Gelding,PP,3357000,Fiorente,Rosa Perlato,Encosta de Lago,08/03/20,11,ST,"Turf""C""",1800,G,2,2,100,J Size,J Moreira,3.4,133,1181,1.49.19,480
+66,BEAUTY LEGACY (D023),AUS,4,Brown , Gelding,PP,3357000,Fiorente,Rosa Perlato,Encosta de Lago,23/02/20,06,ST,"Turf""A+3""",1800,G,4YO,6,100,J Size,J Moreira,7.3,126,1185,1.46.58,441
+67,BEAUTY LEGACY (D023),AUS,4,Brown , Gelding,PP,3357000,Fiorente,Rosa Perlato,Encosta de Lago,27/01/20,04,ST,"Turf""B+2""",1600,G,4YO,6,100,J Size,J Moreira,3.8,126,1168,1.34.27,368
+68,BEAUTY LEGACY (D023),AUS,4,Brown , Gelding,PP,3357000,Fiorente,Rosa Perlato,Encosta de Lago,05/01/20,01,ST,"Turf""C+3""",1400,G,2,12,92,J Size,J Moreira,9,129,1194,1.21.36,313
+69,BE READY (D024),AUS,4,Bay , Gelding,PP,957000,Love Conquers All,Orient Success,Success Express,06/05/20,03,HV,"Turf""B""",1000,GF,3,3,73,F C Lor,Z Purton,3.8,129,1141,0.56.94,637
+70,BE READY (D024),AUS,4,Bay , Gelding,PP,957000,Love Conquers All,Orient Success,Success Express,08/04/20,02,HV,"Turf""B""",1000,G,3,10,72,F C Lor,Z Purton,10,129,1151,0.56.95,560
+71,BE READY (D024),AUS,4,Bay , Gelding,PP,957000,Love Conquers All,Orient Success,Success Express,11/03/20,05,HV,"Turf""C""",1200,G,3,5,73,F C Lor,Z Purton,5.7,129,1138,1.10.13,489
+72,BE READY (D024),AUS,4,Bay , Gelding,PP,957000,Love Conquers All,Orient Success,Success Express,16/02/20,03,ST,"Turf""A""",1200,G,3,8,73,F C Lor,Z Purton,9.3,126,1139,1.09.97,425
+73,BE READY (D024),AUS,4,Bay , Gelding,PP,957000,Love Conquers All,Orient Success,Success Express,11/01/20,11,ST,"Turf""A""",1400,G,3,8,74,F C Lor,J Moreira,3.6,128,1144,1.22.53,331
+74,BE READY (D024),AUS,4,Bay , Gelding,PP,957000,Love Conquers All,Orient Success,Success Express,29/12/19,03,ST,"Turf""B+2""",1200,G,3,10,74,F C Lor,C Schofield,9.3,131,1158,1.10.22,288
+75,BE READY (D024),AUS,4,Bay , Gelding,PP,957000,Love Conquers All,Orient Success,Success Express,08/12/19,04,ST,"Turf""A""",1200,G,3,1,74,F C Lor,H Bowman,18,127,1150,1.09.23,229
+76,BE READY (D024),AUS,4,Bay , Gelding,PP,957000,Love Conquers All,Orient Success,Success Express,17/11/19,06,ST,"Turf""B""",1200,G,3,10,74,F C Lor,H Bowman,18,127,1132,1.09.75,172
+77,ALL THE WAY (D027),AUS,3,Bay , Gelding,PPG,0,Choisir,Crash'm,Shamardal,08/02/20,14,ST,"Turf""C+3""",1000,G,4,6,52,A T Millard,L Hewitson,62,128,1066,0.59.35,399
+78,FLYING PHOTOS (D028),AUS,3,Bay , Gelding,PPG,0,Dissident,Ajamais,Gold Away,05/04/20,12,ST,"Turf""B+2""",1400,G,4,3,50,Y S Tsui,H N Wong,392,120,1025,1.24.47,548
+79,FLYING PHOTOS (D028),AUS,3,Bay , Gelding,PPG,0,Dissident,Ajamais,Gold Away,11/03/20,11,HV,"Turf""C""",1200,G,4,11,52,Y S Tsui,H T Mo,253,122,1039,1.11.48,484
+80,FLYING PHOTOS (D028),AUS,3,Bay , Gelding,PPG,0,Dissident,Ajamais,Gold Away,22/01/20,11,HV,"Turf""A""",1200,G,4,12,52,Y S Tsui,H T Mo,229,124,1045,1.11.76,354
+81,EXTRA FORTUNE (D030),AUS,3,Bay , Gelding,PPG,0,Exceed And Excel,Jambu,Ocean Of Wisdom,14/03/20,13,ST,"Turf""C+3""",1000,G,4,9,52,K H Ting,M F Poon,148,124,1077,0.59.21,493
+82,VICTORY MASTERY (D031),AUS,3,Bay , Gelding,PPG,449655,Foxwedge,Parnissius,Zabeel,06/05/20,07,HV,"Turf""B""",1650,G,4,6,48,J Size,K C Leung,5.5,122,1168,1.40.41,633
+83,VICTORY MASTERY (D031),AUS,3,Bay , Gelding,PPG,449655,Foxwedge,Parnissius,Zabeel,29/04/20,04,HV,"Turf""A""",1200,GF,4,8,49,J Size,J Moreira,5.7,124,1182,1.10.02,616
+84,VICTORY MASTERY (D031),AUS,3,Bay , Gelding,PPG,449655,Foxwedge,Parnissius,Zabeel,15/04/20,05,HV,"Turf""C""",1200,G,4,11,49,J Size,J Moreira,7,124,1188,1.09.95,577
+85,VICTORY MASTERY (D031),AUS,3,Bay , Gelding,PPG,449655,Foxwedge,Parnissius,Zabeel,29/03/20,03,ST,"Turf""A+3""",1200,G,4,2,49,J Size,N Callan,11,123,1186,1.10.44,531
+86,VICTORY MASTERY (D031),AUS,3,Bay , Gelding,PPG,449655,Foxwedge,Parnissius,Zabeel,18/03/20,08,HV,"Turf""C+3""",1200,G,4,9,49,J Size,J Moreira,4.3,124,1188,1.10.65,505
+87,VICTORY MASTERY (D031),AUS,3,Bay , Gelding,PPG,449655,Foxwedge,Parnissius,Zabeel,11/03/20,02,HV,"Turf""C""",1200,G,4,8,47,J Size,J Moreira,5.1,122,1199,1.10.54,486
+88,VICTORY MASTERY (D031),AUS,3,Bay , Gelding,PPG,449655,Foxwedge,Parnissius,Zabeel,12/02/20,05,HV,"Turf""C+3""",1200,G,4,11,47,J Size,K Teetan,128,120,1193,1.09.84,409
+89,VICTORY MASTERY (D031),AUS,3,Bay , Gelding,PPG,449655,Foxwedge,Parnissius,Zabeel,11/01/20,14,ST,AWT,1650,GD,4,1,50,J Size,L Hewitson,99,123,1201,1.43.00,326
+90,VICTORY MASTERY (D031),AUS,3,Bay , Gelding,PPG,449655,Foxwedge,Parnissius,Zabeel,08/12/19,14,ST,"Turf""A""",1400,G,4,7,52,J Size,U Rispoli,158,127,1201,1.24.65,227
+91,VICTORY MASTERY (D031),AUS,3,Bay , Gelding,PPG,449655,Foxwedge,Parnissius,Zabeel,09/11/19,13,ST,"Turf""A""",1200,G,4R,13,52,J Size,K Teetan,16,124,1156,1.10.72,160
+92,DESTINE JEWELLERY (D032),AUS,4,Brown , Gelding,PPG,1102380,I Am Invincible,Ailuros,One Cool Cat,06/05/20,04,HV,"Turf""B""",1200,GF,4,3,52,J Size,C Schofield,3.5,126,1163,1.10.61,636
+93,DESTINE JEWELLERY (D032),AUS,4,Brown , Gelding,PPG,1102380,I Am Invincible,Ailuros,One Cool Cat,22/04/20,01,HV,"Turf""C+3""",1200,GY,4,5,44,J Size,C Schofield,4.8,118,1162,1.11.45,599
+94,DESTINE JEWELLERY (D032),AUS,4,Brown , Gelding,PPG,1102380,I Am Invincible,Ailuros,One Cool Cat,08/04/20,04,HV,"Turf""B""",1200,G,4,5,44,J Size,C Y Ho,8.2,118,1145,1.10.37,558
+95,DESTINE JEWELLERY (D032),AUS,4,Brown , Gelding,PPG,1102380,I Am Invincible,Ailuros,One Cool Cat,11/03/20,02,HV,"Turf""C""",1200,G,4,4,44,J Size,G van Niekerk,4.3,117,1152,1.10.80,484
+96,DESTINE JEWELLERY (D032),AUS,4,Brown , Gelding,PPG,1102380,I Am Invincible,Ailuros,One Cool Cat,23/02/20,12,ST,"Turf""A+3""",1400,G,4,14,46,J Size,J Moreira,11,122,1162,1.23.38,436
+97,DESTINE JEWELLERY (D032),AUS,4,Brown , Gelding,PPG,1102380,I Am Invincible,Ailuros,One Cool Cat,12/02/20,03,HV,"Turf""C+3""",1200,GF,4,1,46,J Size,A Badel,15,120,1159,1.09.78,411
+98,DESTINE JEWELLERY (D032),AUS,4,Brown , Gelding,PPG,1102380,I Am Invincible,Ailuros,One Cool Cat,29/01/20,10,HV,"Turf""B""",1200,G,4,10,48,J Size,J Moreira,18,123,1158,1.10.65,372
+99,DESTINE JEWELLERY (D032),AUS,4,Brown , Gelding,PPG,1102380,I Am Invincible,Ailuros,One Cool Cat,11/01/20,10,ST,"Turf""A""",1400,G,4,12,50,J Size,G van Niekerk,20,124,1159,1.23.53,329
+100,DESTINE JEWELLERY (D032),AUS,4,Brown , Gelding,PPG,1102380,I Am Invincible,Ailuros,One Cool Cat,29/12/19,07,ST,"Turf""B+2""",1200,G,4,11,52,J Size,A Badel,5.3,128,1155,1.11.00,286
+101,DESTINE JEWELLERY (D032),AUS,4,Brown , Gelding,PPG,1102380,I Am Invincible,Ailuros,One Cool Cat,01/12/19,03,ST,"Turf""C+3""",1200,G,4,2,52,J Size,J Moreira,10,125,1171,1.10.12,210
+102,HERO STAR (D033),AUS,4,Bay , Gelding,PPG,246585,Kaphero,Winning Betsy,Redoute's Choice,29/04/20,09,HV,"Turf""A""",1200,GF,4,7,50,K L Man,C Schofield,10,125,1125,1.10.34,616
+103,HERO STAR (D033),AUS,4,Bay , Gelding,PPG,246585,Kaphero,Winning Betsy,Redoute's Choice,29/03/20,06,ST,"Turf""A+3""",1200,G,4,8,52,K L Man,C Y Ho,18,126,1134,1.10.80,531
+104,HERO STAR (D033),AUS,4,Bay , Gelding,PPG,246585,Kaphero,Winning Betsy,Redoute's Choice,23/02/20,11,ST,"Turf""A+3""",1200,G,4,5,54,K L Man,M Chadwick,17,128,1132,1.10.68,437
+105,HERO STAR (D033),AUS,4,Bay , Gelding,PPG,246585,Kaphero,Winning Betsy,Redoute's Choice,27/01/20,05,ST,"Turf""B+2""",1200,G,4,3,54,K L Man,C Y Ho,7.1,126,1119,1.10.32,365
+106,HERO STAR (D033),AUS,4,Bay , Gelding,PPG,246585,Kaphero,Winning Betsy,Redoute's Choice,29/12/19,02,ST,"Turf""B+2""",1200,G,4,3,52,K L Man,C Y Ho,3.3,128,1118,1.10.68,286
+107,HERO STAR (D033),AUS,4,Bay , Gelding,PPG,246585,Kaphero,Winning Betsy,Redoute's Choice,01/12/19,06,ST,"Turf""C+3""",1200,G,4,10,52,K L Man,C Y Ho,9.6,125,1124,1.10.40,210
+108,ELITE TREASURE (D034),AUS,3,Bay , Gelding,PPG,0,Malibu Moon,Stars To Shine,Tale Of The Cat,25/03/20,10,HV,"Turf""A""",1200,G,4,7,52,A T Millard,C Wong,262,122,1097,1.12.42,523
+109,LUCKY MORE (D035),AUS,3,Bay , Colt,PPG,2518430,More Than Ready,You Da One,Fastnet Rock,08/03/20,01,ST,"Turf""C""",1200,G,3,1,80,C S Shum,Z Purton,2,133,1112,1.09.21,482
+110,LUCKY MORE (D035),AUS,3,Bay , Colt,PPG,2518430,More Than Ready,You Da One,Fastnet Rock,27/01/20,05,ST,"Turf""B+2""",1200,G,3,13,80,C S Shum,Z Purton,2.1,133,1092,1.09.83,371
+111,LUCKY MORE (D035),AUS,3,Bay , Colt,PPG,2518430,More Than Ready,You Da One,Fastnet Rock,01/01/20,01,ST,"Turf""C""",1200,G,3,4,69,C S Shum,Z Purton,2.3,126,1093,1.09.17,301
+112,LUCKY MORE (D035),AUS,3,Bay , Colt,PPG,2518430,More Than Ready,You Da One,Fastnet Rock,21/12/19,05,ST,"Turf""A+3""",1000,G,3,11,69,C S Shum,Z Purton,1.7,122,1119,0.56.82,272
+113,LUCKY MORE (D035),AUS,3,Bay , Colt,PPG,2518430,More Than Ready,You Da One,Fastnet Rock,23/11/19,01,ST,"Turf""C""",1000,GF,4,4,55,C S Shum,Z Purton,1.8,128,1097,0.56.01,191
+114,LUCKY MORE (D035),AUS,3,Bay , Colt,PPG,2518430,More Than Ready,You Da One,Fastnet Rock,03/11/19,02,ST,"Turf""C+3""",1000,GF,4,14,52,C S Shum,Z Purton,1.5,125,1110,0.56.42,142
+115,HAPPY ICHIBAN (D037),AUS,3,Bay , Gelding,PPG,0,Nicconi,Sheen,Cape Cross,09/05/20,08,ST,"Turf""C""",1800,GF,4,7,42,D J Whyte,T H So,95,113,1255,1.48.26,645
+116,HAPPY ICHIBAN (D037),AUS,3,Bay , Gelding,PPG,0,Nicconi,Sheen,Cape Cross,22/04/20,07,HV,"Turf""C+3""",1650,GY,4,1,44,D J Whyte,M Chadwick,14,117,1262,1.41.24,598
+117,HAPPY ICHIBAN (D037),AUS,3,Bay , Gelding,PPG,0,Nicconi,Sheen,Cape Cross,05/04/20,09,ST,"Turf""B+2""",1600,G,4,11,46,D J Whyte,K Teetan,28,119,1273,1.37.10,550
+118,HAPPY ICHIBAN (D037),AUS,3,Bay , Gelding,PPG,0,Nicconi,Sheen,Cape Cross,22/03/20,07,ST,"Turf""A""",1600,G,4,3,48,D J Whyte,M Chadwick,174,122,1270,1.35.44,510
+119,HAPPY ICHIBAN (D037),AUS,3,Bay , Gelding,PPG,0,Nicconi,Sheen,Cape Cross,01/03/20,10,ST,"Turf""B+2""",1600,G,4,13,50,D J Whyte,L Hewitson,70,123,1274,1.36.61,458
+120,HAPPY ICHIBAN (D037),AUS,3,Bay , Gelding,PPG,0,Nicconi,Sheen,Cape Cross,23/02/20,07,ST,"Turf""A+3""",1400,G,4,4,52,D J Whyte,L Hewitson,180,128,1281,1.23.18,436
+121,HAPPY ICHIBAN (D037),AUS,3,Bay , Gelding,PPG,0,Nicconi,Sheen,Cape Cross,02/02/20,10,ST,"Turf""C""",1200,G,4,2,52,D J Whyte,L Hewitson,173,125,1280,1.10.61,382
+122,STOCK LEGEND (D039),AUS,3,Bay , Gelding,PPG,58020,Sidestep,Adjourn,Waajib,26/04/20,08,ST,"Turf""A""",1200,G,4,1,50,K H Ting,A Hamelin,23,123,1105,1.10.22,604
+123,STOCK LEGEND (D039),AUS,3,Bay , Gelding,PPG,58020,Sidestep,Adjourn,Waajib,29/03/20,04,ST,"Turf""A+3""",1200,G,4,14,50,K H Ting,K Teetan,324,124,1110,1.10.47,531
+124,STOCK LEGEND (D039),AUS,3,Bay , Gelding,PPG,58020,Sidestep,Adjourn,Waajib,01/03/20,12,ST,"Turf""B+2""",1000,G,4,8,52,K H Ting,A Badel,34,127,1114,0.57.40,454
+125,STOCK LEGEND (D039),AUS,3,Bay , Gelding,PPG,58020,Sidestep,Adjourn,Waajib,08/02/20,08,ST,"Turf""C+3""",1000,G,4,5,52,K H Ting,A Badel,111,128,1113,0.57.96,399
+126,ISLAND SHINE (D040),NZ,4,Brown , Gelding,PP,1450000,Darci Brahma,Lucky Be Lucky,Storm Cat,06/05/20,03,HV,"Turf""B""",1200,GF,3,1,73,P F Yiu,Z Purton,2.9,128,1151,1.09.55,639
+127,ISLAND SHINE (D040),NZ,4,Brown , Gelding,PP,1450000,Darci Brahma,Lucky Be Lucky,Storm Cat,15/04/20,01,HV,"Turf""C""",1200,G,3,10,67,P F Yiu,Z Purton,9,120,1158,1.09.33,581
+128,ISLAND SHINE (D040),NZ,4,Brown , Gelding,PP,1450000,Darci Brahma,Lucky Be Lucky,Storm Cat,18/03/20,02,HV,"Turf""C+3""",1200,G,3,2,66,P F Yiu,H W Lai,12,119,1167,1.09.79,507
+129,ISLAND SHINE (D040),NZ,4,Brown , Gelding,PP,1450000,Darci Brahma,Lucky Be Lucky,Storm Cat,16/02/20,12,ST,"Turf""A""",1200,G,3,2,68,P F Yiu,K C Leung,14,121,1166,1.11.08,425
+130,ISLAND SHINE (D040),NZ,4,Brown , Gelding,PP,1450000,Darci Brahma,Lucky Be Lucky,Storm Cat,02/02/20,05,ST,"Turf""C""",1200,G,3,3,68,P F Yiu,K C Leung,12,122,1168,1.09.72,389
+131,ISLAND SHINE (D040),NZ,4,Brown , Gelding,PP,1450000,Darci Brahma,Lucky Be Lucky,Storm Cat,21/12/19,07,ST,"Turf""A+3""",1200,G,3,7,70,P F Yiu,G van Niekerk,10,123,1175,1.10.14,271
+132,ISLAND SHINE (D040),NZ,4,Brown , Gelding,PP,1450000,Darci Brahma,Lucky Be Lucky,Storm Cat,04/12/19,10,HV,"Turf""B""",1200,G,3,8,72,P F Yiu,A Badel,13,125,1184,1.10.47,226
+133,ISLAND SHINE (D040),NZ,4,Brown , Gelding,PP,1450000,Darci Brahma,Lucky Be Lucky,Storm Cat,03/11/19,04,ST,"Turf""C+3""",1200,GF,3,2,72,P F Yiu,G van Niekerk,7,125,1150,1.08.95,144
+134,GAYSON (D041),NZ,,Brown , Gelding,PP,101500,Savabeel,In The Mood,Hawk Wing,29/03/2020,11,ST,"Turf""A+3""",2000,G,4,11,60,J Moore,N Callan,24,133,1106,2.04.14,528
+135,GAYSON (D041),NZ,,Brown , Gelding,PP,101500,Savabeel,In The Mood,Hawk Wing,11/03/2020,12,HV,"Turf""C""",1800,G,3,9,62,J Moore,K C Leung,13,116,1115,1.50.54,490
+136,GAYSON (D041),NZ,,Brown , Gelding,PP,101500,Savabeel,In The Mood,Hawk Wing,26/02/2020,05,HV,"Turf""A""",2200,G,3,9,64,J Moore,M F Poon,25,116,1117,2.17.19,450
+137,GAYSON (D041),NZ,,Brown , Gelding,PP,101500,Savabeel,In The Mood,Hawk Wing,27/01/2020,07,ST,"Turf""B+2""",2000,G,3,9,66,J Moore,K Teetan,13,120,1112,2.02.03,367
+138,GAYSON (D041),NZ,,Brown , Gelding,PP,101500,Savabeel,In The Mood,Hawk Wing,15/01/2020,05,HV,"Turf""C+3""",1650,G,3,8,68,J Moore,B Shinn,48,122,1109,1.39.74,337
+139,GAYSON (D041),NZ,,Brown , Gelding,PP,101500,Savabeel,In The Mood,Hawk Wing,15/12/2019,10,ST,"Turf""C+3""",1600,G,3,6,70,J Moore,B Shinn,308,125,1102,1.35.36,255
+140,GAYSON (D041),NZ,,Brown , Gelding,PP,101500,Savabeel,In The Mood,Hawk Wing,03/11/2019,11,ST,"Turf""C+3""",1400,GF,3,7,70,J Moore,R Bayliss,81,124,1112,1.22.21,148
+141,THE RUNNER (D042),AUS,4,Chestnut , Gelding,PP,983905,Snitzel,Femina Fashion,Shamardal,06/05/20,01,HV,"Turf""B""",1200,GF,4,4,56,D J Whyte,A Hamelin,6,130,1093,1.10.26,636
+142,THE RUNNER (D042),AUS,4,Chestnut , Gelding,PP,983905,Snitzel,Femina Fashion,Shamardal,15/04/20,02,HV,"Turf""C""",1200,G,4,1,55,D J Whyte,A Hamelin,6.4,130,1092,1.09.80,577
+143,THE RUNNER (D042),AUS,4,Chestnut , Gelding,PP,983905,Snitzel,Femina Fashion,Shamardal,29/03/20,09,ST,"Turf""A+3""",1400,G,4,10,57,D J Whyte,C Schofield,21,130,1087,1.23.73,532
+144,THE RUNNER (D042),AUS,4,Chestnut , Gelding,PP,983905,Snitzel,Femina Fashion,Shamardal,08/03/20,03,ST,"Turf""C""",1400,G,4,2,58,D J Whyte,K H Chan,7.8,126,1094,1.22.87,477
+145,THE RUNNER (D042),AUS,4,Chestnut , Gelding,PP,983905,Snitzel,Femina Fashion,Shamardal,16/02/20,04,ST,"Turf""A""",1200,G,4,6,60,D J Whyte,A Badel,26,133,1099,1.10.44,418
+146,THE RUNNER (D042),AUS,4,Chestnut , Gelding,PP,983905,Snitzel,Femina Fashion,Shamardal,15/01/20,06,HV,"Turf""C+3""",1000,G,3,2,62,D J Whyte,L Hewitson,110,115,1090,0.57.27,340
+147,THE RUNNER (D042),AUS,4,Chestnut , Gelding,PP,983905,Snitzel,Femina Fashion,Shamardal,08/01/20,11,HV,"Turf""C""",1200,G,3,1,64,D J Whyte,K C Leung,10,117,1087,1.10.46,321
+148,THE RUNNER (D042),AUS,4,Chestnut , Gelding,PP,983905,Snitzel,Femina Fashion,Shamardal,26/12/19,11,HV,"Turf""A""",1650,G,3,9,66,D J Whyte,S de Sousa,40,120,1094,1.40.90,281
+149,THE RUNNER (D042),AUS,4,Chestnut , Gelding,PP,983905,Snitzel,Femina Fashion,Shamardal,27/11/19,07,HV,"Turf""A""",1200,G,3,9,68,D J Whyte,S de Sousa,21,121,1086,1.10.49,207
+150,THE RUNNER (D042),AUS,4,Chestnut , Gelding,PP,983905,Snitzel,Femina Fashion,Shamardal,30/10/19,05,HV,"Turf""A""",1200,G,3,1,70,D J Whyte,C Schofield,30,123,1082,1.10.78,138
+151,THE RUNNER (D042),AUS,4,Chestnut , Gelding,PP,983905,Snitzel,Femina Fashion,Shamardal,09/10/19,10,HV,"Turf""B""",1000,G,3,8,70,D J Whyte,C Schofield,34,124,1102,0.57.84,086
+152,BLOTTING PAPER (D043),AUS,4,Brown , Gelding,PP,0,Uncle Mo,Redtruth,Testa Rossa,08/04/20,12,HV,"Turf""B""",1000,G,3,1,61,R Gibson,T H So,73,116,1133,0.58.14,560
+153,BLOTTING PAPER (D043),AUS,4,Brown , Gelding,PP,0,Uncle Mo,Redtruth,Testa Rossa,22/03/20,10,ST,"Turf""A""",1200,G,3,1,64,R Gibson,V Borges,49,117,1145,1.10.16,513
+154,BLOTTING PAPER (D043),AUS,4,Brown , Gelding,PP,0,Uncle Mo,Redtruth,Testa Rossa,05/02/20,10,HV,"Turf""C""",1200,G,3,4,66,R Gibson,K C Leung,27,122,1129,1.10.64,396
+155,BLOTTING PAPER (D043),AUS,4,Brown , Gelding,PP,0,Uncle Mo,Redtruth,Testa Rossa,08/01/20,07,HV,"Turf""C""",1200,G,3,5,68,R Gibson,C Schofield,12,123,1136,1.10.63,322
+156,BLOTTING PAPER (D043),AUS,4,Brown , Gelding,PP,0,Uncle Mo,Redtruth,Testa Rossa,08/12/19,08,ST,"Turf""A""",1200,G,3,14,70,R Gibson,C Lemaire,55,123,1137,1.09.62,229
+157,BLOTTING PAPER (D043),AUS,4,Brown , Gelding,PP,0,Uncle Mo,Redtruth,Testa Rossa,17/11/19,09,ST,"Turf""B""",1200,G,3,7,70,R Gibson,R Bayliss,71,123,1139,1.09.86,172
+158,LET'S GO PARTY (D045),AUS,,Bay , Gelding,PPG,0,Choisir,Azardi,Desert Prince,01/04/2020,11,ST,AWT,1200,WS,4,11,46,C H Yip,M F Poon,299,118,1098,1.12.10,540
+159,LET'S GO PARTY (D045),AUS,,Bay , Gelding,PPG,0,Choisir,Azardi,Desert Prince,26/02/2020,12,HV,"Turf""A""",1200,G,4,12,49,C H Yip,L Hewitson,323,122,1088,1.10.76,446
+160,LET'S GO PARTY (D045),AUS,,Bay , Gelding,PPG,0,Choisir,Azardi,Desert Prince,22/01/2020,12,HV,"Turf""A""",1200,G,4,5,52,C H Yip,T H So,251,125,1071,1.12.14,354
+161,LET'S GO PARTY (D045),AUS,,Bay , Gelding,PPG,0,Choisir,Azardi,Desert Prince,08/01/2020,12,HV,"Turf""C""",1200,G,4,2,52,C H Yip,M L Yeung,33,126,1081,1.11.00,315
+162,WIN FOR YOUTH (D046),AUS,3,Chestnut , Gelding,PPG,0,Dawn Approach,Montelimar,Fusaichi Pegasus,09/05/20,09,ST,"Turf""C""",1200,GF,4,3,52,K H Ting,M L Yeung,282,127,1232,1.10.86,641
+163,WIN FOR YOUTH (D046),AUS,3,Chestnut , Gelding,PPG,0,Dawn Approach,Montelimar,Fusaichi Pegasus,25/03/20,12,HV,"Turf""A""",1000,G,4,9,52,K H Ting,H W Lai,395,126,1221,0.59.64,521
+164,TRUE LEGEND (D047),AUS,3,Chestnut , Colt,PPG,662395,Deep Field,Jolie Bay,Fastnet Rock,26/04/20,01,ST,"Turf""A""",1200,G,4,6,51,F C Lor,K Teetan,21,124,1231,1.09.40,604
+165,TRUE LEGEND (D047),AUS,3,Chestnut , Colt,PPG,662395,Deep Field,Jolie Bay,Fastnet Rock,05/04/20,06,ST,"Turf""B+2""",1200,G,4,8,52,F C Lor,K Teetan,5.8,125,1229,1.11.03,552
+166,TRUE LEGEND (D047),AUS,3,Chestnut , Colt,PPG,662395,Deep Field,Jolie Bay,Fastnet Rock,14/03/20,03,ST,"Turf""C+3""",1200,G,4,6,52,F C Lor,J Moreira,4.7,125,1233,1.09.79,492
+167,UNITED WE STAND (D048),AUS,3,Bay , Gelding,PPG,0,Delago Deluxe,Register,Zeditave,09/05/20,09,ST,"Turf""C""",1200,GF,4,11,48,C S Shum,M F Poon,48,119,1200,1.10.31,643
+168,UNITED WE STAND (D048),AUS,3,Bay , Gelding,PPG,0,Delago Deluxe,Register,Zeditave,26/04/20,11,ST,"Turf""A""",1200,G,4,7,50,C S Shum,M F Poon,250,121,1190,1.10.45,604
+169,UNITED WE STAND (D048),AUS,3,Bay , Gelding,PPG,0,Delago Deluxe,Register,Zeditave,01/01/20,07,ST,"Turf""C""",1200,G,4,1,50,C S Shum,A Badel,21,125,1192,1.10.69,294
+170,UNITED WE STAND (D048),AUS,3,Bay , Gelding,PPG,0,Delago Deluxe,Register,Zeditave,01/12/19,13,ST,"Turf""C+3""",1400,G,4R,5,52,C S Shum,B Shinn,25,128,1186,1.23.82,208
+171,UNITED WE STAND (D048),AUS,3,Bay , Gelding,PPG,0,Delago Deluxe,Register,Zeditave,09/11/19,06,ST,"Turf""A""",1200,G,4R,2,52,C S Shum,N Callan,14,124,1180,1.10.00,160
+172,XPONENTIAL (D049),AUS,4,Bay , Gelding,PPG,908980,Equiano,Eternal Circle,Fastnet Rock,09/05/20,02,ST,"Turf""C""",1200,GF,4,4,58,D J Whyte,C Schofield,2.5,133,1130,1.09.34,641
+173,XPONENTIAL (D049),AUS,4,Bay , Gelding,PPG,908980,Equiano,Eternal Circle,Fastnet Rock,29/03/20,WV,ST,"Turf""A+3""",1200,G,4,--,58,D J Whyte,M Chadwick,--,132,--,--,531
+174,XPONENTIAL (D049),AUS,4,Bay , Gelding,PPG,908980,Equiano,Eternal Circle,Fastnet Rock,01/03/20,03,ST,"Turf""B+2""",1200,G,4,6,58,D J Whyte,M Chadwick,6.9,133,1133,1.09.79,457
+175,XPONENTIAL (D049),AUS,4,Bay , Gelding,PPG,908980,Equiano,Eternal Circle,Fastnet Rock,08/02/20,05,ST,"Turf""C+3""",1400,G,4,13,58,D J Whyte,K Teetan,9.9,132,1142,1.22.88,402
+176,XPONENTIAL (D049),AUS,4,Bay , Gelding,PPG,908980,Equiano,Eternal Circle,Fastnet Rock,11/01/20,12,ST,"Turf""A""",1400,G,4,10,58,D J Whyte,K Teetan,3.6,132,1138,1.23.65,329
+177,XPONENTIAL (D049),AUS,4,Bay , Gelding,PPG,908980,Equiano,Eternal Circle,Fastnet Rock,21/12/19,01,ST,"Turf""A+3""",1200,G,4,14,52,D J Whyte,C Schofield,48,127,1135,1.10.08,269
+178,LUCKY QUALITY (D050),AUS,3,Bay , Gelding,PPG,256255,Medaglia d'Oro,Watchful Eyes,Street Sense,22/04/20,03,HV,"Turf""C+3""",1200,GY,4,1,53,C Fownes,Z Purton,4.4,127,1075,1.11.79,599
+179,LUCKY QUALITY (D050),AUS,3,Bay , Gelding,PPG,256255,Medaglia d'Oro,Watchful Eyes,Street Sense,08/04/20,05,HV,"Turf""B""",1200,G,4,7,54,C Fownes,C Y Ho,8.7,127,1085,1.10.73,557
+180,LUCKY QUALITY (D050),AUS,3,Bay , Gelding,PPG,256255,Medaglia d'Oro,Watchful Eyes,Street Sense,08/01/20,WV,HV,"Turf""C""",1200,G,4,--,54,C Fownes,Z Purton,--,127,--,--,317
+181,LUCKY QUALITY (D050),AUS,3,Bay , Gelding,PPG,256255,Medaglia d'Oro,Watchful Eyes,Street Sense,29/12/19,06,ST,"Turf""B+2""",1400,G,R,7,54,C Fownes,C Y Ho,3.9,120,1090,1.23.59,284
+182,LUCKY QUALITY (D050),AUS,3,Bay , Gelding,PPG,256255,Medaglia d'Oro,Watchful Eyes,Street Sense,11/12/19,03,HV,"Turf""C""",1200,G,4,6,52,C Fownes,C Y Ho,42,126,1093,1.10.00,241
+183,JIANGXI STAMINA (D051),AUS,4,Bay , Gelding,PPG,0,Moshe,Queen's Lager,Lago Delight,03/05/20,DNF,ST,"Turf""B""",1000,G,4,1,47,W Y So,K C Leung,180,120,1200,--,624
+184,JIANGXI STAMINA (D051),AUS,4,Bay , Gelding,PPG,0,Moshe,Queen's Lager,Lago Delight,25/03/20,11,HV,"Turf""A""",1200,G,4,4,50,W Y So,H W Lai,503,125,1202,1.16.20,523
+185,JIANGXI STAMINA (D051),AUS,4,Bay , Gelding,PPG,0,Moshe,Queen's Lager,Lago Delight,23/02/20,12,ST,"Turf""A+3""",1200,G,4,7,52,W Y So,H W Lai,518,126,1196,1.10.84,437
+186,JIANGXI STAMINA (D051),AUS,4,Bay , Gelding,PPG,0,Moshe,Queen's Lager,Lago Delight,01/01/20,11,ST,"Turf""C""",1200,G,4,10,52,W Y So,C Schofield,75,127,1204,1.11.30,294
+187,JUNEAU PARK (D052),NZ,4,Bay , Gelding,PPG,1672880,Ocean Park,Hula Here,Dehere,03/05/20,10,ST,"Turf""B""",1400,GF,3,5,65,J Size,J Moreira,4.1,119,1263,1.22.36,631
+188,JUNEAU PARK (D052),NZ,4,Bay , Gelding,PPG,1672880,Ocean Park,Hula Here,Dehere,19/04/20,04,ST,"Turf""C+3""",1400,G,3,6,65,J Size,J Moreira,4,119,1255,1.21.57,592
+189,JUNEAU PARK (D052),NZ,4,Bay , Gelding,PPG,1672880,Ocean Park,Hula Here,Dehere,29/03/20,01,ST,"Turf""A+3""",1400,G,4,1,60,J Size,J Moreira,2,133,1278,1.22.84,532
+190,JUNEAU PARK (D052),NZ,4,Bay , Gelding,PPG,1672880,Ocean Park,Hula Here,Dehere,14/03/20,01,ST,"Turf""C+3""",1400,G,4,2,55,J Size,J Moreira,1.5,130,1279,1.21.78,494
+191,JUNEAU PARK (D052),NZ,4,Bay , Gelding,PPG,1672880,Ocean Park,Hula Here,Dehere,23/02/20,02,ST,"Turf""A+3""",1400,G,4,14,53,J Size,J Moreira,5.4,128,1291,1.22.38,440
+192,JUNEAU PARK (D052),NZ,4,Bay , Gelding,PPG,1672880,Ocean Park,Hula Here,Dehere,02/02/20,04,ST,"Turf""C""",1200,G,4,10,53,J Size,K Teetan,10,126,1298,1.10.08,382
+193,JUNEAU PARK (D052),NZ,4,Bay , Gelding,PPG,1672880,Ocean Park,Hula Here,Dehere,11/01/20,02,ST,"Turf""A""",1200,G,4,7,52,J Size,J Moreira,8.3,126,1275,1.09.81,323
+194,ALLOY STAR (D053),AUS,4,Bay , Gelding,PPG,212740,Sebring,Steps In Time,Danehill Dancer,05/04/20,WV,ST,"Turf""B+2""",1400,G,4,--,53,T P Yung,K Teetan,--,126,--,--,548
+195,ALLOY STAR (D053),AUS,4,Bay , Gelding,PPG,212740,Sebring,Steps In Time,Danehill Dancer,08/03/20,09,ST,"Turf""C""",1200,G,4,5,53,T P Yung,M L Yeung,21,129,1049,1.10.53,476
+196,ALLOY STAR (D053),AUS,4,Bay , Gelding,PPG,212740,Sebring,Steps In Time,Danehill Dancer,02/02/20,02,ST,"Turf""C""",1200,G,4,1,52,T P Yung,M L Yeung,81,127,1060,1.10.43,381
+197,UNDEFEATED (D054),AUS,4,Bay , Gelding,PPG,551190,Shamus Award,Attractive,Zabeel,19/02/20,12,ST,AWT,1200,GD,4,10,57,K W Lui,H N Wong,6.8,128,1195,1.14.23,430
+198,UNDEFEATED (D054),AUS,4,Bay , Gelding,PPG,551190,Shamus Award,Attractive,Zabeel,19/01/20,01,ST,"Turf""A+3""",1200,G,4,2,52,K W Lui,H N Wong,7.3,122,1225,1.09.48,343
+199,UNDEFEATED (D054),AUS,4,Bay , Gelding,PPG,551190,Shamus Award,Attractive,Zabeel,21/12/19,07,ST,"Turf""A+3""",1200,G,4,4,52,K W Lui,H N Wong,69,124,1235,1.10.44,269
+200,SAVVY NINE (D056),FR,4,Brown , Gelding,PP,2272000,Anodin,Insan Mala,Bahhare,03/05/20,02,ST,"Turf""B""",2400,G,G3,1,92,J Moore,J Moreira,3.1,115,1083,2.27.41,623
+201,SAVVY NINE (D056),FR,4,Brown , Gelding,PP,2272000,Anodin,Insan Mala,Bahhare,05/04/20,05,ST,"Turf""B+2""",2000,G,1,5,92,J Moore,C Schofield,9.5,117,1106,2.01.71,549
+202,SAVVY NINE (D056),FR,4,Brown , Gelding,PP,2272000,Anodin,Insan Mala,Bahhare,22/03/20,04,ST,"Turf""A""",2000,GF,4YO,7,83,J Moore,M L Yeung,261,126,1098,2.00.80,516
+203,SAVVY NINE (D056),FR,4,Brown , Gelding,PP,2272000,Anodin,Insan Mala,Bahhare,23/02/20,08,ST,"Turf""A+3""",1800,G,4YO,9,83,J Moore,A Badel,135,126,1105,1.46.63,441
+204,SAVVY NINE (D056),FR,4,Brown , Gelding,PP,2272000,Anodin,Insan Mala,Bahhare,02/02/20,08,ST,"Turf""C""",1800,G,2,10,83,J Moore,A Badel,21,119,1101,1.47.44,390
+205,SAVVY NINE (D056),FR,4,Brown , Gelding,PP,2272000,Anodin,Insan Mala,Bahhare,15/01/20,02,HV,"Turf""C+3""",1650,G,3,7,80,J Moore,L Hewitson,43,133,1091,1.38.67,339
+206,SAVVY NINE (D056),FR,4,Brown , Gelding,PP,2272000,Anodin,Insan Mala,Bahhare,29/12/19,08,ST,AWT,1650,WS,2,11,81,J Moore,L Hewitson,77,115,1105,1.40.14,292
+207,SAVVY NINE (D056),FR,4,Brown , Gelding,PP,2272000,Anodin,Insan Mala,Bahhare,15/12/19,06,ST,"Turf""C+3""",1400,G,2,3,81,J Moore,H N Wong,99,112,1103,1.21.45,253
+208,PACKING JOY (D057),GB,,Bay , Gelding,PP,0,Kingman,Wedding Morn,Sadler's Wells,29/04/2020,12,HV,"Turf""A""",1650,GF,3,9,69,R Gibson,T H So,300,120,1064,1.50.56,619
+209,PACKING JOY (D057),GB,,Bay , Gelding,PP,0,Kingman,Wedding Morn,Sadler's Wells,01/04/2020,10,ST,AWT,1200,WS,3,6,71,R Gibson,T H So,373,126,1053,1.10.67,542
+210,PACKING JOY (D057),GB,,Bay , Gelding,PP,0,Kingman,Wedding Morn,Sadler's Wells,18/03/2020,12,HV,"Turf""C+3""",1650,G,3,3,73,R Gibson,B Shinn,285,129,1058,1.41.54,506
+211,PACKING JOY (D057),GB,,Bay , Gelding,PP,0,Kingman,Wedding Morn,Sadler's Wells,16/02/2020,14,ST,"Turf""A""",1400,G,3,10,73,R Gibson,N Callan,185,126,1066,1.25.34,422
+212,THE WEATHERMAN (D058),GB,4,Grey , Gelding,PP,0,Showcasing,Sell Out,Act One,01/04/20,08,ST,AWT,1200,WS,3,5,60,D J Whyte,H N Wong,103,114,1008,1.10.12,542
+213,THE WEATHERMAN (D058),GB,4,Grey , Gelding,PP,0,Showcasing,Sell Out,Act One,22/03/20,09,ST,"Turf""A""",1200,G,3,6,63,D J Whyte,H N Wong,332,113,1007,1.10.10,513
+214,THE WEATHERMAN (D058),GB,4,Grey , Gelding,PP,0,Showcasing,Sell Out,Act One,04/03/20,10,HV,"Turf""B""",1650,G,3,9,66,D J Whyte,K H Chan,96,112,1010,1.41.70,469
+215,THE WEATHERMAN (D058),GB,4,Grey , Gelding,PP,0,Showcasing,Sell Out,Act One,08/02/20,08,ST,AWT,1200,GD,3,9,69,D J Whyte,A Badel,125,123,1005,1.10.45,404
+216,THE WEATHERMAN (D058),GB,4,Grey , Gelding,PP,0,Showcasing,Sell Out,Act One,15/01/20,11,HV,"Turf""C+3""",1000,G,3,10,72,D J Whyte,K C Leung,222,125,990,0.58.86,340
+217,THE WEATHERMAN (D058),GB,4,Grey , Gelding,PP,0,Showcasing,Sell Out,Act One,05/01/20,08,ST,AWT,1200,GD,3,1,74,D J Whyte,K C Leung,98,123,993,1.09.98,310
+218,THE WEATHERMAN (D058),GB,4,Grey , Gelding,PP,0,Showcasing,Sell Out,Act One,21/12/19,11,ST,"Turf""A+3""",1000,G,3,6,76,D J Whyte,K C Leung,66,129,995,0.57.49,272
+219,THE WEATHERMAN (D058),GB,4,Grey , Gelding,PP,0,Showcasing,Sell Out,Act One,11/12/19,09,HV,"Turf""C""",1000,G,3,5,78,D J Whyte,L Hewitson,114,131,1003,0.57.61,244
+220,THE WEATHERMAN (D058),GB,4,Grey , Gelding,PP,0,Showcasing,Sell Out,Act One,09/11/19,10,ST,"Turf""A""",1000,GF,3,1,78,D J Whyte,M Chadwick,63,131,996,0.57.60,164
+221,ENZEMBLE (D059),IRE,5,Bay , Gelding,PP,1964750,Zoffany,Fifer,Soviet Star,03/05/20,03,ST,"Turf""B""",2000,GF,3,7,70,D J Whyte,C Schofield,8.5,123,1073,2.00.69,628
+222,ENZEMBLE (D059),IRE,5,Bay , Gelding,PP,1964750,Zoffany,Fifer,Soviet Star,12/04/20,01,ST,"Turf""C""",1800,G,3,4,65,D J Whyte,J Moreira,2.8,120,1064,1.46.85,570
+223,ENZEMBLE (D059),IRE,5,Bay , Gelding,PP,1964750,Zoffany,Fifer,Soviet Star,29/03/20,07,ST,"Turf""A+3""",1600,G,3,8,67,D J Whyte,J Moreira,5.5,115,1065,1.35.62,535
+224,ENZEMBLE (D059),IRE,5,Bay , Gelding,PP,1964750,Zoffany,Fifer,Soviet Star,23/02/20,03,ST,"Turf""A+3""",1600,G,3,12,67,D J Whyte,G van Niekerk,4.1,121,1068,1.34.63,444
+225,ENZEMBLE (D059),IRE,5,Bay , Gelding,PP,1964750,Zoffany,Fifer,Soviet Star,08/02/20,02,ST,"Turf""C+3""",1800,G,3,1,65,D J Whyte,L Hewitson,5.6,121,1081,1.47.00,403
+226,ENZEMBLE (D059),IRE,5,Bay , Gelding,PP,1964750,Zoffany,Fifer,Soviet Star,19/01/20,02,ST,"Turf""A+3""",1600,G,3,7,63,D J Whyte,L Hewitson,17,119,1059,1.34.68,351
+227,ENZEMBLE (D059),IRE,5,Bay , Gelding,PP,1964750,Zoffany,Fifer,Soviet Star,01/01/20,03,ST,"Turf""C""",1600,G,3,11,63,D J Whyte,L Hewitson,150,116,1062,1.34.84,303
+228,ENZEMBLE (D059),IRE,5,Bay , Gelding,PP,1964750,Zoffany,Fifer,Soviet Star,18/12/19,12,HV,"Turf""C+3""",1650,GF,3,10,66,D J Whyte,L Hewitson,97,123,1076,1.40.38,262
+229,ENZEMBLE (D059),IRE,5,Bay , Gelding,PP,1964750,Zoffany,Fifer,Soviet Star,23/11/19,14,ST,"Turf""C""",1600,GF,3,8,68,D J Whyte,L Hewitson,119,121,1061,1.36.84,197
+230,ENZEMBLE (D059),IRE,5,Bay , Gelding,PP,1964750,Zoffany,Fifer,Soviet Star,09/11/19,10,ST,"Turf""A""",1400,GF,3,2,70,D J Whyte,K Teetan,96,123,1057,1.22.18,169
+231,ENZEMBLE (D059),IRE,5,Bay , Gelding,PP,1964750,Zoffany,Fifer,Soviet Star,20/10/19,14,ST,"Turf""A""",1200,GF,3,5,70,D J Whyte,C Schofield,126,123,1068,1.09.68,111
+232,SMART THINKER (D060),USA,4,Grey ,,PPG,0,More Than Ready,Thissongsforbailee,Unbridled's Song,29/04/20,08,HV,"Turf""A""",1650,GF,4,11,46,R Gibson,H W Lai,287,120,1052,1.40.95,614
+233,SMART THINKER (D060),USA,4,Grey ,,PPG,0,More Than Ready,Thissongsforbailee,Unbridled's Song,01/04/20,13,ST,AWT,1650,WS,4,8,51,R Gibson,H W Lai,410,124,1046,1.42.28,541
+234,SMART THINKER (D060),USA,4,Grey ,,PPG,0,More Than Ready,Thissongsforbailee,Unbridled's Song,18/03/20,11,HV,"Turf""C+3""",1200,G,4,2,54,R Gibson,B Shinn,362,128,1063,1.11.09,502
+235,SMART THINKER (D060),USA,4,Grey ,,PPG,0,More Than Ready,Thissongsforbailee,Unbridled's Song,05/02/20,10,HV,"Turf""C""",1200,G,4,7,57,R Gibson,N Callan,331,131,1043,1.11.38,394
+236,SMART THINKER (D060),USA,4,Grey ,,PPG,0,More Than Ready,Thissongsforbailee,Unbridled's Song,22/01/20,12,HV,"Turf""A""",1000,G,4,7,57,R Gibson,N Callan,234,133,1052,0.58.48,356
+237,HORSESAIN BOLT (D061),IRE,4,Chestnut , Gelding,PP,217500,Excelebration,Kerisa,Azamour,26/04/20,11,ST,"Turf""A""",1600,G,3,1,71,D J Whyte,M Chadwick,22,124,1168,1.35.33,605
+238,HORSESAIN BOLT (D061),IRE,4,Chestnut , Gelding,PP,217500,Excelebration,Kerisa,Azamour,29/03/20,05,ST,"Turf""A+3""",1400,G,3,8,72,D J Whyte,M Chadwick,17,125,1170,1.22.86,534
+239,HORSESAIN BOLT (D061),IRE,4,Chestnut , Gelding,PP,217500,Excelebration,Kerisa,Azamour,05/02/20,11,HV,"Turf""C""",1650,G,3,4,72,D J Whyte,K Teetan,6.4,126,1192,1.40.52,397
+240,HORSESAIN BOLT (D061),IRE,4,Chestnut , Gelding,PP,217500,Excelebration,Kerisa,Azamour,11/01/20,03,ST,"Turf""A""",1400,G,3,5,71,D J Whyte,K Teetan,9.2,125,1185,1.22.05,331
+241,NOTTING HUW (D062),IRE,4,Bay , Gelding,PPG,0,Acclamation,So Dandy,Oratorio,14/03/20,13,ST,"Turf""C+3""",1400,G,4,13,57,P O'Sullivan,V Borges,397,132,1069,1.25.48,494
+242,SEA MONARCH (D063),IRE,3,Bay , Gelding,PPG,51000,Dandy Man,Cucuma,Invincible Spirit,03/05/20,WV,ST,"Turf""B""",1000,G,GRIFFIN,--,--,W Y So,K Teetan,--,129,--,--,621
+243,SEA MONARCH (D063),IRE,3,Bay , Gelding,PPG,51000,Dandy Man,Cucuma,Invincible Spirit,12/04/20,04,ST,"Turf""C""",1000,G,GRIFFIN,4,--,W Y So,K Teetan,4.2,129,1012,0.59.13,563
+244,ENJOYING (D066),AUS,4,Brown ,,PP,841500,Dundeel,Incredulous,Keep The Faith,23/02/20,04,ST,"Turf""A+3""",1800,G,4YO,8,86,J Moore,H Bowman,16,126,1168,1.46.28,441
+245,ENJOYING (D066),AUS,4,Brown ,,PP,841500,Dundeel,Incredulous,Keep The Faith,02/02/20,09,ST,"Turf""C""",1800,G,2,12,86,J Moore,S de Sousa,6.3,122,1166,1.47.55,390
+246,ENJOYING (D066),AUS,4,Brown ,,PP,841500,Dundeel,Incredulous,Keep The Faith,05/01/20,03,ST,"Turf""C+3""",1800,G,2,11,85,J Moore,S de Sousa,20,120,1155,1.47.04,312
+247,ENJOYING (D066),AUS,4,Brown ,,PP,841500,Dundeel,Incredulous,Keep The Faith,08/12/19,11,ST,"Turf""A""",1600,G,2,3,87,J Moore,A Sanna,141,124,1161,1.34.53,236
+248,ENJOYING (D066),AUS,4,Brown ,,PP,841500,Dundeel,Incredulous,Keep The Faith,03/11/19,09,ST,"Turf""C+3""",1600,GF,2,7,87,J Moore,Z Purton,10,125,1175,1.34.25,150
+249,AMAZING KIWI (D068),AUS,4,Chestnut , Gelding,PP,688750,Helmet,Cara Bella,Seeking The Gold,06/05/20,11,HV,"Turf""B""",1200,GF,3,7,65,D J Whyte,C Y Ho,19,120,1137,1.10.04,639
+250,AMAZING KIWI (D068),AUS,4,Chestnut , Gelding,PP,688750,Helmet,Cara Bella,Seeking The Gold,22/04/20,08,HV,"Turf""C+3""",1200,GY,3,1,67,D J Whyte,A Hamelin,6.3,123,1137,1.12.17,600
+251,AMAZING KIWI (D068),AUS,4,Chestnut , Gelding,PP,688750,Helmet,Cara Bella,Seeking The Gold,08/04/20,09,HV,"Turf""B""",1000,G,3,7,67,D J Whyte,K Teetan,7.1,124,1149,0.57.67,560
+252,AMAZING KIWI (D068),AUS,4,Chestnut , Gelding,PP,688750,Helmet,Cara Bella,Seeking The Gold,18/03/20,02,HV,"Turf""C+3""",1000,G,3,4,65,D J Whyte,K Teetan,8.4,120,1136,0.56.92,503
+253,AMAZING KIWI (D068),AUS,4,Chestnut , Gelding,PP,688750,Helmet,Cara Bella,Seeking The Gold,11/03/20,07,HV,"Turf""C""",1200,G,3,9,67,D J Whyte,G van Niekerk,17,123,1149,1.10.29,489
+254,AMAZING KIWI (D068),AUS,4,Chestnut , Gelding,PP,688750,Helmet,Cara Bella,Seeking The Gold,16/02/20,10,ST,"Turf""A""",1200,G,3,2,69,D J Whyte,K Teetan,17,124,1162,1.11.09,424
+255,AMAZING KIWI (D068),AUS,4,Chestnut , Gelding,PP,688750,Helmet,Cara Bella,Seeking The Gold,19/01/20,12,ST,"Turf""A+3""",1400,G,3,1,70,D J Whyte,K Teetan,4.8,123,1160,1.22.84,349
+256,AMAZING KIWI (D068),AUS,4,Chestnut , Gelding,PP,688750,Helmet,Cara Bella,Seeking The Gold,26/12/19,05,HV,"Turf""A""",1200,G,3,7,70,D J Whyte,K Teetan,5.4,124,1158,1.09.97,283
+257,AMAZING KIWI (D068),AUS,4,Chestnut , Gelding,PP,688750,Helmet,Cara Bella,Seeking The Gold,04/12/19,02,HV,"Turf""B""",1200,G,3,2,69,D J Whyte,K Teetan,28,122,1144,1.09.84,226
+258,FLYING GENIUS (D071),AUS,3,Bay ,,PPG,2307368,All Too Hard,Sacha Royale,Fasliyev,06/05/20,02,HV,"Turf""B""",1000,GF,3,2,68,A S Cruz,K Teetan,3.5,124,1177,0.56.84,637
+259,FLYING GENIUS (D071),AUS,3,Bay ,,PPG,2307368,All Too Hard,Sacha Royale,Fasliyev,12/04/20,02,ST,"Turf""C""",1000,G,3,12,68,A S Cruz,K Teetan,4.5,125,1176,0.56.55,571
+260,FLYING GENIUS (D071),AUS,3,Bay ,,PPG,2307368,All Too Hard,Sacha Royale,Fasliyev,01/04/20,05,ST,AWT,1200,WS,3,2,68,A S Cruz,Z Purton,3.2,125,1177,1.09.83,542
+261,FLYING GENIUS (D071),AUS,3,Bay ,,PPG,2307368,All Too Hard,Sacha Royale,Fasliyev,08/03/20,02,ST,AWT,1200,GD,3,11,68,A S Cruz,K H Chan,14,115,1175,1.09.26,478
+262,FLYING GENIUS (D071),AUS,3,Bay ,,PPG,2307368,All Too Hard,Sacha Royale,Fasliyev,05/02/20,10,HV,"Turf""C""",1200,G,3,12,68,A S Cruz,K Teetan,6.3,121,1170,1.10.44,398
+263,FLYING GENIUS (D071),AUS,3,Bay ,,PPG,2307368,All Too Hard,Sacha Royale,Fasliyev,15/01/20,04,HV,"Turf""C+3""",1000,G,3,4,68,A S Cruz,K Teetan,2.2,121,1168,0.57.02,340
+264,FLYING GENIUS (D071),AUS,3,Bay ,,PPG,2307368,All Too Hard,Sacha Royale,Fasliyev,18/12/19,01,HV,"Turf""C+3""",1000,GF,4,12,60,A S Cruz,K Teetan,4.4,133,1167,0.57.10,257
+265,FLYING GENIUS (D071),AUS,3,Bay ,,PPG,2307368,All Too Hard,Sacha Royale,Fasliyev,04/12/19,01,HV,"Turf""B""",1000,G,4,3,52,A S Cruz,R Moore,5,125,1157,0.57.10,221
+266,FLYING GENIUS (D071),AUS,3,Bay ,,PPG,2307368,All Too Hard,Sacha Royale,Fasliyev,03/11/19,06,ST,"Turf""C+3""",1000,GF,4,2,52,A S Cruz,J Moreira,20,125,1131,0.57.09,142
+267,SUPER POWER MAN (D072),AUS,3,Bay , Gelding,PPG,1102380,Anacheeva,Silver Girl,Fastnet Rock,19/04/20,01,ST,AWT,1200,GD,4,2,59,K L Man,C Schofield,2.7,133,1187,1.08.56,587
+268,SUPER POWER MAN (D072),AUS,3,Bay , Gelding,PPG,1102380,Anacheeva,Silver Girl,Fastnet Rock,19/02/20,01,ST,AWT,1200,GD,4,12,52,K L Man,C Schofield,24,126,1189,1.09.20,430
+269,SUPER POWER MAN (D072),AUS,3,Bay , Gelding,PPG,1102380,Anacheeva,Silver Girl,Fastnet Rock,05/01/20,07,ST,AWT,1200,GD,4,12,52,K L Man,C Schofield,11,125,1188,1.10.47,308
+270,APOLAR WARRIOR (D073),AUS,3,Chestnut , Gelding,PPG,0,Deep Field,Charlety Star,Arena,01/12/19,12,ST,"Turf""C+3""",1400,G,4R,1,52,P F Yiu,S de Sousa,35,128,1199,1.23.33,208
+271,APOLAR WARRIOR (D073),AUS,3,Chestnut , Gelding,PPG,0,Deep Field,Charlety Star,Arena,09/11/19,12,ST,"Turf""A""",1200,G,4R,14,52,P F Yiu,C Y Ho,18,124,1206,1.10.69,160
+272,SUNNY SMILE (D074),AUS,3,Bay , Gelding,PPG,0,Dissident,Family Girl,Zeditave,27/01/20,13,ST,"Turf""B+2""",1000,G,4,12,52,Y S Tsui,H T Mo,382,122,962,0.59.49,362
+273,DRAGON BOLT (D077),AUS,4,Bay , Gelding,PPG,0,I Am Invincible,Mizzle,Rahy,09/05/20,12,ST,"Turf""C""",1600,GF,5,10,35,F C Lor,C Schofield,263,128,1180,1.37.27,644
+274,DRAGON BOLT (D077),AUS,4,Bay , Gelding,PPG,0,I Am Invincible,Mizzle,Rahy,12/04/20,14,ST,"Turf""C""",1000,G,5,1,39,F C Lor,K H Chan,171,125,1173,0.59.81,564
+275,DRAGON BOLT (D077),AUS,4,Bay , Gelding,PPG,0,I Am Invincible,Mizzle,Rahy,23/02/20,14,ST,"Turf""A+3""",1400,G,4,5,42,F C Lor,M F Poon,250,115,1188,1.25.18,440
+276,DRAGON BOLT (D077),AUS,4,Bay , Gelding,PPG,0,I Am Invincible,Mizzle,Rahy,12/02/20,11,HV,"Turf""C+3""",1650,G,4,12,45,F C Lor,K H Chan,126,108,1191,1.41.55,410
+277,DRAGON BOLT (D077),AUS,4,Bay , Gelding,PPG,0,I Am Invincible,Mizzle,Rahy,29/01/20,07,HV,"Turf""B""",1200,G,4,8,48,F C Lor,L Hewitson,153,122,1193,1.10.96,375
+278,DRAGON BOLT (D077),AUS,4,Bay , Gelding,PPG,0,I Am Invincible,Mizzle,Rahy,08/01/20,09,HV,"Turf""C""",1200,G,4,7,50,F C Lor,L Hewitson,273,123,1179,1.11.28,317
+279,DRAGON BOLT (D077),AUS,4,Bay , Gelding,PPG,0,I Am Invincible,Mizzle,Rahy,21/12/19,13,ST,"Turf""A+3""",1200,G,4,5,52,F C Lor,M Chadwick,77,128,1182,1.12.02,266
+280,DRAGON BOLT (D077),AUS,4,Bay , Gelding,PPG,0,I Am Invincible,Mizzle,Rahy,04/12/19,11,HV,"Turf""B""",1200,G,4,8,52,F C Lor,C Y Ho,48,127,1180,1.11.25,220
+281,GORGEOUS INHERITOR (D080),AUS,4,Brown , Gelding,PPG,0,Poet's Voice,Throne Inn,King Of Kings,09/05/20,14,ST,"Turf""C""",1800,GF,4,8,47,C H Yip,Z Purton,10,120,1171,1.56.88,645
+282,GORGEOUS INHERITOR (D080),AUS,4,Brown , Gelding,PPG,0,Poet's Voice,Throne Inn,King Of Kings,04/03/20,06,HV,"Turf""B""",1200,G,4,11,49,C H Yip,M F Poon,198,121,1186,1.11.62,468
+283,GORGEOUS INHERITOR (D080),AUS,4,Brown , Gelding,PPG,0,Poet's Voice,Throne Inn,King Of Kings,19/01/20,13,ST,"Turf""A+3""",1400,G,4,3,52,C H Yip,M F Poon,286,125,1179,1.24.02,345
+284,GORGEOUS INHERITOR (D080),AUS,4,Brown , Gelding,PPG,0,Poet's Voice,Throne Inn,King Of Kings,21/12/19,13,ST,"Turf""A+3""",1200,G,4,11,52,C H Yip,H W Lai,147,127,1191,1.12.24,269
+285,SO WE JOY (D082),AUS,4,Bay , Gelding,PPG,280430,So You Think,Soho Secret,Lucky Owners,09/05/20,04,ST,AWT,1650,GD,4,8,52,J Moore,C Y Ho,9.9,126,1085,1.39.27,646
+286,SO WE JOY (D082),AUS,4,Bay , Gelding,PPG,280430,So You Think,Soho Secret,Lucky Owners,26/04/20,03,ST,"Turf""A""",1200,G,4,9,51,J Moore,C Y Ho,37,124,1088,1.09.51,604
+287,SO WE JOY (D082),AUS,4,Bay , Gelding,PPG,280430,So You Think,Soho Secret,Lucky Owners,05/04/20,07,ST,"Turf""B+2""",1200,G,4,7,52,J Moore,N Callan,9.6,125,1091,1.11.09,552
+288,SO WE JOY (D082),AUS,4,Bay , Gelding,PPG,280430,So You Think,Soho Secret,Lucky Owners,22/03/20,03,ST,"Turf""A""",1200,G,4,5,52,J Moore,N Callan,20,127,1095,1.09.62,509
+289,SO WE JOY (D082),AUS,4,Bay , Gelding,PPG,280430,So You Think,Soho Secret,Lucky Owners,19/02/20,08,ST,AWT,1200,GD,4,7,52,J Moore,N Callan,137,126,1114,1.09.89,430
+290,SIMPLY THE BEST (D083),AUS,3,Bay , Gelding,PPG,551190,Warhead,Sunbrella,Peintre Celebre,09/11/19,01,ST,"Turf""A""",1200,G,4R,11,52,C S Shum,J Moreira,4.5,124,1111,1.08.86,160
+291,FIRE BALL (D087),NZ,3,Bay , Gelding,PPG,0,Burgundy,Lady Winifred,Casual Lies,08/04/20,12,HV,"Turf""B""",1200,G,4,9,50,C H Yip,C Schofield,20,124,1037,1.12.14,558
+292,FIRE BALL (D087),NZ,3,Bay , Gelding,PPG,0,Burgundy,Lady Winifred,Casual Lies,04/03/20,12,HV,"Turf""B""",1200,G,4,11,52,C H Yip,C Wong,20,120,1040,1.11.38,466
+293,FIRE BALL (D087),NZ,3,Bay , Gelding,PPG,0,Burgundy,Lady Winifred,Casual Lies,15/01/20,08,HV,"Turf""C+3""",1000,G,4,4,52,C H Yip,J Moreira,2.9,125,1049,0.57.93,335
+294,SKY DARCI (D088),NZ,3,Bay , Gelding,PPG,763930,Darci Brahma,Strictly Maternal,O'Reilly,01/12/19,01,ST,"Turf""C+3""",1400,G,4R,9,52,C Fownes,U Rispoli,4.2,128,1154,1.22.36,208
+295,SKY DARCI (D088),NZ,3,Bay , Gelding,PPG,763930,Darci Brahma,Strictly Maternal,O'Reilly,09/11/19,02,ST,"Turf""A""",1200,G,4R,6,52,C Fownes,U Rispoli,14,124,1126,1.09.68,160
+296,WHAT A STORM (D089),AUS,3,Bay , Gelding,PPG,0,Dawn Approach,Matabrahma,Darci Brahma,08/03/20,TNP,ST,"Turf""C""",1200,G,4,12,52,C H Yip,M F Poon,239,126,1109,--,476
+297,INVALUABLE (D091),NZ,3,Brown ,,PPG,321865,Ocean Park,Danex,Danasinga,09/05/20,06,ST,"Turf""C""",1800,GF,4,6,44,R Gibson,K C Leung,18,117,1279,1.48.01,645
+298,INVALUABLE (D091),NZ,3,Brown ,,PPG,321865,Ocean Park,Danex,Danasinga,22/04/20,05,HV,"Turf""C+3""",1650,G,4,5,46,R Gibson,C Schofield,6.7,120,1281,1.40.41,596
+299,INVALUABLE (D091),NZ,3,Brown ,,PPG,321865,Ocean Park,Danex,Danasinga,25/03/20,04,HV,"Turf""A""",1650,G,4,8,47,R Gibson,K C Leung,74,122,1289,1.40.67,520
+300,INVALUABLE (D091),NZ,3,Brown ,,PPG,321865,Ocean Park,Danex,Danasinga,11/03/20,08,HV,"Turf""C""",1650,G,4,11,49,R Gibson,N Callan,95,122,1286,1.40.96,488
+301,INVALUABLE (D091),NZ,3,Brown ,,PPG,321865,Ocean Park,Danex,Danasinga,19/01/20,09,ST,"Turf""A+3""",1600,G,4,13,51,R Gibson,C Y Ho,32,126,1300,1.35.73,344
+302,INVALUABLE (D091),NZ,3,Brown ,,PPG,321865,Ocean Park,Danex,Danasinga,29/12/19,03,ST,"Turf""B+2""",1400,G,R,1,51,R Gibson,C Schofield,6.3,120,1297,1.22.97,284
+303,INVALUABLE (D091),NZ,3,Brown ,,PPG,321865,Ocean Park,Danex,Danasinga,01/12/19,06,ST,"Turf""C+3""",1400,G,4R,3,52,R Gibson,C Y Ho,13,128,1337,1.22.69,208
+304,INVALUABLE (D091),NZ,3,Brown ,,PPG,321865,Ocean Park,Danex,Danasinga,17/11/19,09,ST,"Turf""B""",1200,G,4,9,52,R Gibson,A Badel,44,128,1326,1.10.40,170
+305,WILL POWER (D093),NZ,4,Brown , Gelding,PPG,2489380,Power,Lilahjay,Tavistock,19/04/20,03,ST,AWT,1200,GD,2,5,81,D J Whyte,K Teetan,2.3,118,1167,1.07.94,591
+306,WILL POWER (D093),NZ,4,Brown , Gelding,PPG,2489380,Power,Lilahjay,Tavistock,08/03/20,01,ST,AWT,1200,GD,3,5,73,D J Whyte,K Teetan,1.9,127,1179,1.09.03,478
+307,WILL POWER (D093),NZ,4,Brown , Gelding,PPG,2489380,Power,Lilahjay,Tavistock,19/02/20,02,ST,AWT,1200,GD,3,6,70,D J Whyte,K Teetan,2.3,123,1179,1.08.52,432
+308,WILL POWER (D093),NZ,4,Brown , Gelding,PPG,2489380,Power,Lilahjay,Tavistock,05/01/20,01,ST,AWT,1200,GD,4,10,60,D J Whyte,K Teetan,1.7,133,1183,1.09.62,308
+309,WILL POWER (D093),NZ,4,Brown , Gelding,PPG,2489380,Power,Lilahjay,Tavistock,15/12/19,01,ST,AWT,1200,GD,4,10,52,D J Whyte,K Teetan,4,126,1176,1.09.38,248
+310,SNOW AIRJET (D094),NZ,4,Bay , Gelding,PPG,212740,Rip Van Winkle,Camellia,Redoute's Choice,03/05/20,07,ST,"Turf""B""",1600,GF,4,10,50,P F Yiu,K H Chan,11,116,1017,1.35.02,627
+311,SNOW AIRJET (D094),NZ,4,Bay , Gelding,PPG,212740,Rip Van Winkle,Camellia,Redoute's Choice,22/04/20,09,HV,"Turf""C+3""",1650,GY,4,9,50,P F Yiu,H W Lai,7.7,123,1027,1.42.28,598
+312,SNOW AIRJET (D094),NZ,4,Bay , Gelding,PPG,212740,Rip Van Winkle,Camellia,Redoute's Choice,25/03/20,02,HV,"Turf""A""",1650,G,4,1,48,P F Yiu,H W Lai,15,123,1025,1.40.84,522
+313,SNOW AIRJET (D094),NZ,4,Bay , Gelding,PPG,212740,Rip Van Winkle,Camellia,Redoute's Choice,11/03/20,07,HV,"Turf""C""",1650,G,4,2,50,P F Yiu,H W Lai,21,125,1028,1.41.76,485
+314,SNOW AIRJET (D094),NZ,4,Bay , Gelding,PPG,212740,Rip Van Winkle,Camellia,Redoute's Choice,05/02/20,11,HV,"Turf""C""",1650,G,4,2,52,P F Yiu,H W Lai,109,125,1030,1.41.42,395
+315,SNOW AIRJET (D094),NZ,4,Bay , Gelding,PPG,212740,Rip Van Winkle,Camellia,Redoute's Choice,27/01/20,12,ST,"Turf""B+2""",1400,G,4,2,52,P F Yiu,H W Lai,21,125,1018,1.23.46,366
+316,GRACYLOVE (D098),NZ,3,Chestnut , Gelding,PPG,0,Shooting To Win,Turf Cutter Girl,Bel Esprit,26/02/20,07,HV,"Turf""A""",1200,G,4,8,52,D J Hall,C Y Ho,40,125,1192,1.10.13,446
+317,SKY SHOW (D099),NZ,3,Brown , Gelding,PPG,551190,Showcasing,Mary Agnes,Zabeel,29/04/20,01,HV,"Turf""A""",1200,GF,4,10,52,K H Ting,Z Purton,4.9,127,1182,1.09.53,616
+318,SKY SHOW (D099),NZ,3,Brown , Gelding,PPG,551190,Showcasing,Mary Agnes,Zabeel,22/03/20,06,ST,"Turf""A""",1200,G,4,4,52,K H Ting,Z Purton,4.7,127,1220,1.09.80,509
+319,FANTASY (D100),AUS,4,Bay , Gelding,PPG,3086420,Sizzling,Bon Fire,Octagonal,09/05/20,05,ST,"Turf""C""",1200,GF,3,4,80,C S Shum,J Moreira,1.9,133,1296,1.09.46,647
+320,FANTASY (D100),AUS,4,Bay , Gelding,PPG,3086420,Sizzling,Bon Fire,Octagonal,19/04/20,01,ST,"Turf""C+3""",1200,G,3,1,73,C S Shum,J Moreira,1.6,126,1303,1.08.66,589
+321,FANTASY (D100),AUS,4,Bay , Gelding,PPG,3086420,Sizzling,Bon Fire,Octagonal,29/03/20,01,ST,"Turf""A+3""",1200,G,3,6,65,C S Shum,J Moreira,1.5,118,1299,1.09.67,529
+322,FANTASY (D100),AUS,4,Bay , Gelding,PPG,3086420,Sizzling,Bon Fire,Octagonal,14/03/20,02,ST,"Turf""C+3""",1200,G,3,8,63,C S Shum,G van Niekerk,2.5,116,1309,1.09.00,499
+323,FANTASY (D100),AUS,4,Bay , Gelding,PPG,3086420,Sizzling,Bon Fire,Octagonal,16/02/20,04,ST,"Turf""A""",1200,G,3,8,63,C S Shum,J Moreira,2.4,118,1318,1.10.33,424
+324,FANTASY (D100),AUS,4,Bay , Gelding,PPG,3086420,Sizzling,Bon Fire,Octagonal,27/01/20,02,ST,"Turf""B+2""",1000,G,4,11,60,C S Shum,B Shinn,5.1,133,1311,0.56.85,362
+325,FANTASY (D100),AUS,4,Bay , Gelding,PPG,3086420,Sizzling,Bon Fire,Octagonal,21/12/19,02,ST,"Turf""A+3""",1200,G,4,2,58,C S Shum,B Shinn,2.1,133,1327,1.10.11,269
+326,FANTASY (D100),AUS,4,Bay , Gelding,PPG,3086420,Sizzling,Bon Fire,Octagonal,23/11/19,01,ST,"Turf""C""",1200,G,4,6,52,C S Shum,B Shinn,4,125,1321,1.09.10,189
+327,SWOT TROOPERS WIND (D101),AUS,3,Grey , Gelding,PPG,111205,Smart Missile,Lundi,Charge Forward,06/05/20,WV,HV,"Turf""B""",1650,G,4,--,46,D J Hall,K C Leung,--,120,--,--,633
+328,SWOT TROOPERS WIND (D101),AUS,3,Grey , Gelding,PPG,111205,Smart Missile,Lundi,Charge Forward,22/04/20,03,HV,"Turf""C+3""",1650,G,4,10,45,D J Hall,M F Poon,41,117,1124,1.40.13,596
+329,SWOT TROOPERS WIND (D101),AUS,3,Grey , Gelding,PPG,111205,Smart Missile,Lundi,Charge Forward,01/03/20,12,ST,"Turf""B+2""",1600,G,4,14,48,D J Hall,H N Wong,228,118,1131,1.36.97,458
+330,SWOT TROOPERS WIND (D101),AUS,3,Grey , Gelding,PPG,111205,Smart Missile,Lundi,Charge Forward,16/02/20,12,ST,"Turf""A""",1600,G,4,12,50,D J Hall,C Y Ho,192,123,1132,1.36.93,419
+331,SWOT TROOPERS WIND (D101),AUS,3,Grey , Gelding,PPG,111205,Smart Missile,Lundi,Charge Forward,29/01/20,08,HV,"Turf""B""",1200,G,4,9,52,D J Hall,T H So,191,123,1145,1.10.54,374
+332,SWOT TROOPERS WIND (D101),AUS,3,Grey , Gelding,PPG,111205,Smart Missile,Lundi,Charge Forward,19/01/20,11,ST,"Turf""A+3""",1400,G,4,1,52,D J Hall,B Shinn,127,127,1151,1.23.24,345
+333,THIS IS CHARISMA (D102),NZ,4,Bay , Gelding,PPG,183730,Smart Missile,Sunsari,Encosta de Lago,06/05/20,05,HV,"Turf""B""",1200,G,4,7,51,K W Lui,C Y Ho,15,124,1109,1.10.44,632
+334,THIS IS CHARISMA (D102),NZ,4,Bay , Gelding,PPG,183730,Smart Missile,Sunsari,Encosta de Lago,05/04/20,13,ST,"Turf""B+2""",1200,G,4,1,51,K W Lui,C Y Ho,13,124,1113,1.12.29,552
+335,THIS IS CHARISMA (D102),NZ,4,Bay , Gelding,PPG,183730,Smart Missile,Sunsari,Encosta de Lago,04/03/20,04,HV,"Turf""B""",1200,G,4,1,50,K W Lui,K Teetan,6.2,124,1097,1.11.11,468
+336,THIS IS CHARISMA (D102),NZ,4,Bay , Gelding,PPG,183730,Smart Missile,Sunsari,Encosta de Lago,12/02/20,09,HV,"Turf""C+3""",1200,G,4,1,50,K W Lui,C Y Ho,4,123,1107,1.10.31,409
+337,THIS IS CHARISMA (D102),NZ,4,Bay , Gelding,PPG,183730,Smart Missile,Sunsari,Encosta de Lago,22/01/20,05,HV,"Turf""A""",1200,G,4,9,52,K W Lui,H N Wong,14,124,1108,1.10.61,354
+338,THIS IS CHARISMA (D102),NZ,4,Bay , Gelding,PPG,183730,Smart Missile,Sunsari,Encosta de Lago,08/01/20,04,HV,"Turf""C""",1200,G,4,1,52,K W Lui,C Y Ho,17,125,1106,1.10.30,314
+339,THIS IS CHARISMA (D102),NZ,4,Bay , Gelding,PPG,183730,Smart Missile,Sunsari,Encosta de Lago,26/12/19,10,HV,"Turf""A""",1000,G,4,12,52,K W Lui,C Y Ho,80,125,1114,0.57.84,280
+340,WINNING STRIKES (D104),NZ,3,Chestnut , Gelding,PPG,0,Swiss Ace,Kahala,Captain Rio,12/02/20,11,HV,"Turf""C+3""",1200,G,4,7,52,P O'Sullivan,A Badel,107,125,1143,1.11.15,409
+341,WINNING STRIKES (D104),NZ,3,Chestnut , Gelding,PPG,0,Swiss Ace,Kahala,Captain Rio,22/01/20,09,HV,"Turf""A""",1000,G,4,12,52,P O'Sullivan,B Shinn,58,128,1137,0.58.21,356
+342,BELUGA (D105),NZ,3,Bay , Gelding,PPG,763930,Tavistock,Prestigious Miss,Written Tycoon,14/03/20,01,ST,"Turf""C+3""",1200,G,4,5,52,D J Hall,Z Purton,1.7,125,1108,1.09.50,492
+343,BELUGA (D105),NZ,3,Bay , Gelding,PPG,763930,Tavistock,Prestigious Miss,Written Tycoon,01/03/20,02,ST,"Turf""B+2""",1200,G,4,10,52,D J Hall,Z Purton,2.6,127,1111,1.09.77,457
+344,SPONTANEOUS (D106),AUS,4,Brown , Gelding,PPG,58020,Unencumbered,Dowager Princess,Savabeel,22/03/20,06,ST,"Turf""A""",1200,G,4,7,48,P O'Sullivan,B Shinn,13,121,1184,1.09.64,511
+345,SPONTANEOUS (D106),AUS,4,Brown , Gelding,PPG,58020,Unencumbered,Dowager Princess,Savabeel,01/03/20,04,ST,"Turf""B+2""",1200,G,4,13,50,P O'Sullivan,B Shinn,30,125,1176,1.10.09,457
+346,SPONTANEOUS (D106),AUS,4,Brown , Gelding,PPG,58020,Unencumbered,Dowager Princess,Savabeel,08/02/20,09,ST,"Turf""C+3""",1400,G,4,11,52,P O'Sullivan,T Piccone,17,126,1186,1.23.26,402
+347,SPONTANEOUS (D106),AUS,4,Brown , Gelding,PPG,58020,Unencumbered,Dowager Princess,Savabeel,19/01/20,07,ST,"Turf""A+3""",1200,G,4,13,52,P O'Sullivan,B Shinn,11,125,1182,1.09.99,343
+348,SUPER WEALTHY (D108),AUS,4,Bay , Gelding,PP,4169000,Epaulette,Well Hidden,More Than Ready,01/03/20,01,ST,"Turf""B+2""",1400,G,2,2,85,D J Whyte,A Badel,2.5,123,1205,1.21.12,463
+349,SUPER WEALTHY (D108),AUS,4,Bay , Gelding,PP,4169000,Epaulette,Well Hidden,More Than Ready,27/01/20,01,ST,"Turf""B+2""",1200,G,3,9,77,D J Whyte,A Badel,3.6,130,1191,1.09.06,371
+350,SUPER WEALTHY (D108),AUS,4,Bay , Gelding,PP,4169000,Epaulette,Well Hidden,More Than Ready,01/01/20,01,ST,"Turf""C""",1200,G,3,12,70,D J Whyte,A Badel,2.1,125,1202,1.09.74,296
+351,SUPER WEALTHY (D108),AUS,4,Bay , Gelding,PP,4169000,Epaulette,Well Hidden,More Than Ready,08/12/19,02,ST,"Turf""A""",1200,G,3,3,68,D J Whyte,A Badel,6.5,121,1203,1.09.08,229
+352,HARMONY AND RICH (D110),AUS,3,Bay , Gelding,PP,551000,I Am Invincible,Express Power,Snitzel,01/03/20,05,ST,"Turf""B+2""",1000,G,3,4,74,W Y So,K Teetan,6.6,128,1076,0.56.86,459
+353,HARMONY AND RICH (D110),AUS,3,Bay , Gelding,PP,551000,I Am Invincible,Express Power,Snitzel,02/02/20,03,ST,"Turf""C""",1000,G,3,10,72,W Y So,Z Purton,4.1,129,1084,0.56.64,388
+354,HARMONY AND RICH (D110),AUS,3,Bay , Gelding,PP,551000,I Am Invincible,Express Power,Snitzel,15/01/20,03,HV,"Turf""C+3""",1000,G,3,8,72,W Y So,T Piccone,11,125,1078,0.56.80,340
+355,HARMONY AND RICH (D110),AUS,3,Bay , Gelding,PP,551000,I Am Invincible,Express Power,Snitzel,11/12/19,03,HV,"Turf""C""",1000,G,3,9,72,W Y So,Z Purton,11,125,1049,0.57.14,244
+356,MARVEL DRAGON (D111),AUS,4,Bay , Gelding,PP,87000,Redoute's Choice,Jeu de Cartes,Stravinsky,09/05/20,04,ST,"Turf""C""",1200,GF,3,3,61,T P Yung,K C Leung,7.5,116,1216,1.09.41,647
+357,MARVEL DRAGON (D111),AUS,4,Bay , Gelding,PP,87000,Redoute's Choice,Jeu de Cartes,Stravinsky,12/04/20,06,ST,"Turf""C""",1400,G,3,13,62,T P Yung,V Borges,127,117,1231,1.21.58,572
+358,MARVEL DRAGON (D111),AUS,4,Bay , Gelding,PP,87000,Redoute's Choice,Jeu de Cartes,Stravinsky,22/03/20,07,ST,"Turf""A""",1200,G,3,9,64,T P Yung,M L Yeung,403,117,1210,1.09.62,513
+359,MARVEL DRAGON (D111),AUS,4,Bay , Gelding,PP,87000,Redoute's Choice,Jeu de Cartes,Stravinsky,01/03/20,11,ST,"Turf""B+2""",1400,G,3,3,66,T P Yung,M L Yeung,401,120,1224,1.22.67,462
+360,MARVEL DRAGON (D111),AUS,4,Bay , Gelding,PP,87000,Redoute's Choice,Jeu de Cartes,Stravinsky,16/02/20,11,ST,"Turf""A""",1200,G,3,5,68,T P Yung,M L Yeung,307,121,1223,1.10.76,425
+361,MARVEL DRAGON (D111),AUS,4,Bay , Gelding,PP,87000,Redoute's Choice,Jeu de Cartes,Stravinsky,15/01/20,10,HV,"Turf""C+3""",1200,G,3,9,68,T P Yung,M L Yeung,70,121,1213,1.10.46,341
+362,LUCKY PUZZLE (D112),NZ,4,Bay , Gelding,PP,0,Shamexpress,Stella Livia,Titus Livius,19/04/20,07,ST,"Turf""C+3""",1200,G,3,7,60,Y S Tsui,H T Mo,413,110,976,1.09.30,589
+363,LUCKY PUZZLE (D112),NZ,4,Bay , Gelding,PP,0,Shamexpress,Stella Livia,Titus Livius,12/04/20,13,ST,"Turf""C""",1000,G,3,13,63,Y S Tsui,H N Wong,127,117,988,0.57.89,571
+364,LUCKY PUZZLE (D112),NZ,4,Bay , Gelding,PP,0,Shamexpress,Stella Livia,Titus Livius,29/03/20,14,ST,"Turf""A+3""",1000,G,3,5,66,Y S Tsui,V Borges,180,119,995,0.58.69,533
+365,LUCKY PUZZLE (D112),NZ,4,Bay , Gelding,PP,0,Shamexpress,Stella Livia,Titus Livius,23/02/20,10,ST,"Turf""A+3""",1200,G,3,8,68,Y S Tsui,M Chadwick,102,125,1009,1.10.81,439
+366,LUCKY PUZZLE (D112),NZ,4,Bay , Gelding,PP,0,Shamexpress,Stella Livia,Titus Livius,02/02/20,07,ST,"Turf""C""",1000,G,3,8,70,Y S Tsui,H N Wong,452,124,1020,0.57.16,388
+367,LUCKY PUZZLE (D112),NZ,4,Bay , Gelding,PP,0,Shamexpress,Stella Livia,Titus Livius,01/01/20,12,ST,"Turf""C""",1200,G,3,9,70,Y S Tsui,G van Niekerk,54,127,1014,1.11.22,301
+368,SMILING CITY (D113),AUS,4,Bay , Gelding,PP,169225,So You Think,Laylia,Redoute's Choice,09/05/20,03,ST,AWT,1650,GD,4,6,56,D J Whyte,C L Chau,6.9,120,1043,1.39.20,646
+369,SMILING CITY (D113),AUS,4,Bay , Gelding,PP,169225,So You Think,Laylia,Redoute's Choice,19/04/20,12,ST,"Turf""C+3""",1400,G,4,10,58,D J Whyte,A Hamelin,34,131,1037,1.23.78,588
+370,SMILING CITY (D113),AUS,4,Bay , Gelding,PP,169225,So You Think,Laylia,Redoute's Choice,05/04/20,04,ST,"Turf""B+2""",1400,G,4,13,60,D J Whyte,K H Chan,15,126,1047,1.23.21,548
+371,SMILING CITY (D113),AUS,4,Bay , Gelding,PP,169225,So You Think,Laylia,Redoute's Choice,01/04/20,07,ST,AWT,1650,WS,4,10,60,D J Whyte,M Chadwick,30,133,1050,1.39.82,541
+372,SMILING CITY (D113),AUS,4,Bay , Gelding,PP,169225,So You Think,Laylia,Redoute's Choice,14/03/20,09,ST,AWT,1650,GD,3,5,62,D J Whyte,M Chadwick,30,113,1045,1.38.82,497
+373,SMILING CITY (D113),AUS,4,Bay , Gelding,PP,169225,So You Think,Laylia,Redoute's Choice,01/03/20,06,ST,"Turf""B+2""",1400,G,3,1,64,D J Whyte,M Chadwick,62,118,1047,1.22.36,462
+374,SMILING CITY (D113),AUS,4,Bay , Gelding,PP,169225,So You Think,Laylia,Redoute's Choice,19/02/20,10,ST,AWT,1800,GD,3,9,66,D J Whyte,B Shinn,23,123,1042,1.48.95,433
+375,SMILING CITY (D113),AUS,4,Bay , Gelding,PP,169225,So You Think,Laylia,Redoute's Choice,02/02/20,08,ST,AWT,1650,GD,3,8,68,D J Whyte,B Shinn,107,125,1042,1.39.83,387
+376,SMILING CITY (D113),AUS,4,Bay , Gelding,PP,169225,So You Think,Laylia,Redoute's Choice,15/01/20,09,HV,"Turf""C+3""",1200,G,3,11,70,D J Whyte,L Hewitson,262,123,1045,1.10.31,341
+377,SMILING CITY (D113),AUS,4,Bay , Gelding,PP,169225,So You Think,Laylia,Redoute's Choice,01/01/20,11,ST,"Turf""C""",1400,G,3,9,72,D J Whyte,L Hewitson,78,125,1045,1.22.98,302
+378,SMILING CITY (D113),AUS,4,Bay , Gelding,PP,169225,So You Think,Laylia,Redoute's Choice,11/12/19,10,HV,"Turf""C""",1650,G,3,3,72,D J Whyte,S de Sousa,14,125,1043,1.40.88,242
+379,WAYFOONG STAR (D114),AUS,4,Bay , Gelding,PPG,58020,All American,Star Logie,Starcraft,02/02/20,10,ST,"Turf""C""",1200,G,4,11,52,D J Whyte,K Teetan,1.9,127,1226,1.11.10,381
+380,WAYFOONG STAR (D114),AUS,4,Bay , Gelding,PPG,58020,All American,Star Logie,Starcraft,11/01/20,04,ST,"Turf""A""",1200,G,4,8,52,D J Whyte,K Teetan,1.8,126,1220,1.09.89,323
+381,M M JOHNNY (D115),AUS,3,Brown , Rig,PPG,0,Better Than Ready,Belle Soleil,Redoute's Choice,03/05/20,11,ST,AWT,1200,GD,4,11,50,Y S Tsui,C Schofield,14,123,1105,1.10.17,626
+382,M M JOHNNY (D115),AUS,3,Brown , Rig,PPG,0,Better Than Ready,Belle Soleil,Redoute's Choice,01/03/20,11,ST,"Turf""B+2""",1000,G,4,7,52,A T Millard,C Schofield,10,127,1091,0.57.21,454
+383,M M JOHNNY (D115),AUS,3,Brown , Rig,PPG,0,Better Than Ready,Belle Soleil,Redoute's Choice,02/02/20,07,ST,"Turf""C""",1200,G,4,10,52,A T Millard,L Hewitson,14,127,1102,1.10.97,381
+384,MELBOURNE HALL (D118),GB,4,Bay , Gelding,PPG,111205,Harbour Watch,An Ghalanta,Holy Roman Emperor,25/03/20,12,HV,"Turf""A""",1650,G,4,4,51,D J Hall,M F Poon,12,124,1038,1.42.39,522
+385,MELBOURNE HALL (D118),GB,4,Bay , Gelding,PPG,111205,Harbour Watch,An Ghalanta,Holy Roman Emperor,11/03/20,06,HV,"Turf""C""",1200,G,4,6,52,D J Hall,M F Poon,10,125,1042,1.10.66,486
+386,MELBOURNE HALL (D118),GB,4,Bay , Gelding,PPG,111205,Harbour Watch,An Ghalanta,Holy Roman Emperor,16/02/20,06,ST,"Turf""A""",1200,G,4,4,54,D J Hall,J Moreira,6.3,127,1051,1.10.79,417
+387,MELBOURNE HALL (D118),GB,4,Bay , Gelding,PPG,111205,Harbour Watch,An Ghalanta,Holy Roman Emperor,29/01/20,03,HV,"Turf""B""",1200,G,4,5,54,D J Hall,M F Poon,57,127,1037,1.10.32,372
+388,MELBOURNE HALL (D118),GB,4,Bay , Gelding,PPG,111205,Harbour Watch,An Ghalanta,Holy Roman Emperor,19/01/20,10,ST,"Turf""A+3""",1200,G,4,8,57,D J Hall,H Bowman,15,130,1058,1.10.44,343
+389,MELBOURNE HALL (D118),GB,4,Bay , Gelding,PPG,111205,Harbour Watch,An Ghalanta,Holy Roman Emperor,18/12/19,08,HV,"Turf""C+3""",1000,GF,4,2,57,D J Hall,G van Niekerk,39,130,1048,0.57.67,257
+390,EURO LAGO (D119),AUS,3,Bay , Gelding,PPG,0,Helmet,Evilweb,Encosta de Lago,19/04/20,WV-A,ST,"Turf""C+3""",1400,G,4,--,50,C W Chang,B Shinn,--,123,--,--,588
+391,EURO LAGO (D119),AUS,3,Bay , Gelding,PPG,0,Helmet,Evilweb,Encosta de Lago,16/02/20,11,ST,"Turf""A""",1200,G,4,2,52,C W Chang,B Shinn,83,125,1096,1.11.11,417
+392,EURO LAGO (D119),AUS,3,Bay , Gelding,PPG,0,Helmet,Evilweb,Encosta de Lago,22/01/20,07,HV,"Turf""A""",1200,G,4,6,52,C W Chang,B Shinn,45,125,1105,1.10.52,353
+393,CARRY THE DIAMOND (D122),AUS,3,Brown , Gelding,PPG,0,Moshe,Lucand Star,Lonhro,27/01/20,WV,ST,"Turf""B+2""",1000,G,4,--,52,R Gibson,M Chadwick,--,125,--,--,362
+394,ARES (D125),NZ,3,Bay , Gelding,PPG,797775,Zacinto,Marzia,Elusive City,18/03/20,02,HV,"Turf""C+3""",1200,G,4,6,58,F C Lor,Z Purton,4,133,1022,1.10.25,505
+395,ARES (D125),NZ,3,Bay , Gelding,PPG,797775,Zacinto,Marzia,Elusive City,26/02/20,01,HV,"Turf""A""",1200,G,4,2,52,F C Lor,Z Purton,2,125,1013,1.09.57,446
+396,ARES (D125),NZ,3,Bay , Gelding,PPG,797775,Zacinto,Marzia,Elusive City,18/12/19,05,HV,"Turf""C+3""",1000,GF,4,8,52,F C Lor,Z Purton,3.3,125,1020,0.57.55,257
+397,TRANSCENDENT (D126),ITY,4,Bay , Gelding,PP,1068000,Dabirsim,Resaca,Touch Down,09/05/20,12,ST,"Turf""C""",1400,GF,1,13,86,A S Cruz,M Chadwick,14,117,1067,1.22.75,649
+398,TRANSCENDENT (D126),ITY,4,Bay , Gelding,PP,1068000,Dabirsim,Resaca,Touch Down,26/04/20,07,ST,"Turf""A""",1200,G,2,14,86,A S Cruz,M Chadwick,15,121,1069,1.09.11,610
+399,TRANSCENDENT (D126),ITY,4,Bay , Gelding,PP,1068000,Dabirsim,Resaca,Touch Down,29/03/20,03,ST,"Turf""A+3""",1200,G,2,1,85,A S Cruz,C Schofield,6.9,120,1067,1.09.69,536
+400,TRANSCENDENT (D126),ITY,4,Bay , Gelding,PP,1068000,Dabirsim,Resaca,Touch Down,14/03/20,01,ST,"Turf""C+3""",1200,G,3,12,80,A S Cruz,Z Purton,7.9,133,1070,1.08.94,499
+401,TRANSCENDENT (D126),ITY,4,Bay , Gelding,PP,1068000,Dabirsim,Resaca,Touch Down,11/12/19,WV,HV,"Turf""C""",1200,G,3,--,80,A S Cruz,H T Mo,--,130,--,--,245
+402,SUPERBELLA (D128),GB,4,Bay , Gelding,PP,0,Passing Glance,Lizzie Tudor,Tamayuz,08/02/20,14,ST,"Turf""C+3""",1800,G,3,12,74,F C Lor,G van Niekerk,70,130,1096,1.52.26,403
+403,SUPERBELLA (D128),GB,4,Bay , Gelding,PP,0,Passing Glance,Lizzie Tudor,Tamayuz,15/01/20,09,HV,"Turf""C+3""",1650,G,3,6,74,F C Lor,A Badel,36,128,1107,1.40.08,337
+404,DECRYPT (D129),GB,4,Grey , Colt,PP,1508500,Dark Angel,She's A Worldie,Kodiac,09/05/20,03,ST,"Turf""C""",1400,GF,1,8,95,F C Lor,Z Purton,7,126,1044,1.21.09,649
+405,DECRYPT (D129),GB,4,Grey , Colt,PP,1508500,Dark Angel,She's A Worldie,Kodiac,12/04/20,03,ST,"Turf""C""",1400,G,2,10,95,F C Lor,Z Purton,4.4,128,1030,1.21.10,573
+406,DECRYPT (D129),GB,4,Grey , Colt,PP,1508500,Dark Angel,She's A Worldie,Kodiac,22/03/20,07,ST,"Turf""A""",2000,GF,4YO,14,95,F C Lor,C Schofield,121,126,1043,2.00.97,516
+407,DECRYPT (D129),GB,4,Grey , Colt,PP,1508500,Dark Angel,She's A Worldie,Kodiac,01/03/20,02,ST,"Turf""B+2""",1400,G,2,8,93,F C Lor,Z Purton,4.8,131,1053,1.21.19,463
+408,DECRYPT (D129),GB,4,Grey , Colt,PP,1508500,Dark Angel,She's A Worldie,Kodiac,27/01/20,08,ST,"Turf""B+2""",1600,G,4YO,2,93,F C Lor,S de Sousa,25,126,1044,1.34.66,368
+409,DECRYPT (D129),GB,4,Grey , Colt,PP,1508500,Dark Angel,She's A Worldie,Kodiac,05/01/20,03,ST,"Turf""C+3""",1400,G,2,9,93,F C Lor,Z Purton,4.7,130,1050,1.21.70,313
+410,DECRYPT (D129),GB,4,Grey , Colt,PP,1508500,Dark Angel,She's A Worldie,Kodiac,15/12/19,03,ST,"Turf""C+3""",1400,G,2,9,93,F C Lor,Z Purton,9.9,123,1038,1.21.08,253
+411,CALIFORNIA DADDY (D131),USA,4,Chestnut , Gelding,PP,87000,Scat Daddy,Sulis,Maria's Mon,08/02/20,08,ST,"Turf""C+3""",1400,G,3,5,69,R Gibson,A Badel,7.6,122,1143,1.22.20,408
+412,CALIFORNIA DADDY (D131),USA,4,Chestnut , Gelding,PP,87000,Scat Daddy,Sulis,Maria's Mon,01/01/20,04,ST,"Turf""C""",1600,G,3,7,70,R Gibson,A Badel,9.4,123,1155,1.34.90,303
+413,CALIFORNIA DADDY (D131),USA,4,Chestnut , Gelding,PP,87000,Scat Daddy,Sulis,Maria's Mon,15/12/19,07,ST,"Turf""C+3""",1600,G,3,12,70,R Gibson,A Badel,161,125,1153,1.35.13,255
+414,BRAVE KING (D132),IRE,4,Chestnut , Gelding,PP,87000,Zoffany,Ban Draiocht,Desert Sun,29/04/20,04,HV,"Turf""A""",1650,GF,3,6,68,D J Whyte,C Schofield,53,121,1121,1.39.91,619
+415,BRAVE KING (D132),IRE,4,Chestnut , Gelding,PP,87000,Zoffany,Ban Draiocht,Desert Sun,19/04/20,07,ST,AWT,1650,GD,3,12,70,D J Whyte,B Shinn,361,123,1122,1.39.06,586
+416,BRAVE KING (D132),IRE,4,Chestnut , Gelding,PP,87000,Zoffany,Ban Draiocht,Desert Sun,29/03/20,11,ST,"Turf""A+3""",1200,G,3,9,72,D J Whyte,V Borges,376,125,1132,1.11.59,529
+417,BRAVE KING (D132),IRE,4,Chestnut , Gelding,PP,87000,Zoffany,Ban Draiocht,Desert Sun,23/02/20,14,ST,"Turf""A+3""",1200,G,3,10,72,D J Whyte,B Shinn,228,129,1134,1.12.61,439
+418,SEATTLE CHOICE (D133),SAF,4,Bay , Gelding,PP,3393250,Sail From Seattle,Bold Choice,Lecture,22/03/20,01,ST,"Turf""A""",1400,GF,2,10,83,A T Millard,J Moreira,2.5,118,1193,1.21.09,518
+419,SEATTLE CHOICE (D133),SAF,4,Bay , Gelding,PP,3393250,Sail From Seattle,Bold Choice,Lecture,23/02/20,01,ST,"Turf""A+3""",1400,G,3,3,72,A T Millard,J Moreira,1.9,125,1201,1.21.22,443
+420,SEATTLE CHOICE (D133),SAF,4,Bay , Gelding,PP,3393250,Sail From Seattle,Bold Choice,Lecture,27/01/20,02,ST,"Turf""B+2""",1400,G,3,7,70,A T Millard,K Teetan,5.3,118,1189,1.22.15,369
+421,SEATTLE CHOICE (D133),SAF,4,Bay , Gelding,PP,3393250,Sail From Seattle,Bold Choice,Lecture,01/01/20,06,ST,"Turf""C""",1400,G,3,2,71,A T Millard,K Teetan,6.6,124,1205,1.21.99,302
+422,SEATTLE CHOICE (D133),SAF,4,Bay , Gelding,PP,3393250,Sail From Seattle,Bold Choice,Lecture,11/12/19,05,HV,"Turf""C""",1200,G,3,11,71,A T Millard,K Teetan,65,124,1207,1.10.06,245
+423,WONDERFUL TIMES (D135),SAF,3,Bay , Gelding,PPG,0,Dynasty,To Go West,Greys Inn,08/03/20,14,ST,"Turf""C""",1400,G,4,14,52,A T Millard,B Shinn,216,127,1110,1.28.50,477
+424,APEX TOP (D136),SAF,3,Chestnut , Gelding,PPG,33845,Flower Alley,Cosima Liszt,Rich Man's Gold,09/05/20,05,ST,"Turf""C""",1200,GF,4,1,52,A T Millard,C Schofield,54,125,1148,1.09.70,643
+425,APEX TOP (D136),SAF,3,Chestnut , Gelding,PPG,33845,Flower Alley,Cosima Liszt,Rich Man's Gold,18/03/20,09,HV,"Turf""C+3""",1200,G,4,3,52,A T Millard,C Schofield,149,126,1156,1.10.77,502
+426,TOTAL POWER (D138),AUS,4,Bay , Gelding,PP,137750,Dundeel,Plumm,Encosta de Lago,06/05/20,05,HV,"Turf""B""",1200,GF,3,11,61,D J Hall,T H So,44,114,1107,1.09.74,639
+427,TOTAL POWER (D138),AUS,4,Bay , Gelding,PP,137750,Dundeel,Plumm,Encosta de Lago,01/04/20,12,ST,AWT,1800,WS,3,9,63,D J Hall,K C Leung,84,117,1089,1.50.39,543
+428,TOTAL POWER (D138),AUS,4,Bay , Gelding,PP,137750,Dundeel,Plumm,Encosta de Lago,18/03/20,07,HV,"Turf""C+3""",1650,G,3,7,65,D J Hall,C Y Ho,16,121,1094,1.40.47,506
+429,TOTAL POWER (D138),AUS,4,Bay , Gelding,PP,137750,Dundeel,Plumm,Encosta de Lago,04/03/20,06,HV,"Turf""B""",1650,G,3,5,67,D J Hall,C Y Ho,15,120,1093,1.40.24,469
+430,TOTAL POWER (D138),AUS,4,Bay , Gelding,PP,137750,Dundeel,Plumm,Encosta de Lago,12/02/20,09,HV,"Turf""C+3""",1650,GF,3,8,69,D J Hall,M F Poon,77,120,1102,1.39.71,414
+431,TOTAL POWER (D138),AUS,4,Bay , Gelding,PP,137750,Dundeel,Plumm,Encosta de Lago,19/01/20,10,ST,"Turf""A+3""",1400,G,3,7,71,D J Hall,B Shinn,19,124,1103,1.22.41,349
+432,TOTAL POWER (D138),AUS,4,Bay , Gelding,PP,137750,Dundeel,Plumm,Encosta de Lago,01/01/20,04,ST,"Turf""C""",1200,G,3,2,72,D J Hall,C Y Ho,27,127,1095,1.10.06,296
+433,TOTAL POWER (D138),AUS,4,Bay , Gelding,PP,137750,Dundeel,Plumm,Encosta de Lago,18/12/19,09,HV,"Turf""C+3""",1200,GF,3,5,72,D J Hall,T H So,108,123,1096,1.10.35,259
+434,COMPUTER PATCH (D139),AUS,3,Bay , Rig,PP,5316500,Exceed And Excel,Girl Hussler,Hussonet,26/04/20,01,ST,"Turf""A""",1200,G,2,1,92,J Moore,J Moreira,2.4,127,1126,1.08.60,610
+435,COMPUTER PATCH (D139),AUS,3,Bay , Rig,PP,5316500,Exceed And Excel,Girl Hussler,Hussonet,29/03/20,02,ST,"Turf""A+3""",1200,G,2,7,91,J Moore,M Chadwick,5.9,126,1126,1.09.68,536
+436,COMPUTER PATCH (D139),AUS,3,Bay , Rig,PP,5316500,Exceed And Excel,Girl Hussler,Hussonet,08/03/20,01,ST,"Turf""C""",1000,G,2,11,85,J Moore,M Chadwick,7.4,122,1127,0.55.11,481
+437,COMPUTER PATCH (D139),AUS,3,Bay , Rig,PP,5316500,Exceed And Excel,Girl Hussler,Hussonet,08/02/20,05,ST,"Turf""C+3""",1200,G,2,5,84,J Moore,A Badel,4.2,114,1124,1.09.11,407
+438,COMPUTER PATCH (D139),AUS,3,Bay , Rig,PP,5316500,Exceed And Excel,Girl Hussler,Hussonet,19/01/20,03,ST,"Turf""A+3""",1200,G,2,1,81,J Moore,S de Sousa,3.8,115,1109,1.08.66,350
+439,COMPUTER PATCH (D139),AUS,3,Bay , Rig,PP,5316500,Exceed And Excel,Girl Hussler,Hussonet,21/12/19,01,ST,"Turf""A+3""",1200,G,3,5,75,J Moore,Z Purton,1.5,128,1090,1.09.39,271
+440,COMPUTER PATCH (D139),AUS,3,Bay , Rig,PP,5316500,Exceed And Excel,Girl Hussler,Hussonet,15/12/19,02,ST,"Turf""C+3""",1200,G,3,12,74,J Moore,S de Sousa,10,127,1090,1.09.01,254
+441,GREEN REIGN (D140),AUS,4,Bay , Gelding,PP,1181750,Lope de Vega,Zarzuela,Rock Of Gibraltar,29/04/20,02,HV,"Turf""A""",1650,GF,3,9,70,C Fownes,C Y Ho,4.4,123,1124,1.40.28,617
+442,GREEN REIGN (D140),AUS,4,Bay , Gelding,PP,1181750,Lope de Vega,Zarzuela,Rock Of Gibraltar,08/04/20,05,HV,"Turf""B""",1650,G,3,5,70,C Fownes,C Y Ho,6.9,127,1106,1.40.16,561
+443,GREEN REIGN (D140),AUS,4,Bay , Gelding,PP,1181750,Lope de Vega,Zarzuela,Rock Of Gibraltar,25/03/20,04,HV,"Turf""A""",1200,G,3,3,70,C Fownes,J Moreira,2.2,124,1127,1.09.87,526
+444,GREEN REIGN (D140),AUS,4,Bay , Gelding,PP,1181750,Lope de Vega,Zarzuela,Rock Of Gibraltar,04/03/20,02,HV,"Turf""B""",1200,G,3,12,69,C Fownes,J Moreira,11,122,1129,1.09.78,471
+445,GREEN REIGN (D140),AUS,4,Bay , Gelding,PP,1181750,Lope de Vega,Zarzuela,Rock Of Gibraltar,12/02/20,04,HV,"Turf""C+3""",1200,GF,3,4,69,C Fownes,C Y Ho,9.9,123,1138,1.09.46,416
+446,GREEN REIGN (D140),AUS,4,Bay , Gelding,PP,1181750,Lope de Vega,Zarzuela,Rock Of Gibraltar,22/01/20,02,HV,"Turf""A""",1200,G,3,2,66,C Fownes,C Y Ho,14,120,1123,1.09.52,360
+447,GREEN REIGN (D140),AUS,4,Bay , Gelding,PP,1181750,Lope de Vega,Zarzuela,Rock Of Gibraltar,01/01/20,06,ST,"Turf""C""",1200,G,3,6,68,C Fownes,C Schofield,99,123,1135,1.10.58,296
+448,GREEN REIGN (D140),AUS,4,Bay , Gelding,PP,1181750,Lope de Vega,Zarzuela,Rock Of Gibraltar,15/12/19,11,ST,"Turf""C+3""",1200,G,3,4,68,C Fownes,C Y Ho,21,121,1140,1.09.61,254
+449,MORE THAN A HORSE (D141),AUS,4,Brown , Gelding,PP,493000,More Than Ready,Xandretta,Flying Spur,01/04/20,11,ST,AWT,1800,WS,3,3,68,D J Whyte,C Schofield,5.9,122,1066,1.49.74,543
+450,MORE THAN A HORSE (D141),AUS,4,Brown , Gelding,PP,493000,More Than Ready,Xandretta,Flying Spur,22/03/20,04,ST,"Turf""A""",2000,GF,3,10,68,D J Whyte,J Moreira,3.6,116,1061,2.00.81,514
+451,MORE THAN A HORSE (D141),AUS,4,Brown , Gelding,PP,493000,More Than Ready,Xandretta,Flying Spur,26/02/20,02,HV,"Turf""A""",2200,G,3,7,66,D J Whyte,A Badel,11,120,1055,2.16.75,450
+452,MORE THAN A HORSE (D141),AUS,4,Brown , Gelding,PP,493000,More Than Ready,Xandretta,Flying Spur,08/02/20,04,ST,"Turf""C+3""",1800,G,3,6,66,D J Whyte,A Badel,32,122,1053,1.47.22,403
+453,MORE THAN A HORSE (D141),AUS,4,Brown , Gelding,PP,493000,More Than Ready,Xandretta,Flying Spur,02/02/20,07,ST,"Turf""C""",1600,G,3,10,68,D J Whyte,B Shinn,73,121,1054,1.35.31,385
+454,MORE THAN A HORSE (D141),AUS,4,Brown , Gelding,PP,493000,More Than Ready,Xandretta,Flying Spur,19/01/20,12,ST,"Turf""A+3""",1200,G,3,11,70,D J Whyte,K Teetan,24,125,1056,1.09.93,347
+455,MORE THAN A HORSE (D141),AUS,4,Brown , Gelding,PP,493000,More Than Ready,Xandretta,Flying Spur,21/12/19,09,ST,"Turf""A+3""",1400,G,3,9,70,D J Whyte,A Badel,11,123,1055,1.23.16,274
+456,STRONGER (D142),AUS,3,Chestnut , Colt,PP,1733500,Not A Single Doubt,Star Pupil,Starcraft,09/05/20,02,ST,"Turf""C""",1000,GF,2,2,93,J Moore,V Borges,8.6,130,1091,0.55.16,648
+457,STRONGER (D142),AUS,3,Chestnut , Colt,PP,1733500,Not A Single Doubt,Star Pupil,Starcraft,08/04/20,07,HV,"Turf""B""",1000,G,2,4,93,J Moore,Z Purton,2.3,130,1080,0.57.03,562
+458,STRONGER (D142),AUS,3,Chestnut , Colt,PP,1733500,Not A Single Doubt,Star Pupil,Starcraft,08/03/20,06,ST,"Turf""C""",1000,G,2,1,93,J Moore,Z Purton,3.5,130,1075,0.55.47,481
+459,STRONGER (D142),AUS,3,Chestnut , Colt,PP,1733500,Not A Single Doubt,Star Pupil,Starcraft,12/02/20,01,HV,"Turf""C+3""",1000,GF,3,2,83,J Moore,Z Purton,2.9,131,1076,0.56.11,413
+460,STRONGER (D142),AUS,3,Chestnut , Colt,PP,1733500,Not A Single Doubt,Star Pupil,Starcraft,19/01/20,04,ST,"Turf""A+3""",1200,G,2,6,81,J Moore,G van Niekerk,5.1,116,1063,1.08.74,350
+461,STRONGER (D142),AUS,3,Chestnut , Colt,PP,1733500,Not A Single Doubt,Star Pupil,Starcraft,18/12/19,11,HV,"Turf""C+3""",1200,GF,2,6,81,J Moore,M Chadwick,3.8,116,1045,1.09.68,264
+462,STRONGER (D142),AUS,3,Chestnut , Colt,PP,1733500,Not A Single Doubt,Star Pupil,Starcraft,01/12/19,02,ST,"Turf""C+3""",1000,G,3,1,80,J Moore,B Shinn,22,133,1041,0.56.44,214
+463,CALIFORNIA RAD (D147),AUS,3,Bay , Gelding,PPG,1846685,Fastnet Rock,Radharcnafarraige,Distorted Humor,06/05/20,01,HV,"Turf""B""",1200,GF,3,10,61,A S Cruz,K Teetan,4.9,116,1204,1.09.33,639
+464,CALIFORNIA RAD (D147),AUS,3,Bay , Gelding,PPG,1846685,Fastnet Rock,Radharcnafarraige,Distorted Humor,15/04/20,01,HV,"Turf""C""",1200,G,4,3,53,A S Cruz,K Teetan,3.7,126,1206,1.09.73,578
+465,CALIFORNIA RAD (D147),AUS,3,Bay , Gelding,PPG,1846685,Fastnet Rock,Radharcnafarraige,Distorted Humor,12/02/20,08,HV,"Turf""C+3""",1200,GF,4,2,53,A S Cruz,J Moreira,1.5,127,1202,1.10.24,411
+466,CALIFORNIA RAD (D147),AUS,3,Bay , Gelding,PPG,1846685,Fastnet Rock,Radharcnafarraige,Distorted Humor,05/02/20,02,HV,"Turf""C""",1200,G,4,11,50,A S Cruz,T Piccone,7.1,124,1201,1.09.85,394
+467,CALIFORNIA RAD (D147),AUS,3,Bay , Gelding,PPG,1846685,Fastnet Rock,Radharcnafarraige,Distorted Humor,22/01/20,03,HV,"Turf""A""",1200,G,4,6,49,A S Cruz,T Piccone,3.5,124,1197,1.10.18,354
+468,CALIFORNIA RAD (D147),AUS,3,Bay , Gelding,PPG,1846685,Fastnet Rock,Radharcnafarraige,Distorted Humor,08/01/20,03,HV,"Turf""C""",1200,G,4,4,48,A S Cruz,T Piccone,13,121,1195,1.10.09,314
+469,CALIFORNIA RAD (D147),AUS,3,Bay , Gelding,PPG,1846685,Fastnet Rock,Radharcnafarraige,Distorted Humor,29/12/19,14,ST,"Turf""B+2""",1400,G,4,12,50,A S Cruz,K Teetan,12,125,1192,1.24.34,289
+470,CALIFORNIA RAD (D147),AUS,3,Bay , Gelding,PPG,1846685,Fastnet Rock,Radharcnafarraige,Distorted Humor,15/12/19,08,ST,AWT,1200,GD,4,2,52,A S Cruz,U Rispoli,7.8,126,1181,1.10.19,248
+471,CALIFORNIA RAD (D147),AUS,3,Bay , Gelding,PPG,1846685,Fastnet Rock,Radharcnafarraige,Distorted Humor,01/12/19,05,ST,"Turf""C+3""",1200,G,4,11,52,A S Cruz,K Teetan,25,125,1173,1.10.30,210
+472,FIGHTER BOY (D152),NZ,3,Bay , Gelding,PPG,67690,Charm Spirit,Darci Dancer,Darci Brahma,22/03/20,09,ST,"Turf""A""",1200,G,4,11,50,P F Yiu,K C Leung,11,125,1117,1.10.14,509
+473,FIGHTER BOY (D152),NZ,3,Bay , Gelding,PPG,67690,Charm Spirit,Darci Dancer,Darci Brahma,01/03/20,05,ST,"Turf""B+2""",1000,G,4,1,52,P F Yiu,K C Leung,10,127,1123,0.56.79,454
+474,FIGHTER BOY (D152),NZ,3,Bay , Gelding,PPG,67690,Charm Spirit,Darci Dancer,Darci Brahma,08/02/20,05,ST,"Turf""C+3""",1000,G,4,11,52,P F Yiu,G van Niekerk,15,128,1124,0.57.52,399
+475,BRAVE POWER (D153),NZ,3,Bay , Gelding,PPG,0,Declaration Of War,Flying Orca,Perfectly Ready,22/01/20,WV,HV,"Turf""A""",1000,G,4,--,52,A S Cruz,T Piccone,--,128,--,--,356
+476,BRAVE POWER (D153),NZ,3,Bay , Gelding,PPG,0,Declaration Of War,Flying Orca,Perfectly Ready,01/01/20,WV,ST,"Turf""C""",1200,G,4,--,52,A S Cruz,C Y Ho,--,127,--,--,294
+477,BRAVE POWER (D153),NZ,3,Bay , Gelding,PPG,0,Declaration Of War,Flying Orca,Perfectly Ready,11/12/19,08,HV,"Turf""C""",1200,G,4,4,52,A S Cruz,K Teetan,20,126,1144,1.10.35,238
+478,COOL ACE (D154),AUS,3,Bay , Gelding,PPG,58020,Exceed And Excel,Secret Liaison,Artie Schiller,26/04/20,14,ST,"Turf""A""",1200,G,4,10,47,C W Chang,H W Lai,448,120,1010,1.11.40,604
+479,COOL ACE (D154),AUS,3,Bay , Gelding,PPG,58020,Exceed And Excel,Secret Liaison,Artie Schiller,22/03/20,14,ST,"Turf""A""",1200,G,4,9,49,C W Chang,M F Poon,54,122,1015,1.12.53,509
+480,COOL ACE (D154),AUS,3,Bay , Gelding,PPG,58020,Exceed And Excel,Secret Liaison,Artie Schiller,01/03/20,13,ST,"Turf""B+2""",1200,G,4,4,51,C W Chang,K Teetan,12,126,1021,1.10.69,457
+481,COOL ACE (D154),AUS,3,Bay , Gelding,PPG,58020,Exceed And Excel,Secret Liaison,Artie Schiller,02/02/20,04,ST,"Turf""C""",1200,G,4,2,52,C W Chang,Z Purton,16,127,1020,1.10.61,381
+482,COOL ACE (D154),AUS,3,Bay , Gelding,PPG,58020,Exceed And Excel,Secret Liaison,Artie Schiller,11/01/20,12,ST,"Turf""A""",1200,G,4,14,52,C W Chang,K Teetan,71,125,1028,1.10.31,325
+483,SUN OF MAKFI (D157),NZ,3,Chestnut , Gelding,PPG,0,Makfi,Palos de Lago,Encosta de Lago,09/05/20,06,ST,"Turf""C""",1200,GF,4,10,52,D J Hall,B Shinn,51,127,1032,1.09.95,641
+484,SPICY GRILL (D159),AUS,3,Brown , Gelding,PPG,0,Pierro,Amaliehaven,More Than Ready,03/05/20,06,ST,"Turf""B""",1400,GF,4,4,46,K W Lui,C Y Ho,16,121,996,1.22.16,629
+485,SPICY GRILL (D159),AUS,3,Brown , Gelding,PPG,0,Pierro,Amaliehaven,More Than Ready,12/04/20,08,ST,"Turf""C""",1400,G,4,3,48,K W Lui,C Y Ho,43,122,1006,1.22.74,567
+486,SPICY GRILL (D159),AUS,3,Brown , Gelding,PPG,0,Pierro,Amaliehaven,More Than Ready,22/03/20,08,ST,"Turf""A""",1200,G,4,12,50,K W Lui,K C Leung,192,123,1012,1.09.89,511
+487,SPICY GRILL (D159),AUS,3,Brown , Gelding,PPG,0,Pierro,Amaliehaven,More Than Ready,01/03/20,06,ST,"Turf""B+2""",1200,G,4,3,52,K W Lui,M L Yeung,185,127,1015,1.10.25,457
+488,SPICY GRILL (D159),AUS,3,Brown , Gelding,PPG,0,Pierro,Amaliehaven,More Than Ready,08/02/20,10,ST,"Turf""C+3""",1000,G,4,8,52,K W Lui,C Y Ho,101,128,1024,0.58.33,399
+489,CHARGE ON (D162),NZ,3,Bay , Gelding,PPG,609210,Rios,A Tad Black,Istidaad,26/04/20,06,ST,"Turf""A""",1400,G,4,14,55,D J Hall,K C Leung,5.2,128,1130,1.22.13,602
+490,CHARGE ON (D162),NZ,3,Bay , Gelding,PPG,609210,Rios,A Tad Black,Istidaad,08/03/20,01,ST,"Turf""C""",1400,G,4,13,49,D J Hall,K C Leung,15,124,1130,1.22.46,474
+491,CHARGE ON (D162),NZ,3,Bay , Gelding,PPG,609210,Rios,A Tad Black,Istidaad,08/02/20,09,ST,AWT,1200,GD,4,9,51,D J Hall,M F Poon,17,122,1146,1.10.77,401
+492,CHARGE ON (D162),NZ,3,Bay , Gelding,PPG,609210,Rios,A Tad Black,Istidaad,22/01/20,04,HV,"Turf""A""",1200,G,4,2,52,D J Hall,L Hewitson,11,127,1132,1.10.42,354
+493,CHARGE ON (D162),NZ,3,Bay , Gelding,PPG,609210,Rios,A Tad Black,Istidaad,11/01/20,06,ST,"Turf""A""",1200,G,4,2,52,D J Hall,L Hewitson,149,126,1138,1.10.01,323
+494,CENTENARY IBIS (D163),NZ,3,Bay , Gelding,PPG,0,Savabeel,Lego,O'Reilly,08/04/20,12,HV,"Turf""B""",1800,G,4,10,49,D J Whyte,V Borges,185,122,1064,1.53.44,555
+495,CENTENARY IBIS (D163),NZ,3,Bay , Gelding,PPG,0,Savabeel,Lego,O'Reilly,08/03/20,14,ST,"Turf""C""",1400,G,4,5,52,D J Whyte,K H Chan,297,120,1065,1.24.30,474
+496,CENTENARY IBIS (D163),NZ,3,Bay , Gelding,PPG,0,Savabeel,Lego,O'Reilly,16/02/20,13,ST,"Turf""A""",1200,G,4,13,52,D J Whyte,L Hewitson,158,125,1080,1.11.68,417
+497,DRAGON PRIDE (D164),AUS,3,Brown , Colt,PPG,0,Sebring,Lady Krovanh,Dehere,09/05/20,09,ST,"Turf""C""",1800,GF,4,14,43,A T Millard,M Chadwick,152,116,1062,1.48.41,645
+498,DRAGON PRIDE (D164),AUS,3,Brown , Colt,PPG,0,Sebring,Lady Krovanh,Dehere,03/05/20,13,ST,"Turf""B""",1400,GF,4,13,46,A T Millard,C Schofield,65,121,1067,1.23.02,629
+499,DRAGON PRIDE (D164),AUS,3,Brown , Colt,PPG,0,Sebring,Lady Krovanh,Dehere,12/04/20,07,ST,"Turf""C""",1200,G,4,4,48,A T Millard,C Schofield,21,121,1073,1.10.20,566
+500,DRAGON PRIDE (D164),AUS,3,Brown , Colt,PPG,0,Sebring,Lady Krovanh,Dehere,08/03/20,12,ST,"Turf""C""",1400,G,4,12,50,A T Millard,C Wong,125,120,1072,1.23.33,474
+501,DRAGON PRIDE (D164),AUS,3,Brown , Colt,PPG,0,Sebring,Lady Krovanh,Dehere,23/02/20,07,ST,"Turf""A+3""",1400,G,4,4,52,A T Millard,C Schofield,20,127,1076,1.23.14,440
+502,DRAGON PRIDE (D164),AUS,3,Brown , Colt,PPG,0,Sebring,Lady Krovanh,Dehere,27/01/20,06,ST,"Turf""B+2""",1000,G,4,10,52,A T Millard,T Piccone,170,125,1037,0.57.50,362
+503,PERFECT HARMONY (D166),NZ,3,Chestnut , Gelding,PPG,0,Shooting To Win,Rusalka,More Than Ready,06/05/20,10,HV,"Turf""B""",1650,GF,4,4,46,A S Cruz,H T Mo,57,117,1101,1.41.73,635
+504,PERFECT HARMONY (D166),NZ,3,Chestnut , Gelding,PPG,0,Shooting To Win,Rusalka,More Than Ready,15/04/20,10,HV,"Turf""C""",1650,G,4,6,48,A S Cruz,C Y Ho,15,121,1101,1.40.91,576
+505,PERFECT HARMONY (D166),NZ,3,Chestnut , Gelding,PPG,0,Shooting To Win,Rusalka,More Than Ready,25/03/20,07,HV,"Turf""A""",1200,G,4,11,50,A S Cruz,H N Wong,313,122,1106,1.10.74,523
+506,PERFECT HARMONY (D166),NZ,3,Chestnut , Gelding,PPG,0,Shooting To Win,Rusalka,More Than Ready,11/03/20,09,HV,"Turf""C""",1200,G,4,12,52,A S Cruz,K C Leung,85,125,1112,1.11.34,484
+507,PERFECT HARMONY (D166),NZ,3,Chestnut , Gelding,PPG,0,Shooting To Win,Rusalka,More Than Ready,26/02/20,08,HV,"Turf""A""",1200,G,4,3,52,A S Cruz,K C Leung,124,125,1118,1.10.33,446
+508,AMAZING ONE PLUS (D173),IRE,5,Chestnut , Gelding,PP,616000,Shamardal,Hazarafa,Daylami,09/05/20,02,ST,"Turf""C""",1400,GF,1,3,89,C S Shum,M F Poon,201,118,1113,1.21.08,649
+509,HEART CONQUERED (D174),AUS,4,Chestnut , Gelding,PP,517000,Akeed Mofeed,Heart To Fear,Show A Heart,03/05/20,12,ST,AWT,1200,GD,3,9,71,R Gibson,N Callan,31,126,1237,1.11.90,630
+510,HEART CONQUERED (D174),AUS,4,Chestnut , Gelding,PP,517000,Akeed Mofeed,Heart To Fear,Show A Heart,12/04/20,05,ST,"Turf""C""",1000,G,3,2,73,R Gibson,J Moreira,5.6,130,1234,0.56.93,571
+511,HEART CONQUERED (D174),AUS,4,Chestnut , Gelding,PP,517000,Akeed Mofeed,Heart To Fear,Show A Heart,29/03/20,04,ST,"Turf""A+3""",1000,G,3,14,75,R Gibson,C Wong,10,123,1230,0.56.80,533
+512,HEART CONQUERED (D174),AUS,4,Chestnut , Gelding,PP,517000,Akeed Mofeed,Heart To Fear,Show A Heart,01/03/20,04,ST,"Turf""B+2""",1000,G,3,11,77,R Gibson,N Callan,6.9,131,1229,0.56.67,459
+513,HEART CONQUERED (D174),AUS,4,Chestnut , Gelding,PP,517000,Akeed Mofeed,Heart To Fear,Show A Heart,12/02/20,12,HV,"Turf""C+3""",1000,GF,3,10,79,R Gibson,C Schofield,22,127,1218,0.57.05,413
+514,HEART CONQUERED (D174),AUS,4,Chestnut , Gelding,PP,517000,Akeed Mofeed,Heart To Fear,Show A Heart,15/01/20,05,HV,"Turf""C+3""",1000,G,3,5,80,R Gibson,S de Sousa,10,133,1214,0.57.13,340
+515,HEART CONQUERED (D174),AUS,4,Chestnut , Gelding,PP,517000,Akeed Mofeed,Heart To Fear,Show A Heart,01/01/20,03,ST,"Turf""C""",1000,G,2,5,80,R Gibson,H T Mo,20,110,1209,0.56.47,299
+516,COPARTNER SPIRIT (D175),AUS,4,Bay , Gelding,PP,0,I Am Invincible,You're Discreet,Elusive Quality,03/05/20,13,ST,"Turf""B""",1000,G,4,4,58,R Gibson,N Callan,309,131,1186,0.57.46,624
+517,COPARTNER SPIRIT (D175),AUS,4,Bay , Gelding,PP,0,I Am Invincible,You're Discreet,Elusive Quality,08/04/20,11,HV,"Turf""B""",1200,G,3,10,61,R Gibson,M L Yeung,217,115,1200,1.10.91,559
+518,COPARTNER SPIRIT (D175),AUS,4,Bay , Gelding,PP,0,I Am Invincible,You're Discreet,Elusive Quality,25/03/20,07,HV,"Turf""A""",1200,G,3,11,64,R Gibson,M F Poon,412,118,1202,1.10.46,524
+519,COPARTNER SPIRIT (D175),AUS,4,Bay , Gelding,PP,0,I Am Invincible,You're Discreet,Elusive Quality,12/02/20,12,HV,"Turf""C+3""",1200,GF,3,8,67,R Gibson,H T Mo,520,118,1205,1.12.94,416
+520,COPARTNER SPIRIT (D175),AUS,4,Bay , Gelding,PP,0,I Am Invincible,You're Discreet,Elusive Quality,27/01/20,13,ST,"Turf""B+2""",1200,G,3,12,69,R Gibson,H T Mo,522,119,1196,1.11.01,371
+521,COPARTNER SPIRIT (D175),AUS,4,Bay , Gelding,PP,0,I Am Invincible,You're Discreet,Elusive Quality,15/01/20,12,HV,"Turf""C+3""",1200,G,3,10,71,R Gibson,H T Mo,362,121,1216,1.10.80,341
+522,COPARTNER SPIRIT (D175),AUS,4,Bay , Gelding,PP,0,I Am Invincible,You're Discreet,Elusive Quality,21/12/19,13,ST,"Turf""A+3""",1000,G,3,3,71,R Gibson,N Callan,128,124,1221,0.58.42,272
+523,WELLINGTON (D176),AUS,3,Bay , Gelding,PPG,2204190,All Too Hard,Mihiri,More Than Ready,26/04/20,06,ST,"Turf""A""",1400,G,3,3,79,R Gibson,Z Purton,1.5,133,1173,1.22.03,607
+524,WELLINGTON (D176),AUS,3,Bay , Gelding,PPG,2204190,All Too Hard,Mihiri,More Than Ready,22/03/20,01,ST,"Turf""A""",1200,GF,3,12,69,R Gibson,Z Purton,1.7,123,1170,1.08.55,515
+525,WELLINGTON (D176),AUS,3,Bay , Gelding,PPG,2204190,All Too Hard,Mihiri,More Than Ready,16/02/20,01,ST,"Turf""A""",1200,G,3,13,63,R Gibson,A Badel,1.6,116,1179,1.09.77,425
+526,WELLINGTON (D176),AUS,3,Bay , Gelding,PPG,2204190,All Too Hard,Mihiri,More Than Ready,27/01/20,01,ST,"Turf""B+2""",1200,G,4,10,52,R Gibson,A Badel,5.9,124,1173,1.09.37,365
+527,EVAN ALMIGHTY (D178),AUS,3,Bay , Gelding,PPG,270760,Kuroshio,Miss Evangeline,Success Express,22/03/20,02,ST,"Turf""A""",1200,G,4,12,52,D J Whyte,J Moreira,3.2,127,1199,1.09.48,509
+528,EVAN ALMIGHTY (D178),AUS,3,Bay , Gelding,PPG,270760,Kuroshio,Miss Evangeline,Success Express,23/02/20,04,ST,"Turf""A+3""",1200,G,4,2,52,D J Whyte,J Moreira,4.7,126,1206,1.10.06,437
+529,JADE PHOENIX (D179),NZ,3,Brown , Gelding,PPG,468995,Per Incanto,Our Prized Rose,Prized,12/04/20,07,ST,"Turf""C""",1400,G,4,7,55,F C Lor,Z Purton,3.4,129,1132,1.22.48,569
+530,JADE PHOENIX (D179),NZ,3,Brown , Gelding,PPG,468995,Per Incanto,Our Prized Rose,Prized,29/03/20,05,ST,"Turf""A+3""",1200,G,4,4,55,F C Lor,J Moreira,1.8,129,1157,1.10.57,531
+531,JADE PHOENIX (D179),NZ,3,Brown , Gelding,PPG,468995,Per Incanto,Our Prized Rose,Prized,08/03/20,02,ST,"Turf""C""",1200,G,4,8,53,F C Lor,J Moreira,3.5,129,1150,1.09.87,476
+532,JADE PHOENIX (D179),NZ,3,Brown , Gelding,PPG,468995,Per Incanto,Our Prized Rose,Prized,16/02/20,03,ST,"Turf""A""",1200,G,4,4,53,F C Lor,J Moreira,2.8,126,1159,1.10.43,418
+533,JADE PHOENIX (D179),NZ,3,Brown , Gelding,PPG,468995,Per Incanto,Our Prized Rose,Prized,02/02/20,03,ST,"Turf""C""",1200,G,4,7,52,F C Lor,J Moreira,5,125,1167,1.10.02,382
+534,ETERNAL HARVEST (D180),AUS,3,Bay , Gelding,PPG,635785,Smart Missile,Hastily,Snitzel,19/04/20,05,ST,"Turf""C+3""",1200,G,3,4,61,P F Yiu,C Y Ho,7.1,116,1109,1.09.25,589
+535,ETERNAL HARVEST (D180),AUS,3,Bay , Gelding,PPG,635785,Smart Missile,Hastily,Snitzel,22/03/20,08,ST,"Turf""A""",1200,GF,3,2,61,P F Yiu,C Schofield,3.9,117,1114,1.09.54,515
+536,ETERNAL HARVEST (D180),AUS,3,Bay , Gelding,PPG,635785,Smart Missile,Hastily,Snitzel,01/03/20,01,ST,"Turf""B+2""",1200,G,4,5,52,P F Yiu,C Schofield,3.5,127,1120,1.09.44,457
+537,ETERNAL HARVEST (D180),AUS,3,Bay , Gelding,PPG,635785,Smart Missile,Hastily,Snitzel,27/01/20,05,ST,"Turf""B+2""",1000,G,4,4,52,P F Yiu,R Moore,5.1,125,1103,0.57.33,362
+538,LA YAKFI (D183),FR,4,Bay , Gelding,PP,50750,Makfi,Really Lovely,Galileo,05/04/20,05,ST,"Turf""B+2""",1200,G,3,9,76,C S Shum,M F Poon,236,130,1149,1.11.05,553
+539,LA YAKFI (D183),FR,4,Bay , Gelding,PP,50750,Makfi,Really Lovely,Galileo,22/03/20,13,ST,"Turf""A""",1400,GF,3,8,76,C S Shum,V Borges,124,129,1154,1.23.37,517
+540,NOBLE SOUL (D184),FR,,Chestnut , Gelding,PPG,0,Dragon Pulse,Regal Beauty,Rock Of Gibraltar,12/04/2020,06,ST,"Turf""C""",1000,G,GRIFFIN,6,--,R Gibson,N Callan,42,129,1016,1.01.16,563
+541,THE ROCK (D187),GB,4,Chestnut , Gelding,PP,166750,Dutch Art,Barynya,Pivotal,19/01/20,03,ST,"Turf""A+3""",1400,G,3,8,73,C Fownes,C Y Ho,17,126,1185,1.21.93,349
+542,SHANGHAI GRACE (D190),GB,4,Bay , Gelding,PP,0,Kyllachy,Lavinia's Grace,Green Desert,19/04/20,14,ST,AWT,1650,GD,3,8,66,Y S Tsui,T H So,290,117,1055,1.42.46,586
+543,SHANGHAI GRACE (D190),GB,4,Bay , Gelding,PP,0,Kyllachy,Lavinia's Grace,Green Desert,29/03/20,10,ST,"Turf""A+3""",1400,G,3,13,68,Y S Tsui,H N Wong,585,118,1043,1.24.11,534
+544,SHANGHAI GRACE (D190),GB,4,Bay , Gelding,PP,0,Kyllachy,Lavinia's Grace,Green Desert,01/03/20,11,ST,"Turf""B+2""",1200,G,3,3,68,Y S Tsui,H N Wong,469,120,1045,1.10.08,461
+545,GLORIOUS LOVER (D191),IRE,4,Bay , Gelding,PP,87000,Tamayuz,Love Match,Danehill Dancer,03/05/20,07,ST,"Turf""B""",1200,GF,3,8,72,Y S Tsui,H T Mo,32,122,1032,1.09.35,625
+546,GLORIOUS LOVER (D191),IRE,4,Bay , Gelding,PP,87000,Tamayuz,Love Match,Danehill Dancer,05/04/20,11,ST,"Turf""B+2""",1400,G,3,14,74,Y S Tsui,G van Niekerk,44,128,1024,1.23.81,554
+547,GLORIOUS LOVER (D191),IRE,4,Bay , Gelding,PP,87000,Tamayuz,Love Match,Danehill Dancer,08/03/20,08,ST,"Turf""C""",1600,G,3,6,76,Y S Tsui,Z Purton,9.4,129,1039,1.35.48,479
+548,GLORIOUS LOVER (D191),IRE,4,Bay , Gelding,PP,87000,Tamayuz,Love Match,Danehill Dancer,08/02/20,04,ST,"Turf""C+3""",1400,G,3,3,76,Y S Tsui,Z Purton,15,129,1029,1.21.91,406
+549,SMILING FACE (D192),GB,3,Bay , Gelding,PPG,374000,Acclamation,Enigmatique,Arcano,03/05/20,02,ST,"Turf""B""",1000,G,GRIFFIN,4,--,D J Whyte,J Moreira,1.7,129,1182,0.56.75,621
+550,SMILING FACE (D192),GB,3,Bay , Gelding,PPG,374000,Acclamation,Enigmatique,Arcano,12/04/20,02,ST,"Turf""C""",1000,G,GRIFFIN,2,--,D J Whyte,J Moreira,2.2,129,1180,0.59.02,563
+551,JUMBO ENGINE (D195),IRE,3,Bay , Gelding,PP,0,Epaulette,Shall We Tell,Intikhab,06/05/20,11,HV,"Turf""B""",1000,GF,3,9,64,D J Whyte,T H So,90,113,1161,0.58.37,637
+552,JUMBO ENGINE (D195),IRE,3,Bay , Gelding,PP,0,Epaulette,Shall We Tell,Intikhab,22/04/20,06,HV,"Turf""C+3""",1000,GY,3,9,66,D J Whyte,T H So,277,112,1162,0.58.31,601
+553,JUMBO ENGINE (D195),IRE,3,Bay , Gelding,PP,0,Epaulette,Shall We Tell,Intikhab,12/04/20,09,ST,"Turf""C""",1000,G,3,1,68,D J Whyte,T H So,208,118,1158,0.57.18,571
+554,JUMBO ENGINE (D195),IRE,3,Bay , Gelding,PP,0,Epaulette,Shall We Tell,Intikhab,18/03/20,12,HV,"Turf""C+3""",1200,G,3,10,70,D J Whyte,K C Leung,139,118,1149,1.11.17,507
+555,JUMBO ENGINE (D195),IRE,3,Bay , Gelding,PP,0,Epaulette,Shall We Tell,Intikhab,01/03/20,07,ST,"Turf""B+2""",1000,G,3,14,70,D J Whyte,K C Leung,95,119,1149,0.57.26,459
+556,WIND N GRASS (D197),IRE,4,Brown , Gelding,PP,511125,Lawman,Roystonea,Polish Precedent,09/05/20,03,ST,"Turf""C""",1200,GF,3,9,69,J Size,C Schofield,16,122,1096,1.09.36,647
+557,WIND N GRASS (D197),IRE,4,Brown , Gelding,PP,511125,Lawman,Roystonea,Polish Precedent,29/04/20,11,HV,"Turf""A""",1200,GF,3,8,71,J Size,J Moreira,9,124,1100,1.10.01,618
+558,WIND N GRASS (D197),IRE,4,Brown , Gelding,PP,511125,Lawman,Roystonea,Polish Precedent,15/04/20,05,HV,"Turf""C""",1200,G,3,7,72,J Size,C Schofield,23,125,1092,1.09.44,579
+559,WIND N GRASS (D197),IRE,4,Brown , Gelding,PP,511125,Lawman,Roystonea,Polish Precedent,01/04/20,09,ST,AWT,1200,WS,3,10,73,J Size,M Chadwick,21,130,1099,1.10.18,542
+560,WIND N GRASS (D197),IRE,4,Brown , Gelding,PP,511125,Lawman,Roystonea,Polish Precedent,25/03/20,03,HV,"Turf""A""",1200,G,3,3,73,J Size,G van Niekerk,7.7,129,1095,1.09.87,524
+561,WIND N GRASS (D197),IRE,4,Brown , Gelding,PP,511125,Lawman,Roystonea,Polish Precedent,11/03/20,03,HV,"Turf""C""",1200,G,3,4,72,J Size,J Moreira,16,127,1095,1.09.67,487
+562,WIND N GRASS (D197),IRE,4,Brown , Gelding,PP,511125,Lawman,Roystonea,Polish Precedent,16/02/20,08,ST,"Turf""A""",1200,G,3,7,74,J Size,G van Niekerk,29,127,1099,1.10.57,425
+563,WIND N GRASS (D197),IRE,4,Brown , Gelding,PP,511125,Lawman,Roystonea,Polish Precedent,02/02/20,07,ST,"Turf""C""",1200,G,3,5,76,J Size,J Moreira,39,130,1105,1.09.91,389
+564,WIND N GRASS (D197),IRE,4,Brown , Gelding,PP,511125,Lawman,Roystonea,Polish Precedent,11/01/20,14,ST,"Turf""A""",1400,G,3,2,78,J Size,A Badel,89,132,1087,1.22.76,331
+565,WIND N GRASS (D197),IRE,4,Brown , Gelding,PP,511125,Lawman,Roystonea,Polish Precedent,29/12/19,12,ST,"Turf""B+2""",1400,G,3,2,78,J Size,S de Sousa,5.1,133,1087,1.24.10,291
+566,PRECISE EXPRESS (D198),IRE,4,Brown , Gelding,PP,0,Tamayuz,Soviet Treat,Ashkalani,19/04/20,13,ST,AWT,1650,GD,3,5,72,P F Yiu,H W Lai,60,125,1016,1.42.07,586
+567,PRECISE EXPRESS (D198),IRE,4,Brown , Gelding,PP,0,Tamayuz,Soviet Treat,Ashkalani,22/03/20,12,ST,"Turf""A""",1400,GF,3,13,74,P F Yiu,Z Purton,8,127,1022,1.23.11,517
+568,PRECISE EXPRESS (D198),IRE,4,Brown , Gelding,PP,0,Tamayuz,Soviet Treat,Ashkalani,01/03/20,09,ST,"Turf""B+2""",1400,G,3,11,74,P F Yiu,H W Lai,165,128,1034,1.22.44,462
+569,LARSON (D199),AUS,3,Brown , Gelding,PP,2711500,Better Than Ready,La Tikka Rosa,Freeze,06/05/20,01,HV,"Turf""B""",1000,GF,3,12,76,J Moore,C Schofield,5.3,132,1000,0.56.49,637
+570,LARSON (D199),AUS,3,Brown , Gelding,PP,2711500,Better Than Ready,La Tikka Rosa,Freeze,22/04/20,02,HV,"Turf""C+3""",1000,GY,3,10,73,J Moore,Z Purton,2.6,126,996,0.57.76,601
+571,LARSON (D199),AUS,3,Brown , Gelding,PP,2711500,Better Than Ready,La Tikka Rosa,Freeze,08/04/20,01,HV,"Turf""B""",1000,G,3,9,67,J Moore,C Schofield,3.3,124,990,0.56.79,560
+572,LARSON (D199),AUS,3,Brown , Gelding,PP,2711500,Better Than Ready,La Tikka Rosa,Freeze,29/03/20,03,ST,"Turf""A+3""",1000,G,3,1,67,J Moore,K Teetan,7.4,120,989,0.56.69,533
+573,LARSON (D199),AUS,3,Brown , Gelding,PP,2711500,Better Than Ready,La Tikka Rosa,Freeze,22/03/20,02,ST,"Turf""A""",1200,GF,3,10,65,J Moore,V Borges,43,119,992,1.08.71,515
+574,LARSON (D199),AUS,3,Brown , Gelding,PP,2711500,Better Than Ready,La Tikka Rosa,Freeze,01/03/20,03,ST,"Turf""B+2""",1000,G,3,10,64,J Moore,L Hewitson,40,118,984,0.56.33,459
+575,LARSON (D199),AUS,3,Brown , Gelding,PP,2711500,Better Than Ready,La Tikka Rosa,Freeze,16/02/20,09,ST,"Turf""A""",1200,G,3,10,66,J Moore,L Hewitson,131,119,988,1.10.60,425
+576,LARSON (D199),AUS,3,Brown , Gelding,PP,2711500,Better Than Ready,La Tikka Rosa,Freeze,02/02/20,08,ST,"Turf""C""",1000,G,3,5,68,J Moore,N Callan,27,125,997,0.57.24,388
+577,LARSON (D199),AUS,3,Brown , Gelding,PP,2711500,Better Than Ready,La Tikka Rosa,Freeze,22/01/20,04,HV,"Turf""A""",1200,G,3,7,70,J Moore,N Callan,61,124,990,1.09.59,359
+578,LARSON (D199),AUS,3,Brown , Gelding,PP,2711500,Better Than Ready,La Tikka Rosa,Freeze,05/01/20,06,ST,"Turf""C+3""",1000,G,3,5,70,J Moore,N Callan,38,127,989,0.57.03,306
+579,ALL IN MIND (D200),AUS,3,Chestnut , Gelding,PP,1413750,Deep Field,Isabel Street,Dubawi,09/05/20,04,ST,"Turf""C""",1400,GF,3,5,81,A S Cruz,K Teetan,4.1,127,1191,1.21.63,650
+580,ALL IN MIND (D200),AUS,3,Chestnut , Gelding,PP,1413750,Deep Field,Isabel Street,Dubawi,12/04/20,07,ST,"Turf""C""",1400,G,2,11,81,A S Cruz,H N Wong,28,111,1203,1.21.27,573
+581,ALL IN MIND (D200),AUS,3,Chestnut , Gelding,PP,1413750,Deep Field,Isabel Street,Dubawi,22/03/20,01,ST,"Turf""A""",1400,GF,3,5,76,A S Cruz,N Callan,6.5,129,1200,1.21.98,517
+582,ALL IN MIND (D200),AUS,3,Chestnut , Gelding,PP,1413750,Deep Field,Isabel Street,Dubawi,08/03/20,03,ST,"Turf""C""",1200,G,3,3,76,A S Cruz,K Teetan,11,129,1197,1.09.38,482
+583,ALL IN MIND (D200),AUS,3,Chestnut , Gelding,PP,1413750,Deep Field,Isabel Street,Dubawi,23/02/20,03,ST,"Turf""A+3""",1200,G,3,11,75,A S Cruz,K Teetan,9.2,132,1191,1.09.86,439
+584,ALL IN MIND (D200),AUS,3,Chestnut , Gelding,PP,1413750,Deep Field,Isabel Street,Dubawi,27/01/20,10,ST,"Turf""B+2""",1200,G,3,5,75,A S Cruz,J Moreira,4.8,128,1170,1.10.42,371
+585,ALL IN MIND (D200),AUS,3,Chestnut , Gelding,PP,1413750,Deep Field,Isabel Street,Dubawi,05/01/20,03,ST,"Turf""C+3""",1000,G,3,1,74,A S Cruz,K Teetan,5,131,1188,0.56.56,306
+586,TOYCOON (D203),AUS,4,Bay , Gelding,PP,369750,Turffontein,Catskin,Catbird,26/04/20,10,ST,"Turf""A""",1400,G,3,1,74,P F Yiu,N Callan,12,128,1029,1.22.31,607
+587,TOYCOON (D203),AUS,4,Bay , Gelding,PP,369750,Turffontein,Catskin,Catbird,29/03/20,02,ST,"Turf""A+3""",1400,G,3,3,71,P F Yiu,N Callan,5.7,124,1030,1.22.42,534
+588,TOYCOON (D203),AUS,4,Bay , Gelding,PP,369750,Turffontein,Catskin,Catbird,14/03/20,05,ST,"Turf""C+3""",1400,G,3,5,71,P F Yiu,M Chadwick,44,124,1039,1.21.74,496
+589,TOYCOON (D203),AUS,4,Bay , Gelding,PP,369750,Turffontein,Catskin,Catbird,16/02/20,06,ST,"Turf""A""",1200,G,3,3,71,P F Yiu,H W Lai,96,126,1020,1.10.75,424
+590,QIPAO BOSS (D207),AUS,3,Bay , Colt,PPG,58020,Reward For Effort,Sylkat Eclipse,Dehere,03/05/20,10,ST,"Turf""B""",1000,G,4,2,48,D J Hall,C Y Ho,16,121,1072,0.56.87,624
+591,QIPAO BOSS (D207),AUS,3,Bay , Colt,PPG,58020,Reward For Effort,Sylkat Eclipse,Dehere,18/03/20,12,HV,"Turf""C+3""",1200,G,4,10,50,D J Hall,M F Poon,18,122,1065,1.11.35,502
+592,QIPAO BOSS (D207),AUS,3,Bay , Colt,PPG,58020,Reward For Effort,Sylkat Eclipse,Dehere,01/03/20,04,ST,"Turf""B+2""",1000,G,4,2,52,D J Hall,M F Poon,53,125,1064,0.56.71,454
+593,QIPAO BOSS (D207),AUS,3,Bay , Colt,PPG,58020,Reward For Effort,Sylkat Eclipse,Dehere,08/02/20,07,ST,"Turf""C+3""",1000,G,4,9,52,D J Hall,M F Poon,22,126,1060,0.57.75,399
+594,SMART WONGCHOY (D208),AUS,3,Bay , Gelding,PPG,0,Smart Missile,Serenade Lily,King's Best,18/03/20,12,HV,"Turf""C+3""",1200,G,4,10,52,D J Whyte,K Teetan,10,127,1084,1.11.74,505
+595,SMART WONGCHOY (D208),AUS,3,Bay , Gelding,PPG,0,Smart Missile,Serenade Lily,King's Best,08/02/20,11,ST,"Turf""C+3""",1000,G,4,7,52,D J Whyte,K Teetan,3.5,128,1099,0.58.55,399
+596,COBY BA (D212),AUS,4,Bay , Gelding,PP,0,Declaration Of War,Biscuit Biter,O'Reilly,26/04/20,13,ST,"Turf""A""",1600,G,3,2,63,K W Lui,H T Mo,246,113,1123,1.36.02,605
+597,COBY BA (D212),AUS,4,Bay , Gelding,PP,0,Declaration Of War,Biscuit Biter,O'Reilly,29/03/20,08,ST,"Turf""A+3""",1400,G,3,14,65,K W Lui,V Borges,416,118,1135,1.23.49,534
+598,COBY BA (D212),AUS,4,Bay , Gelding,PP,0,Declaration Of War,Biscuit Biter,O'Reilly,08/03/20,13,ST,"Turf""C""",1600,G,3,1,67,K W Lui,H N Wong,295,117,1137,1.37.24,479
+599,COBY BA (D212),AUS,4,Bay , Gelding,PP,0,Declaration Of War,Biscuit Biter,O'Reilly,23/02/20,10,ST,"Turf""A+3""",1600,G,3,14,69,K W Lui,C Y Ho,125,123,1152,1.35.93,444
+600,COBY BA (D212),AUS,4,Bay , Gelding,PP,0,Declaration Of War,Biscuit Biter,O'Reilly,08/02/20,13,ST,"Turf""C+3""",1400,G,3,11,69,K W Lui,H W Lai,386,122,1160,1.22.62,408
+601,SKY FIELD (D216),AUS,3,Chestnut , Gelding,PPG,58020,Deep Field,Laravissante,O'Reilly,22/01/20,04,HV,"Turf""A""",1000,G,4,11,52,C Fownes,C Y Ho,15,128,1202,0.57.30,356
+602,PARTY GENIUS (D217),AUS,3,Bay , Gelding,PPG,270760,Deep Field,Queen Of Quilts,Viscount,03/05/20,04,ST,"Turf""B""",1400,GF,4,12,53,D J Whyte,Z Purton,2.4,128,1144,1.21.91,629
+603,PARTY GENIUS (D217),AUS,3,Bay , Gelding,PPG,270760,Deep Field,Queen Of Quilts,Viscount,12/04/20,02,ST,"Turf""C""",1400,G,4,12,51,D J Whyte,Z Purton,3,125,1147,1.22.17,567
+604,PARTY GENIUS (D217),AUS,3,Bay , Gelding,PPG,270760,Deep Field,Queen Of Quilts,Viscount,22/03/20,06,ST,"Turf""A""",1400,G,4,12,52,D J Whyte,G van Niekerk,8,126,1140,1.22.07,512
+605,PARTY GENIUS (D217),AUS,3,Bay , Gelding,PPG,270760,Deep Field,Queen Of Quilts,Viscount,19/02/20,07,ST,AWT,1200,GD,4,8,52,D J Whyte,A Badel,2.7,126,1153,1.09.71,430
+606,BULLETPROOF (D219),NZ,3,Chestnut , Gelding,PPG,91865,Dissident,Tempting Delight,Northern Meteor,03/05/20,05,ST,"Turf""B""",1600,GF,4,14,50,P F Yiu,M F Poon,19,121,1045,1.34.86,627
+607,BULLETPROOF (D219),NZ,3,Chestnut , Gelding,PPG,91865,Dissident,Tempting Delight,Northern Meteor,12/04/20,04,ST,"Turf""C""",1400,G,4,1,50,P F Yiu,M F Poon,32,122,1050,1.22.33,567
+608,BULLETPROOF (D219),NZ,3,Chestnut , Gelding,PPG,91865,Dissident,Tempting Delight,Northern Meteor,01/03/20,10,ST,"Turf""B+2""",1400,G,4,7,52,P F Yiu,M Chadwick,31,127,1063,1.23.11,456
+609,BULLETPROOF (D219),NZ,3,Chestnut , Gelding,PPG,91865,Dissident,Tempting Delight,Northern Meteor,08/02/20,07,ST,AWT,1200,GD,4,10,52,P F Yiu,M Chadwick,83,125,1097,1.10.61,401
+610,GOLDEN LINK (D222),NZ,3,Bay , Gelding,PPG,0,Per Incanto,Kendoka,Reset,12/04/20,08,ST,"Turf""C""",1200,G,4,7,52,P F Yiu,M Chadwick,12,125,1019,1.10.21,566
+611,REGENCY MASTER (D225),NZ,3,Brown , Gelding,PPG,33845,Savabeel,Lady Chaparral,High Chaparral,12/04/20,10,ST,"Turf""C""",1400,G,4,8,48,C S Shum,K Teetan,20,122,1009,1.23.30,567
+612,REGENCY MASTER (D225),NZ,3,Brown , Gelding,PPG,33845,Savabeel,Lady Chaparral,High Chaparral,29/03/20,05,ST,"Turf""A+3""",1400,G,4,7,50,C S Shum,Z Purton,22,125,1028,1.23.23,530
+613,REGENCY MASTER (D225),NZ,3,Brown , Gelding,PPG,33845,Savabeel,Lady Chaparral,High Chaparral,08/03/20,09,ST,"Turf""C""",1400,G,4,5,52,C S Shum,N Callan,128,127,1032,1.23.30,477
+614,REGENCY MASTER (D225),NZ,3,Brown , Gelding,PPG,33845,Savabeel,Lady Chaparral,High Chaparral,16/02/20,10,ST,"Turf""A""",1200,G,4,11,52,C S Shum,K Teetan,40,125,1035,1.11.04,417
+615,GOOD LUCK MONEY (D227),NZ,3,Chestnut , Gelding,PPG,0,Swiss Ace,Ashima,Red Giant,01/04/20,11,ST,AWT,1200,WS,4,11,52,P F Yiu,B Shinn,17,126,1034,1.11.91,538
+616,GOOD LUCK FRIEND (D228),NZ,3,Bay , Gelding,PPG,821950,Swiss Ace,Maravilla,Postponed,26/04/20,02,ST,"Turf""A""",1200,G,4,12,60,P F Yiu,Z Purton,2.4,133,1147,1.09.41,604
+617,GOOD LUCK FRIEND (D228),NZ,3,Bay , Gelding,PPG,821950,Swiss Ace,Maravilla,Postponed,22/03/20,01,ST,"Turf""A""",1200,G,4,2,52,P F Yiu,Z Purton,2.5,125,1148,1.08.84,511
+618,GOOD LUCK FRIEND (D228),NZ,3,Bay , Gelding,PPG,821950,Swiss Ace,Maravilla,Postponed,08/03/20,04,ST,"Turf""C""",1200,G,4,1,52,P F Yiu,H W Lai,19,128,1157,1.10.02,476
+619,RUN THE TABLE (D229),AUS,3,Bay , Gelding,PPG,0,The Brothers War,Miss Cacciatore,Snitzel,09/05/20,10,ST,"Turf""C""",1200,GF,4,3,52,K W Lui,N Callan,58,125,1031,1.10.33,643
+620,RUN THE TABLE (D229),AUS,3,Bay , Gelding,PPG,0,The Brothers War,Miss Cacciatore,Snitzel,29/03/20,10,ST,"Turf""A+3""",1200,G,4,5,52,K W Lui,K C Leung,259,126,1040,1.11.48,531
+621,DAY DAY RICH (D231),AUS,3,Brown , Gelding,PP,0,Love Conquers All,La Zap,Elnadim,06/05/20,09,HV,"Turf""B""",1000,GF,3,8,70,T P Yung,M L Yeung,297,126,1041,0.57.90,637
+622,DAY DAY RICH (D231),AUS,3,Brown , Gelding,PP,0,Love Conquers All,La Zap,Elnadim,12/04/20,10,ST,"Turf""C""",1000,G,3,10,70,T P Yung,V Borges,59,127,1044,0.57.49,571
+623,ORIENTAL AMIGO (D232),AUS,4,Chestnut , Gelding,PP,0,More Than Ready,Gamble Me,Rock Of Gibraltar,09/05/20,09,ST,"Turf""C""",1200,GF,3,7,70,Y S Tsui,H T Mo,105,120,1045,1.09.90,647
+624,STREET SCREAM (D234),AUS,3,Bay ,,PP,0,Street Boss,La Kalima,Tuscany Flyer,03/05/20,11,ST,"Turf""B""",1400,GF,3,4,64,D J Hall,M Chadwick,105,118,1184,1.22.71,631
+625,STREET SCREAM (D234),AUS,3,Bay ,,PP,0,Street Boss,La Kalima,Tuscany Flyer,19/04/20,10,ST,AWT,1200,GD,3,6,66,D J Hall,M F Poon,89,117,1185,1.09.85,590
+626,STREET SCREAM (D234),AUS,3,Bay ,,PP,0,Street Boss,La Kalima,Tuscany Flyer,29/03/20,13,ST,"Turf""A+3""",1400,G,3,6,68,D J Hall,M F Poon,79,119,1192,1.25.27,534
+627,STREET SCREAM (D234),AUS,3,Bay ,,PP,0,Street Boss,La Kalima,Tuscany Flyer,11/03/20,10,HV,"Turf""C""",1200,G,3,8,68,D J Hall,M F Poon,97,121,1197,1.10.06,487
+628,SUPERB DADDY (D235),AUS,3,Bay , Gelding,PP,87000,Tavistock,Mygoodgrace,Royal Academy,06/05/20,08,HV,"Turf""B""",1200,GF,3,2,60,L Ho,C Wong,9.5,110,1093,1.09.79,639
+629,SUPERB DADDY (D235),AUS,3,Bay , Gelding,PP,87000,Tavistock,Mygoodgrace,Royal Academy,15/04/20,06,HV,"Turf""C""",1200,G,3,11,62,L Ho,M F Poon,34,113,1093,1.09.75,581
+630,SUPERB DADDY (D235),AUS,3,Bay , Gelding,PP,87000,Tavistock,Mygoodgrace,Royal Academy,22/03/20,09,ST,"Turf""A""",1400,GF,3,14,64,L Ho,C Wong,96,112,1091,1.22.46,517
+631,SUPERB DADDY (D235),AUS,3,Bay , Gelding,PP,87000,Tavistock,Mygoodgrace,Royal Academy,04/03/20,11,HV,"Turf""B""",1650,G,3,8,66,L Ho,Z Purton,7.4,120,1093,1.41.59,470
+632,SUPERB DADDY (D235),AUS,3,Bay , Gelding,PP,87000,Tavistock,Mygoodgrace,Royal Academy,12/02/20,06,HV,"Turf""C+3""",1650,GF,3,2,67,L Ho,A Badel,5,120,1080,1.39.54,414
+633,SUPERB DADDY (D235),AUS,3,Bay , Gelding,PP,87000,Tavistock,Mygoodgrace,Royal Academy,29/01/20,04,HV,"Turf""B""",1200,G,3,5,68,L Ho,T H So,48,121,1063,1.10.24,378
+634,SUPERB DADDY (D235),AUS,3,Bay , Gelding,PP,87000,Tavistock,Mygoodgrace,Royal Academy,08/01/20,06,HV,"Turf""C""",1200,G,3,6,68,L Ho,M L Yeung,61,121,1086,1.09.92,321
+635,PURE LEGEND (D237),AUS,3,Brown , Gelding,PP,0,Written Tycoon,Splendid Thing,Encosta de Lago,03/05/20,14,ST,"Turf""B""",1400,GF,3,8,68,C Fownes,K C Leung,45,122,1121,1.23.06,631
+636,PURE LEGEND (D237),AUS,3,Brown , Gelding,PP,0,Written Tycoon,Splendid Thing,Encosta de Lago,19/04/20,06,ST,"Turf""C+3""",1400,G,3,10,70,C Fownes,N Callan,174,124,1128,1.21.76,592
+637,PURE LEGEND (D237),AUS,3,Brown , Gelding,PP,0,Written Tycoon,Splendid Thing,Encosta de Lago,05/04/20,08,ST,"Turf""B+2""",1200,G,3,6,72,C Fownes,N Callan,218,125,1121,1.10.22,546
+638,PURE LEGEND (D237),AUS,3,Brown , Gelding,PP,0,Written Tycoon,Splendid Thing,Encosta de Lago,27/01/20,11,ST,"Turf""B+2""",1200,G,3,2,72,C Fownes,C Y Ho,65,125,1120,1.10.67,371
+639,GALACTIC (D238),AUS,3,Bay ,,PPG,145050,Deep Field,Darazani,Redoute's Choice,03/05/20,09,ST,"Turf""B""",1600,GF,4,6,53,D J Whyte,J Moreira,2.9,126,1211,1.35.55,627
+640,GALACTIC (D238),AUS,3,Bay ,,PPG,145050,Deep Field,Darazani,Redoute's Choice,12/04/20,03,ST,"Turf""C""",1400,G,4,14,52,D J Whyte,J Moreira,13,126,1209,1.22.14,569
+641,GALACTIC (D238),AUS,3,Bay ,,PPG,145050,Deep Field,Darazani,Redoute's Choice,22/03/20,05,ST,"Turf""A""",1200,G,4,5,52,D J Whyte,J Moreira,9.3,125,1191,1.09.59,511
+642,UNIVERSAL CROWN (D240),AUS,3,Bay , Gelding,PPG,0,Hallowed Crown,Only She Can,Marju,09/05/20,06,ST,"Turf""C""",1200,GF,4,8,52,D J Whyte,K Teetan,56,125,1081,1.09.86,643
+643,UNIVERSAL CROWN (D240),AUS,3,Bay , Gelding,PPG,0,Hallowed Crown,Only She Can,Marju,12/04/20,10,ST,"Turf""C""",1200,G,4,4,52,D J Whyte,J Moreira,14,127,1080,1.10.49,568
+644,FOR FUN'S SAKE (D242),AUS,3,Bay , Gelding,PPG,0,Manhattan Rain,Paradise Lost,Sadler's Wells,06/05/20,11,HV,"Turf""B""",1200,G,4,9,49,J Moore,V Borges,17,122,1038,1.10.71,632
+645,FOR FUN'S SAKE (D242),AUS,3,Bay , Gelding,PPG,0,Manhattan Rain,Paradise Lost,Sadler's Wells,22/04/20,10,HV,"Turf""C+3""",1200,G,4,2,50,J Moore,K C Leung,20,125,1030,1.11.28,594
+646,FOR FUN'S SAKE (D242),AUS,3,Bay , Gelding,PPG,0,Manhattan Rain,Paradise Lost,Sadler's Wells,25/03/20,08,HV,"Turf""A""",1000,G,4,11,52,J Moore,K C Leung,350,126,1027,0.58.17,521
+647,FOR FUN'S SAKE (D242),AUS,3,Bay , Gelding,PPG,0,Manhattan Rain,Paradise Lost,Sadler's Wells,14/03/20,12,ST,"Turf""C+3""",1200,G,4,8,52,J Moore,K C Leung,223,125,1029,1.10.98,492
+648,RESOLUTE (D243),NZ,3,Brown , Gelding,PPG,0,Per Incanto,Trigon Lass,Centaine,29/04/20,06,HV,"Turf""A""",1200,GF,4,9,50,A T Millard,V Borges,22,123,1160,1.10.69,615
+649,RESOLUTE (D243),NZ,3,Brown , Gelding,PPG,0,Per Incanto,Trigon Lass,Centaine,04/03/20,10,HV,"Turf""B""",1200,G,4,3,52,A T Millard,C Schofield,78,125,1171,1.11.27,466
+650,RESOLUTE (D243),NZ,3,Brown , Gelding,PPG,0,Per Incanto,Trigon Lass,Centaine,16/02/20,11,ST,"Turf""A""",1200,G,4,1,52,A T Millard,C Schofield,67,125,1165,1.11.32,418
+651,BOND A STAR (D244),AUS,3,Chestnut , Gelding,PPG,0,Starcraft,Savalook,Savabeel,26/04/20,13,ST,"Turf""A""",1200,G,4,8,52,C H Yip,T H So,196,123,1135,1.10.65,604
+652,FORTUNE HERO (D245),AUS,3,Chestnut , Gelding,PPG,0,Starspangledbanner,Pachelbel's Song,Encosta de Lago,06/05/20,12,HV,"Turf""B""",1200,G,4,8,50,D J Hall,M Chadwick,83,123,1132,1.10.96,632
+653,FORTUNE HERO (D245),AUS,3,Chestnut , Gelding,PPG,0,Starspangledbanner,Pachelbel's Song,Encosta de Lago,22/04/20,08,HV,"Turf""C+3""",1000,G,4,12,52,D J Hall,T H So,230,123,1133,0.58.63,597
+654,FORTUNE HERO (D245),AUS,3,Chestnut , Gelding,PPG,0,Starspangledbanner,Pachelbel's Song,Encosta de Lago,14/03/20,11,ST,"Turf""C+3""",1000,G,4,3,52,D J Hall,M Chadwick,14,126,1146,0.57.84,493
+655,SWEETLY BABY (D247),AUS,3,Chestnut , Gelding,PPG,0,Unencumbered,Tuckshop Princess,Dehere,26/04/20,12,ST,"Turf""A""",1400,G,4,8,48,C Fownes,C Y Ho,68,121,1179,1.23.02,602
+656,SWEETLY BABY (D247),AUS,3,Chestnut , Gelding,PPG,0,Unencumbered,Tuckshop Princess,Dehere,15/04/20,11,HV,"Turf""C""",1200,G,4,2,50,C Fownes,C Y Ho,31,123,1186,1.10.97,575
+657,SWEETLY BABY (D247),AUS,3,Chestnut , Gelding,PPG,0,Unencumbered,Tuckshop Princess,Dehere,22/03/20,09,ST,"Turf""A""",1200,G,4,13,52,C Fownes,C Y Ho,51,125,1182,1.09.95,511
+658,SWEETLY BABY (D247),AUS,3,Chestnut , Gelding,PPG,0,Unencumbered,Tuckshop Princess,Dehere,01/03/20,06,ST,"Turf""B+2""",1000,G,4,4,52,C Fownes,B Shinn,164,127,1187,0.56.84,454
+659,MANAGEMENT SUPREME (D248),AUS,3,Bay , Gelding,PPG,212740,Wandjina,Guelder,O'Reilly,29/04/20,02,HV,"Turf""A""",1200,GF,4,2,52,K W Lui,C Y Ho,40,125,1100,1.10.10,615
+660,MANAGEMENT SUPREME (D248),AUS,3,Bay , Gelding,PPG,212740,Wandjina,Guelder,O'Reilly,25/03/20,10,HV,"Turf""A""",1000,G,4,12,52,K W Lui,C Y Ho,212,126,1096,0.58.35,521
+661,BRIGHT VISION (D251),NZ,4,Bay , Gelding,PP,166750,O'Reilly,Shemiyra,In The Wings,26/04/20,13,ST,"Turf""A""",1200,G,3,4,68,P F Yiu,K C Leung,16,123,1133,1.10.30,603
+662,BRIGHT VISION (D251),NZ,4,Bay , Gelding,PP,166750,O'Reilly,Shemiyra,In The Wings,29/03/20,03,ST,"Turf""A+3""",1200,G,3,11,68,P F Yiu,K C Leung,145,121,1132,1.10.11,529
+663,BRIGHT VISION (D251),NZ,4,Bay , Gelding,PP,166750,O'Reilly,Shemiyra,In The Wings,08/03/20,11,ST,AWT,1200,GD,3,4,68,P F Yiu,C Wong,35,117,1123,1.10.80,478
+664,BLAZING CONNECTION (D253),NZ,3,Bay , Gelding,PPG,0,All Too Hard,Alluring Belle,Encosta de Lago,09/05/20,12,ST,"Turf""C""",1200,GF,4,7,52,Y S Tsui,H T Mo,264,122,1217,1.13.46,643
+665,ERIN CENTENARY (D254),NZ,3,Bay , Gelding,PPG,0,Dawn Approach,Macavity,Keeper,19/04/20,13,ST,"Turf""C+3""",1400,G,4,5,52,C S Shum,H W Lai,494,125,1181,1.25.23,588
+666,ERIN CENTENARY (D254),NZ,3,Bay , Gelding,PPG,0,Dawn Approach,Macavity,Keeper,22/03/20,10,ST,"Turf""A""",1200,G,4,13,52,C S Shum,K Teetan,166,127,1191,1.10.31,509
+667,SO AWESOME (D258),NZ,3,Bay , Gelding,PPG,0,Rip Van Winkle,Lion Blanc,Reset,09/05/20,07,ST,"Turf""C""",1200,GF,4,12,51,Y S Tsui,V Borges,128,126,1007,1.10.03,641
+668,SO AWESOME (D258),NZ,3,Bay , Gelding,PPG,0,Rip Van Winkle,Lion Blanc,Reset,29/03/20,08,ST,"Turf""A+3""",1200,G,4,3,52,Y S Tsui,V Borges,358,126,1001,1.11.41,531
+669,SO AWESOME (D258),NZ,3,Bay , Gelding,PPG,0,Rip Van Winkle,Lion Blanc,Reset,01/03/20,11,ST,"Turf""B+2""",1200,G,4,11,52,Y S Tsui,H T Mo,238,124,995,1.10.53,457
+670,SUPER MISSION (D262),NZ,3,Bay , Gelding,PPG,111205,Super Easy,Stars,Pentire,09/05/20,03,ST,"Turf""C""",1200,GF,4,9,52,P F Yiu,C Y Ho,9.2,127,1160,1.09.51,641
+671,SUPER MISSION (D262),NZ,3,Bay , Gelding,PPG,111205,Super Easy,Stars,Pentire,01/03/20,09,ST,"Turf""B+2""",1000,G,4,13,52,P F Yiu,H W Lai,19,127,1179,0.57.14,454
+672,FLASHCARD (D264),IRE,4,Chestnut , Gelding,PP,0,Fast Company,Portico,Pivotal,19/04/20,12,ST,AWT,1200,GD,2,7,85,A S Cruz,N Callan,252,122,1008,1.10.19,591
+673,FLASHCARD (D264),IRE,4,Chestnut , Gelding,PP,0,Fast Company,Portico,Pivotal,01/03/20,10,ST,"Turf""B+2""",1400,G,2,3,85,A S Cruz,B Shinn,58,123,1014,1.21.85,463
+674,KYRUS UNICORN (D267),IRE,4,Grey , Gelding,PP,0,Havana Gold,Zindana,Dalakhani,09/05/20,07,ST,"Turf""C""",1400,GF,3,14,85,C W Chang,B Shinn,312,131,1077,1.21.74,650
+675,KYRUS UNICORN (D267),IRE,4,Grey , Gelding,PP,0,Havana Gold,Zindana,Dalakhani,16/02/20,14,ST,"Turf""A""",1400,G,2,3,85,C W Chang,M L Yeung,137,121,1069,1.24.57,426
+676,GENEROUS CHARITY (D268),IRE,4,Chestnut , Gelding,PP,0,Rip Van Winkle,So Many Shots,Duke Of Marmalade,22/04/20,10,HV,"Turf""C+3""",2200,G,3,3,81,C S Shum,A Hamelin,30,133,1055,2.20.54,595
+677,GENEROUS CHARITY (D268),IRE,4,Chestnut , Gelding,PP,0,Rip Van Winkle,So Many Shots,Duke Of Marmalade,22/03/20,09,ST,"Turf""A""",2000,GF,3,7,83,C S Shum,K C Leung,277,131,1069,2.01.32,514
+678,GENEROUS CHARITY (D268),IRE,4,Chestnut , Gelding,PP,0,Rip Van Winkle,So Many Shots,Duke Of Marmalade,01/03/20,11,ST,"Turf""B+2""",1400,G,2,13,85,C S Shum,H T Mo,450,120,1066,1.22.10,463
+679,GENEROUS CHARITY (D268),IRE,4,Chestnut , Gelding,PP,0,Rip Van Winkle,So Many Shots,Duke Of Marmalade,29/01/20,12,HV,"Turf""B""",1650,G,2,6,85,C S Shum,N Callan,181,122,1071,1.41.10,380
+680,GAMEPLAYER TIMES (D269),BRZ,4,Bay , Colt,PP,50750,Put It Back,Tout Est Bien,Wild Event,09/05/20,05,ST,AWT,1650,GD,3,3,74,D J Whyte,C Schofield,25,127,1140,1.39.26,642
+681,GAMEPLAYER TIMES (D269),BRZ,4,Bay , Colt,PP,50750,Put It Back,Tout Est Bien,Wild Event,19/04/20,11,ST,"Turf""C+3""",1400,G,3,1,76,D J Whyte,B Shinn,78,130,1142,1.22.22,592
+682,GAMEPLAYER TIMES (D269),BRZ,4,Bay , Colt,PP,50750,Put It Back,Tout Est Bien,Wild Event,25/03/20,10,HV,"Turf""A""",1650,G,3,12,78,D J Whyte,C Wong,63,128,1147,1.41.86,525
+683,GAMEPLAYER TIMES (D269),BRZ,4,Bay , Colt,PP,50750,Put It Back,Tout Est Bien,Wild Event,08/03/20,06,ST,"Turf""C""",1600,G,3,2,80,D J Whyte,B Shinn,83,133,1148,1.35.43,479
+684,GAMEPLAYER TIMES (D269),BRZ,4,Bay , Colt,PP,50750,Put It Back,Tout Est Bien,Wild Event,23/02/20,07,ST,"Turf""A+3""",1400,G,3,2,80,D J Whyte,A Badel,64,133,1150,1.22.22,443
+685,CHANCHENG PRINCE (D270),USA,3,Grey , Colt,PPG,195500,Carpe Diem,Bliss,Flashy Bull,03/05/20,03,ST,"Turf""B""",1000,G,GRIFFIN,1,--,K W Lui,A Hamelin,4.7,129,1115,0.56.90,621
+686,CHANCHENG PRINCE (D270),USA,3,Grey , Colt,PPG,195500,Carpe Diem,Bliss,Flashy Bull,12/04/20,03,ST,"Turf""C""",1000,G,GRIFFIN,1,--,K W Lui,V Borges,17,129,1117,0.59.13,563
+687,KEEP YOU WARM (D272),IRE,3,Brown , Gelding,PP,0,No Nay Never,Dacio,Harlan's Holiday,09/05/20,08,ST,"Turf""C""",1200,GF,3,8,73,J Moore,V Borges,92,121,1118,1.09.81,647
+688,KEEP YOU WARM (D272),IRE,3,Brown , Gelding,PP,0,No Nay Never,Dacio,Harlan's Holiday,19/04/20,12,ST,"Turf""C+3""",1200,G,3,3,73,J Moore,M L Yeung,275,121,1132,1.11.56,589
+689,SUNNY STAR (D273),USA,3,Brown , Colt,PPG,484500,Flatter,Suzee Sunrise,Chester House,12/04/20,01,ST,"Turf""C""",1000,G,GRIFFIN,5,--,K W Lui,C Y Ho,6.5,129,1016,0.58.64,563
+690,CALIFORNIADEEPSHOT (D276),AUS,3,Chestnut , Colt,PP,1450000,Deep Field,Vormista,Testa Rossa,29/04/20,04,HV,"Turf""A""",1200,GF,3,11,80,A S Cruz,J Moreira,2.6,133,1185,1.09.86,620
+691,CALIFORNIADEEPSHOT (D276),AUS,3,Chestnut , Colt,PP,1450000,Deep Field,Vormista,Testa Rossa,15/04/20,02,HV,"Turf""C""",1200,G,3,9,79,A S Cruz,J Moreira,2.3,132,1182,1.09.31,579
+692,CALIFORNIADEEPSHOT (D276),AUS,3,Chestnut , Colt,PP,1450000,Deep Field,Vormista,Testa Rossa,18/03/20,WV,HV,"Turf""C+3""",1200,G,3,--,79,A S Cruz,J Moreira,--,132,--,--,507
+693,CALIFORNIADEEPSHOT (D276),AUS,3,Chestnut , Colt,PP,1450000,Deep Field,Vormista,Testa Rossa,26/02/20,03,HV,"Turf""A""",1200,G,3,3,79,A S Cruz,K C Leung,2.5,127,1167,1.09.49,453
+694,CALIFORNIADEEPSHOT (D276),AUS,3,Chestnut , Colt,PP,1450000,Deep Field,Vormista,Testa Rossa,12/02/20,05,HV,"Turf""C+3""",1200,GF,3,12,79,A S Cruz,K Teetan,3.4,133,1170,1.09.52,416
+695,CALIFORNIADEEPSHOT (D276),AUS,3,Chestnut , Colt,PP,1450000,Deep Field,Vormista,Testa Rossa,29/01/20,01,HV,"Turf""B""",1200,G,3,12,70,A S Cruz,K Teetan,6.1,125,1152,1.09.75,378
+696,PIANILLO (D277),AUS,3,Bay , Colt,PP,0,I Am Invincible,Ready To Rule,More Than Ready,03/05/20,14,ST,"Turf""B""",1200,GF,3,4,68,C H Yip,A Hamelin,17,121,1186,1.10.30,625
+697,GRATEFUL HEART (D278),AUS,3,Chestnut , Colt,PP,0,Written Tycoon,Show Affection,Show A Heart,06/05/20,06,HV,"Turf""B""",1000,GF,3,7,69,C S Shum,A Hamelin,13,125,1109,0.57.47,637
+698,GRATEFUL HEART (D278),AUS,3,Chestnut , Colt,PP,0,Written Tycoon,Show Affection,Show A Heart,29/03/20,11,ST,"Turf""A+3""",1000,G,3,4,71,C S Shum,Z Purton,3.8,124,1107,0.57.94,533
+699,GRATEFUL HEART (D278),AUS,3,Chestnut , Colt,PP,0,Written Tycoon,Show Affection,Show A Heart,23/02/20,08,ST,"Turf""A+3""",1200,G,3,4,71,C S Shum,G van Niekerk,4.2,128,1127,1.10.13,439
+700,DECISIVE TWELVE (D280),AUS,3,Brown , Gelding,PPG,435150,All Too Hard,Kamarla Rose,Nadeem,09/05/20,03,ST,"Turf""C""",1200,GF,4,10,54,W Y So,C Y Ho,5,127,1134,1.09.65,643
+701,DECISIVE TWELVE (D280),AUS,3,Brown , Gelding,PPG,435150,All Too Hard,Kamarla Rose,Nadeem,05/04/20,02,ST,"Turf""B+2""",1000,G,4,13,52,W Y So,C Y Ho,2.6,125,1127,0.57.27,545
+702,DECISIVE TWELVE (D280),AUS,3,Brown , Gelding,PPG,435150,All Too Hard,Kamarla Rose,Nadeem,01/03/20,03,ST,"Turf""B+2""",1000,G,4,9,52,W Y So,C Y Ho,3.7,127,1127,0.56.49,454
+703,MILLENNIUM FALCON (D281),NZ,3,Bay , Gelding,PPG,33845,Charm Spirit,Potions,Encosta de Lago,06/05/20,07,HV,"Turf""B""",1200,GF,4,11,52,W Y So,K Teetan,12,126,1107,1.10.70,636
+704,MILLENNIUM FALCON (D281),NZ,3,Bay , Gelding,PPG,33845,Charm Spirit,Potions,Encosta de Lago,08/04/20,05,HV,"Turf""B""",1200,G,4,7,52,W Y So,K Teetan,50,126,1106,1.10.48,558
+705,VALIANT ELEGANCE (D285),AUS,3,Chestnut , Gelding,PPG,0,Salade,Lolly Lover,Fusaichi Pegasus,05/04/20,07,ST,"Turf""B+2""",1000,G,4,2,52,D J Whyte,J Moreira,4.5,125,1088,0.57.67,545
+706,WISDOM PATCH (D289),AUS,4,Bay , Gelding,PP,0,Snitzel,Willow Creek,Tale Of The Cat,05/04/20,WV,ST,"Turf""B+2""",1200,G,3,--,68,C W Chang,B Shinn,--,124,--,--,553
+707,KINDA COOL (D297),NZ,3,Chestnut , Gelding,PPG,212740,Per Incanto,Virginia Key,Mark Of Esteem,03/05/20,02,ST,"Turf""B""",1000,G,4,10,52,F C Lor,Z Purton,4,125,1091,0.55.87,624
+708,SINCERE BOY (D318),GB,4,Chestnut , Gelding,PP,0,Exceed And Excel,Wahylah,Shamardal,09/05/20,11,ST,"Turf""C""",1400,GF,3,9,72,P F Yiu,M F Poon,244,116,1146,1.22.37,650
+709,SINCERE BOY (D318),GB,4,Chestnut , Gelding,PP,0,Exceed And Excel,Wahylah,Shamardal,03/05/20,13,ST,"Turf""B""",1200,GF,3,13,72,P F Yiu,H W Lai,74,125,1160,1.10.05,625
+710,LUMEN BABA (D322),IRE,3,Bay , Gelding,PP,0,Zoffany,Be My Queen,Sadler's Wells,03/05/20,10,ST,"Turf""B""",1200,GF,3,1,72,D J Whyte,C Schofield,38,120,1005,1.09.79,625
+711,KING'S HORN (D325),AUS,3,Chestnut , Gelding,PP,0,More Than Ready,Extension Of Time,Dash For Cash,01/04/20,12,ST,AWT,1200,WS,3,9,71,L Ho,M F Poon,225,126,1061,1.11.52,542
+712,KING'S HORN (D325),AUS,3,Chestnut , Gelding,PP,0,More Than Ready,Extension Of Time,Dash For Cash,14/03/20,10,ST,"Turf""C+3""",1200,G,3,4,71,L Ho,H T Mo,156,121,1047,1.10.17,499
+713,PERFECT TO GREAT (D327),AUS,3,Brown , Gelding,PP,0,Unencumbered,Half A Minute,Half Hennessy,26/04/20,12,ST,"Turf""A""",1200,G,3,12,73,C Fownes,N Callan,214,128,1169,1.10.29,603
+714,LIKE THAT (D328),AUS,2,Chestnut , Gelding,PPG,514250,Akeed Mofeed,Calemore,More Than Ready,03/05/20,01,ST,"Turf""B""",1000,G,GRIFFIN,2,--,J Moore,Z Purton,4.9,120,1117,0.56.66,621
+715,LIKE THAT (D328),AUS,2,Chestnut , Gelding,PPG,514250,Akeed Mofeed,Calemore,More Than Ready,12/04/20,05,ST,"Turf""C""",1000,G,GRIFFIN,3,--,J Moore,Z Purton,3.4,120,1120,0.59.44,563
+716,ILUVATAAR (D333),NZ,3,Bay , Gelding,PPG,0,Makfi,Attalla,Volksraad,09/05/20,08,ST,"Turf""C""",1200,GF,4,4,52,J Size,J Moreira,2.1,125,1077,1.10.08,643
+717,FUN LEGEND (D339),GB,4,Bay , Gelding,PP,0,Frankel,Body And Soul,Captain Rio,03/05/20,13,ST,"Turf""B""",1400,GF,3,13,72,R Gibson,M F Poon,172,124,1023,1.23.05,631
+718,BEAUTY SMILE (D347),IRE,3,Chestnut , Colt,PP,406000,Free Eagle,Pale Orchid,Invincible Spirit,26/04/20,04,ST,"Turf""A""",1400,G,3,12,82,A S Cruz,K Teetan,8.5,131,1105,1.21.75,607
+719,BEAUTY SMILE (D347),IRE,3,Chestnut , Colt,PP,406000,Free Eagle,Pale Orchid,Invincible Spirit,12/04/20,02,ST,"Turf""C""",1400,G,3,6,80,A S Cruz,Z Purton,12,130,1099,1.21.34,572
+720,SUPER COMMANDER (D350),SAF,3,Bay , Colt,PP,0,Vercingetorix,War Path,Captain Al,29/04/20,11,HV,"Turf""A""",1200,GF,3,2,80,A T Millard,K Teetan,24,133,1086,1.10.94,620
+721,SUPER DOBBIN (D352),SAF,3,Brown , Colt,PP,0,Wylie Hall,Vanilla Twilight,Qui Danzig,29/04/20,08,HV,"Turf""A""",1200,GF,3,9,80,A T Millard,K Teetan,27,133,1091,1.09.94,618
+722,SUPER TEN (D362),NZ,2,Chestnut , Colt,PPG,51000,Ocean Park,Pastrana,Fastnet Rock,03/05/20,04,ST,"Turf""B""",1000,G,GRIFFIN,3,--,D J Whyte,C Schofield,4.7,120,1230,0.56.96,621
+723,SACRED CAPITAL (D801),NZ,,Bay ,,VIS,568750,O'Reilly,Honolulu,Savabeel,27/01/2020,10,ST,"Turf""B+2""",1800,G,G3,7,110,J Lau,J Spencer,11,116,1148,1.47.21,364
+724,SACRED CAPITAL (D801),NZ,,Bay ,,VIS,568750,O'Reilly,Honolulu,Savabeel,08/01/2020,03,HV,"Turf""C""",1800,G,G3,4,111,J Lau,J Moreira,3.6,118,1147,1.48.37,319
+725,SACRED CAPITAL (D801),NZ,,Bay ,,VIS,568750,O'Reilly,Honolulu,Savabeel,03/11/2019,04,ST,"Turf""C+3""",1800,GF,G3,7,102,J Lau,W L Ho,31,115,1140,1.45.59,147
+726,DANON SMASH (D802),JPN,,Bay , Horse,VIS,0,Lord Kanaloa,Spinning Wildcat,Hard Spun,08/12/2019,08,ST,"Turf""A""",1200,G,G1,6,--,T Yasuda,L Dettori,28,126,1047,1.08.50,231
+727,IN HER TIME (D803),AUS,,Bay ,,VIS,0,Time Thief,Hell It's Hot,Zeditave,08/12/2019,WV,ST,"Turf""A""",1200,G,G1,--,--,K Lees,B Avdulla,--,122,--,--,231
+728,INDY CHAMP (D804),JPN,,Bay , Horse,VIS,0,Stay Gold,Will Power,King Kamehameha,08/12/2019,07,ST,"Turf""A""",1600,G,G1,3,--,H Otonashi,D Lane,2.9,126,1020,1.33.78,233
+729,ZAAKI (D805),GB,,Bay , Gelding,VIS,0,Leroidesanimaux,Kesara,Sadler's Wells,08/12/2019,08,ST,"Turf""A""",1600,G,G1,2,--,Sir M R Stoute,R Moore,130,126,1071,1.33.92,233
+730,ADMIRE MARS (D807),JPN,,Chestnut , Colt,VIS,14250000,Daiwa Major,Via Medici,Medicean,08/12/2019,01,ST,"Turf""A""",1600,G,G1,4,--,Y Tomomichi,C Soumillon,27,125,1039,1.33.25,233
+731,NORMCORE (D808),JPN,,Grey , Mare,VIS,1425000,Harbinger,Chronologist,Kurofune,08/12/2019,04,ST,"Turf""A""",1600,G,G1,9,--,K Hagiwara,C Lemaire,14,122,1031,1.33.56,233
+732,MAGIC WAND (D811),IRE,,Bay , Mare,VIS,6160000,Galileo,Prudenzia,Dansili,08/12/2019,02,ST,"Turf""A""",2000,G,G1,2,--,A P O'Brien,R Moore,5.9,122,1044,2.00.54,234
+733,EDISA (D812),USA,,Chestnut , Filly,VIS,924000,Kitten's Joy,Ebiyza,Rock Of Gibraltar,08/12/2019,05,ST,"Turf""A""",2000,G,G1,4,--,de Royer Dupre,S Pasquier,11,119,932,2.00.87,234
+734,GLORY VASE (D813),JPN,,Dark Bay , Horse,VIS,11400000,Deep Impact,Mejiro Tsubone,Swept Overboard,08/12/2019,01,ST,"Turf""A""",2400,G,G1,7,--,T Ozeki,J Moreira,8.2,126,985,2.24.77,230
+735,ASPETAR (D814),FR,,Bay , Gelding,VIS,0,Al Kazeem,Bella Qatara,Dansili,08/12/2019,13,ST,"Turf""A""",2400,G,G1,11,--,R Charlton,J Watson,43,126,943,2.27.14,230
+736,YOUNG RASCAL (D815),FR,,Bay , Gelding,VIS,0,Intello,Rock My Soul,Clodovil,08/12/2019,09,ST,"Turf""A""",2400,G,G1,10,--,W J Haggas,L Dettori,65,126,1023,2.26.72,230
+737,CALLED TO THE BAR (D816),IRE,,Bay , Gelding,VIS,660000,Henrythenavigator,Perfect Hedge,Unfuwain,08/12/2019,05,ST,"Turf""A""",2400,G,G1,4,--,P Brandt,M Guyon,84,126,1053,2.25.79,230
+738,LUCKY LILAC (D817),JPN,,Chestnut , Mare,VIS,4400000,Orfevre,Lilacs And Lace,Flower Alley,08/12/2019,02,ST,"Turf""A""",2400,G,G1,1,--,M Matsunaga,C Soumillon,9.9,122,1120,2.25.32,230
+739,TRUE SELF (D818),IRE,,Bay , Mare,VIS,0,Oscar,Good Thought,Mukaddamah,08/12/2019,07,ST,"Turf""A""",2400,G,G1,6,--,W P Mullins,K McEvoy,77,122,1002,2.25.96,230
+740,ANTHONY VAN DYCK (D819),IRE,,Bay , Colt,VIS,0,Galileo,Believe'N'Succeed,Exceed And Excel,08/12/2019,12,ST,"Turf""A""",2400,G,G1,12,--,A P O'Brien,R Moore,5.4,121,1036,2.27.03,230
+741,MOUNT EVEREST (D820),IRE,,Bay , Colt,VIS,0,Galileo,Six Perfections,Celtic Swing,08/12/2019,14,ST,"Turf""A""",2400,G,G1,13,--,A P O'Brien,W Lordan,38,121,1037,2.27.72,230
